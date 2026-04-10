@@ -1,0 +1,109 @@
+{
+  "articles": [
+    {
+      "url": "https://claude.com/blog/seeing-like-an-agent",
+      "title": "Seeing like an agent: how we design tools in Claude Code",
+      "date_str": "Apr 10, 2026",
+      "description": "Building Claude Code: How Anthropic designs and refines AI agent tools like AskUserQuestion and Task tool. The key is progressive disclosure and learning to \"see like an agent\" to maximize effectiveness.",
+      "date": "2026-04-10T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/multi-agent-coordination-patterns",
+      "title": "Multi-agent coordination patterns: Five approaches and when to use them",
+      "date_str": "Apr 10, 2026",
+      "description": "Five multi-agent coordination patterns, their trade-offs, and when to evolve from one to another.",
+      "date": "2026-04-10T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/the-advisor-strategy",
+      "title": "The advisor strategy: Give agents an intelligence boost",
+      "date_str": "Apr 9, 2026",
+      "description": "Pair Opus as an advisor with Sonnet or Haiku as an executor, and get Opus-level intelligence in your agents at a fraction of the cost.",
+      "date": "2026-04-09T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/cowork-for-enterprise",
+      "title": "Making Claude Cowork ready for enterprise",
+      "date_str": "Apr 9, 2026",
+      "description": "Claude Cowork is now generally available on all paid plans. Within companies, Claude Cowork has become a key part of how teams operate: handling tasks, drafting project deliverables, and keeping teams up to date.",
+      "date": "2026-04-09T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-managed-agents",
+      "title": "Claude Managed Agents: get to production 10x faster",
+      "date_str": "Apr 8, 2026",
+      "description": "Introducing Claude Managed Agents, a suite of composable APIs for building and deploying cloud-hosted agents at scale.",
+      "date": "2026-04-08T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/carta-healthcare-clinical-abstractor",
+      "title": "How Carta Healthcare gets AI to reason like a clinical abstractor",
+      "date_str": "Apr 8, 2026",
+      "description": "How Carta Healthcare used Claude and context engineering to build Lighthouse, a clinical abstraction platform reaching 99% accuracy across 22,000 cases a year.",
+      "date": "2026-04-08T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/subagents-in-claude-code",
+      "title": "How and when to use subagents in Claude Code",
+      "date_str": "Apr 7, 2026",
+      "description": "When to delegate research, parallelize tasks, or get a fresh review with Claude Code subagents—and when to stick with the main session.",
+      "date": "2026-04-07T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/harnessing-claudes-intelligence",
+      "title": "Harnessing Claude’s intelligence",
+      "date_str": "Apr 2, 2026",
+      "description": "Three patterns for building on the Claude Platform that keep pace with Claude's evolving intelligence while balancing latency and cost.",
+      "date": "2026-04-02T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-platform-compliance-api",
+      "title": "Audit Claude Platform activity with the Compliance API",
+      "date_str": "Mar 30, 2026",
+      "description": "The Compliance API gives admins programmatic access to audit logs across their Claude Platform organization.",
+      "date": "2026-03-30T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/auto-mode",
+      "title": "Auto mode for Claude Code",
+      "date_str": "Mar 24, 2026",
+      "description": "Auto mode lets Claude Code make permission decisions with built-in safeguards — fewer interruptions than default, less risk than skipping permissions.",
+      "date": "2026-03-24T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/dispatch-and-computer-use",
+      "title": "Put Claude to work on your computer",
+      "date_str": "Mar 23, 2026",
+      "description": "Claude now opens your apps, navigates your browser, and runs your dev tools to complete tasks. Assign from your phone with Dispatch. Research preview on macOS.",
+      "date": "2026-03-23T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/product-management-on-the-ai-exponential",
+      "title": "Product management on the AI exponential",
+      "date_str": "Mar 19, 2026",
+      "description": "Claude Code’s Head of Product Cat Wu shares how teams should rethink their workflows and roadmaps in the face of rapidly evolving model intelligence.",
+      "date": "2026-03-19T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/code-with-claude-san-francisco-london-tokyo",
+      "title": "Code with Claude comes to San Francisco, London, and Tokyo",
+      "date_str": "Mar 18, 2026",
+      "description": "Technical sessions, live demos of new capabilities, and office hours with Anthropic engineers—watch live or apply to attend.",
+      "date": "2026-03-18T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/1m-context-ga",
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "date_str": "Mar 13, 2026",
+      "description": "Standard pricing now applies across the full 1M window for both models, with no long-context premium. Media limits expand to 600 images or PDF pages.",
+      "date": "2026-03-13T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-builds-visuals",
+      "title": "Claude now creates interactive charts, diagrams and visualizations",
+      "date_str": "Mar 12, 2026",
+      "description": "Ask Claude to explain a concept or analyze your data, and it can respond with interactive charts, diagrams, and visualizations — rendered inline as part of the conversation.",
+      "date": "2026-03-12T00:00:00+00:00"
+    }
+  ]
+}
