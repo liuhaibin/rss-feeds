@@ -1,4 +1,4 @@
-name: Update Claude Blog RSS Feed
+name: Update RSS Feeds
 
 on:
   schedule:
@@ -8,8 +8,8 @@ on:
     inputs:
       max_pages:
         description: >
-          Number of listing pages to scrape.
-          Use a higher value (e.g. 5) for the initial seed run.
+          Number of listing pages to scrape per feed.
+          Use a higher value (e.g. 5) for a full backfill run.
         required: false
         default: '1'
 
@@ -20,9 +20,23 @@ jobs:
     permissions:
       contents: write
 
+    strategy:
+      matrix:
+        config:
+          - configs/claude-blog.json
+          - configs/anthropic-engineering.json
+      # Run feeds sequentially to avoid git push conflicts
+      max-parallel: 1
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Always pull latest so sequential jobs don't overwrite each other's commits
+          ref: ${{ github.ref }}
+
+      - name: Pull latest changes
+        run: git pull --rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -36,14 +50,14 @@ jobs:
       - name: Run scraper
         env:
           MAX_PAGES: ${{ github.event.inputs.max_pages || '1' }}
-        run: python scraper/scrape.py
+        run: python scraper/scrape.py --config ${{ matrix.config }}
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feeds/claude-blog.xml state/seen.json
+          git add feeds/ state/
           git diff --staged --quiet || (
-            git commit -m "chore: update Claude Blog RSS feed [skip ci]" &&
+            git commit -m "chore: update RSS feeds [skip ci]" &&
             git push
           )

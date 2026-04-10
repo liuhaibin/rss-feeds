@@ -524,6 +524,13 @@
       "date_str": "Sep 24, 2025",
       "description": "Today, Microsoft announced that Claude models are now available in Microsoft 365 Copilot, bringing Claude to millions of enterprise users through Microsoft's productivity platform.",
       "date": "2025-09-24T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense",
+      "title": "Preparing your security program for AI-accelerated offense",
+      "date_str": "Apr 10, 2026",
+      "description": "We share our initial set of recommendations to shore up your defenses based on our own findings and security practices.",
+      "date": "2026-04-10T00:00:00+00:00"
     }
   ]
 }

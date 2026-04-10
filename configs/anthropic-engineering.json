@@ -1,0 +1,12 @@
+{
+  "id": "anthropic-engineering",
+  "scraper_type": "anthropic_engineering",
+  "listing_url": "https://www.anthropic.com/engineering",
+  "base_url": "https://www.anthropic.com",
+  "feed_title": "Engineering at Anthropic",
+  "feed_description": "Inside the team building reliable AI systems.",
+  "feed_language": "en",
+  "pagination_param": null,
+  "output_file": "feeds/anthropic-engineering.xml",
+  "state_file": "state/anthropic-engineering.json"
+}

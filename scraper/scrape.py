@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
-"""Scrape claude.com/blog and generate RSS 2.0 feed.
+"""Config-driven blog scraper and RSS 2.0 feed generator.
 
-State is persisted in state/seen.json so only new articles are processed
-on subsequent runs. The full feed is regenerated from state on every run.
+Usage:
+  python scraper/scrape.py --config configs/claude-blog.json
+  python scraper/scrape.py --config configs/anthropic-engineering.json
 
 Environment variables:
   MAX_PAGES  Number of listing pages to scrape (default: 1).
              Set to a higher value (e.g. 5) for the initial seed run.
 """
 
+import argparse
 import json
 import os
 import sys
@@ -20,10 +22,6 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
-BASE_URL = "https://claude.com"
-BLOG_URL = "https://claude.com/blog"
-STATE_FILE = Path("state/seen.json")
-FEED_FILE = Path("feeds/claude-blog.xml")
 MAX_PAGES = int(os.environ.get("MAX_PAGES", "1"))
 
 HEADERS = {
@@ -39,15 +37,15 @@ HEADERS = {
 # State helpers
 # ---------------------------------------------------------------------------
 
-def load_state() -> dict:
-    if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+def load_state(state_file: Path) -> dict:
+    if state_file.exists():
+        return json.loads(state_file.read_text(encoding="utf-8"))
     return {"articles": []}
 
 
-def save_state(state: dict) -> None:
-    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(
+def save_state(state: dict, state_file: Path) -> None:
+    state_file.parent.mkdir(parents=True, exist_ok=True)
+    state_file.write_text(
         json.dumps(state, indent=2, ensure_ascii=False),
         encoding="utf-8",
     )
@@ -58,7 +56,7 @@ def save_state(state: dict) -> None:
 # ---------------------------------------------------------------------------
 
 def parse_date(date_str: str) -> datetime:
-    """Parse 'Apr 10, 2026' or 'March 12, 2026' → UTC datetime."""
+    """Parse 'Apr 10, 2026' or 'March 12, 2026' -> UTC datetime."""
     date_str = date_str.strip()
     for fmt in ("%b %d, %Y", "%B %d, %Y"):
         try:
@@ -69,29 +67,23 @@ def parse_date(date_str: str) -> datetime:
 
 
 # ---------------------------------------------------------------------------
-# Scraping
+# Listing page parsers (one per scraper_type)
 # ---------------------------------------------------------------------------
 
-def scrape_listing_page(url: str) -> list[dict]:
-    """Return list of {url, title, date_str} from a blog listing page."""
-    resp = requests.get(url, headers=HEADERS, timeout=30)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
-
+def parse_claude_blog(soup: BeautifulSoup, base_url: str) -> list[dict]:
+    """Parse https://claude.com/blog listing page."""
     articles: list[dict] = []
     seen_urls: set[str] = set()
 
     def add(href: str, title: str, date_str: str) -> None:
         if not href.startswith("/blog/") or href.rstrip("/") == "/blog":
             return
-        full_url = BASE_URL + href
+        full_url = base_url + href
         if full_url not in seen_urls:
             seen_urls.add(full_url)
             articles.append({"url": full_url, "title": title, "date_str": date_str})
 
-    # --- Hero / carousel section -------------------------------------------
-    # Structure: div.card_blog_content holds date + title; the anchor
-    # (a.clickable_link) is a sibling inside the same parent wrapper.
+    # Hero / carousel section
     for card in soup.find_all("div", class_="card_blog_content"):
         date_el = card.find(
             "div", class_=lambda c: c and "u-text-style-caption" in c.split()
@@ -99,37 +91,72 @@ def scrape_listing_page(url: str) -> list[dict]:
         title_el = card.find(
             "div", class_=lambda c: c and "card_blog_title" in c.split()
         )
-        link_el = card.parent.find(
-            "a", class_=lambda c: c and "clickable_link" in c.split()
-        ) if card.parent else None
-
+        link_el = (
+            card.parent.find("a", class_=lambda c: c and "clickable_link" in c.split())
+            if card.parent
+            else None
+        )
         if date_el and title_el and link_el:
-            add(
-                link_el.get("href", ""),
-                title_el.get_text(strip=True),
-                date_el.get_text(strip=True),
-            )
+            add(link_el.get("href", ""), title_el.get_text(strip=True), date_el.get_text(strip=True))
 
-    # --- Main grid listing section ------------------------------------------
-    # Structure: div.card_blog_list_wrap holds h3.card_blog_list_title,
-    # div[fs-list-field="date"] (hidden), and a.clickable_link.
+    # Main grid listing section
     for wrap in soup.find_all("div", class_="card_blog_list_wrap"):
         title_el = wrap.find(
             "h3", class_=lambda c: c and "card_blog_list_title" in c.split()
         )
         date_el = wrap.find("div", attrs={"fs-list-field": "date"})
-        link_el = wrap.find(
-            "a", class_=lambda c: c and "clickable_link" in c.split()
-        )
-
+        link_el = wrap.find("a", class_=lambda c: c and "clickable_link" in c.split())
         if title_el and date_el and link_el:
-            add(
-                link_el.get("href", ""),
-                title_el.get_text(strip=True),
-                date_el.get_text(strip=True),
-            )
+            add(link_el.get("href", ""), title_el.get_text(strip=True), date_el.get_text(strip=True))
 
     return articles
+
+
+def parse_anthropic_engineering(soup: BeautifulSoup, base_url: str) -> list[dict]:
+    """Parse https://www.anthropic.com/engineering listing page."""
+    articles: list[dict] = []
+    seen_urls: set[str] = set()
+
+    for article in soup.find_all("article", class_=lambda c: c and "ArticleList" in (c or "")):
+        link_el = article.find("a", class_=lambda c: c and "cardLink" in (c or ""))
+        if not link_el:
+            continue
+        href = link_el.get("href", "")
+        if not href.startswith("/engineering/"):
+            continue
+        full_url = base_url + href
+        if full_url in seen_urls:
+            continue
+        seen_urls.add(full_url)
+
+        title_el = link_el.find(["h2", "h3"])
+        title = title_el.get_text(strip=True) if title_el else ""
+
+        # Date div has __date in its CSS module class name
+        date_el = link_el.find("div", class_=lambda c: c and "__date" in (c or ""))
+        date_str = date_el.get_text(strip=True) if date_el else ""
+
+        if title:
+            articles.append({"url": full_url, "title": title, "date_str": date_str})
+
+    return articles
+
+
+PARSERS = {
+    "claude_blog": parse_claude_blog,
+    "anthropic_engineering": parse_anthropic_engineering,
+}
+
+
+# ---------------------------------------------------------------------------
+# Scraping
+# ---------------------------------------------------------------------------
+
+def scrape_listing_page(url: str, scraper_type: str, base_url: str) -> list[dict]:
+    resp = requests.get(url, headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+    return PARSERS[scraper_type](soup, base_url)
 
 
 def get_description(url: str) -> str:
@@ -147,22 +174,50 @@ def get_description(url: str) -> str:
     return ""
 
 
+def get_article_date(url: str) -> str:
+    """Fetch article page and extract publish date when listing page omits it."""
+    import re
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for attrs in (
+            {"property": "article:published_time"},
+            {"name": "publish_date"},
+            {"name": "date"},
+        ):
+            meta = soup.find("meta", attrs=attrs)
+            if meta and meta.get("content"):
+                return meta["content"].strip()
+        # Fallback: scan visible text for a date pattern
+        m = re.search(
+            r'\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2},\s+\d{4}\b',
+            soup.get_text(),
+        )
+        if m:
+            return m.group()
+    except Exception as exc:
+        print(f"  Warning: could not fetch date for {url}: {exc}", file=sys.stderr)
+    return ""
+
+
 # ---------------------------------------------------------------------------
 # Feed generation
 # ---------------------------------------------------------------------------
 
-def generate_feed(articles: list[dict]) -> None:
-    """Regenerate the full RSS feed from the article list (newest first)."""
-    FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
+def generate_feed(articles: list[dict], cfg: dict) -> None:
+    output_file = Path(cfg["output_file"])
+    output_file.parent.mkdir(parents=True, exist_ok=True)
 
     fg = FeedGenerator()
-    fg.id(BLOG_URL)
-    fg.title("Claude Blog")
-    fg.link(href=BLOG_URL, rel="alternate")
-    fg.description("Product news and best practices for teams building with Claude.")
-    fg.language("en")
+    fg.id(cfg["listing_url"])
+    fg.title(cfg["feed_title"])
+    fg.link(href=cfg["listing_url"], rel="alternate")
+    fg.description(cfg["feed_description"])
+    fg.language(cfg["feed_language"])
     fg.lastBuildDate(datetime.now(timezone.utc))
 
+    # feedgen reverses entries when writing, so sort ascending to get newest-first output
     sorted_articles = sorted(articles, key=lambda a: a["date"])
 
     for art in sorted_articles:
@@ -174,8 +229,8 @@ def generate_feed(articles: list[dict]) -> None:
         fe.updated(art["date"])
         fe.description(art["description"] or art["title"])
 
-    fg.rss_file(str(FEED_FILE), pretty=True)
-    print(f"Feed written to {FEED_FILE} ({len(sorted_articles)} entries)")
+    fg.rss_file(str(output_file), pretty=True)
+    print(f"Feed written to {output_file} ({len(sorted_articles)} entries)")
 
 
 # ---------------------------------------------------------------------------
@@ -183,18 +238,29 @@ def generate_feed(articles: list[dict]) -> None:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    state = load_state()
+    arg_parser = argparse.ArgumentParser(description="Scrape a blog and update its RSS feed.")
+    arg_parser.add_argument("--config", required=True, help="Path to feed config JSON file")
+    args = arg_parser.parse_args()
+
+    cfg = json.loads(Path(args.config).read_text(encoding="utf-8"))
+    state_file = Path(cfg["state_file"])
+    state = load_state(state_file)
     known_urls: set[str] = {a["url"] for a in state["articles"]}
 
-    print(f"State has {len(known_urls)} known articles.")
-    print(f"Scraping up to {MAX_PAGES} listing page(s)...")
+    print(f"[{cfg['id']}] State has {len(known_urls)} known articles.")
+    print(f"[{cfg['id']}] Scraping up to {MAX_PAGES} listing page(s)...")
 
     new_articles: list[dict] = []
+    pagination_param = cfg.get("pagination_param")
 
     for page_num in range(1, MAX_PAGES + 1):
-        page_url = BLOG_URL if page_num == 1 else f"{BLOG_URL}?b7eea976_page={page_num}"
+        if page_num == 1 or not pagination_param:
+            page_url = cfg["listing_url"]
+        else:
+            page_url = f"{cfg['listing_url']}?{pagination_param}={page_num}"
+
         print(f"  Fetching: {page_url}")
-        page_articles = scrape_listing_page(page_url)
+        page_articles = scrape_listing_page(page_url, cfg["scraper_type"], cfg["base_url"])
         print(f"  Found {len(page_articles)} articles on page {page_num}")
 
         found_new = False
@@ -204,33 +270,37 @@ def main() -> None:
                 new_articles.append(art)
                 known_urls.add(art["url"])
 
-        # Stop paginating once a page contains only known articles
         if not found_new and page_num > 1:
-            print("  All articles on this page already known — stopping pagination.")
+            print("  All articles on this page already known -- stopping pagination.")
             break
 
-        if page_num < MAX_PAGES:
+        if page_num < MAX_PAGES and pagination_param:
             time.sleep(1)
 
     if not new_articles:
-        print("No new articles found.")
+        print(f"[{cfg['id']}] No new articles found.")
     else:
-        print(f"\nFound {len(new_articles)} new article(s). Fetching descriptions...")
+        print(f"\n[{cfg['id']}] Found {len(new_articles)} new article(s). Fetching details...")
         for art in new_articles:
             print(f"  {art['title'][:70]}")
             art["description"] = get_description(art["url"])
+
+            if not art["date_str"]:
+                art["date_str"] = get_article_date(art["url"])
+
             try:
                 art["date"] = parse_date(art["date_str"]).isoformat()
             except ValueError as exc:
-                print(f"  Warning: {exc}", file=sys.stderr)
+                print(f"  Warning: {exc} -- using today's date", file=sys.stderr)
                 art["date"] = datetime.now(timezone.utc).isoformat()
+
             time.sleep(0.5)
 
         state["articles"].extend(new_articles)
-        save_state(state)
-        print(f"\nState updated with {len(new_articles)} new article(s).")
+        save_state(state, state_file)
+        print(f"\n[{cfg['id']}] State updated with {len(new_articles)} new article(s).")
 
-    # Always regenerate the feed so it reflects current state
+    # Always regenerate feed from full state
     feed_articles = []
     for art in state["articles"]:
         dt = datetime.fromisoformat(art["date"])
@@ -245,7 +315,7 @@ def main() -> None:
             }
         )
 
-    generate_feed(feed_articles)
+    generate_feed(feed_articles, cfg)
 
 
 if __name__ == "__main__":

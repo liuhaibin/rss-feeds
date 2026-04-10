@@ -7,8 +7,9 @@ Scrapes tech blogs that don't provide native RSS and generates RSS 2.0 feeds, au
 | Blog | RSS Feed |
 |------|----------|
 | [Claude Blog](https://claude.com/blog) | [feeds/claude-blog.xml](https://raw.githubusercontent.com/liuhaibin/rss-feeds/refs/heads/main/feeds/claude-blog.xml) |
+| [Engineering at Anthropic](https://www.anthropic.com/engineering) | [feeds/anthropic-engineering.xml](https://raw.githubusercontent.com/liuhaibin/rss-feeds/refs/heads/main/feeds/anthropic-engineering.xml) |
 
-Paste the feed URL into any RSS reader (Reeder, NetNewsWire, Feedly, etc.).
+Paste a feed URL into any RSS reader (Reeder, NetNewsWire, Feedly, etc.).
 
 ## How It Works
 
@@ -21,15 +22,20 @@ Paste the feed URL into any RSS reader (Reeder, NetNewsWire, Feedly, etc.).
 
 ```
 .
+├── configs/
+│   ├── claude-blog.json                 # feed config for claude.com/blog
+│   └── anthropic-engineering.json       # feed config for anthropic.com/engineering
 ├── scraper/
-│   └── scrape.py                        # scraper + feed generator
+│   └── scrape.py                        # config-driven scraper + feed generator
 ├── feeds/
-│   └── claude-blog.xml                  # generated RSS 2.0 feed
+│   ├── claude-blog.xml                  # generated RSS 2.0 feed
+│   └── anthropic-engineering.xml        # generated RSS 2.0 feed
 ├── state/
-│   └── seen.json                        # persists seen article URLs
+│   ├── claude-blog.json                 # persists seen article URLs
+│   └── anthropic-engineering.json       # persists seen article URLs
 ├── .github/
 │   └── workflows/
-│       └── update-claude-blog-feed.yml  # scheduled GitHub Actions workflow
+│       └── update-feeds.yml             # scheduled GitHub Actions workflow
 └── requirements.txt
 ```
 
@@ -41,16 +47,17 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
-# Run the scraper (checks 1 listing page by default)
-python scraper/scrape.py
+# Run a specific feed (checks 1 listing page by default)
+python scraper/scrape.py --config configs/claude-blog.json
+python scraper/scrape.py --config configs/anthropic-engineering.json
 
 # Seed with more history (checks first 5 pages)
-MAX_PAGES=5 python scraper/scrape.py
+MAX_PAGES=5 python scraper/scrape.py --config configs/claude-blog.json
 ```
 
 ## GitHub Actions
 
-The workflow in `.github/workflows/update-claude-blog-feed.yml` runs automatically every 6 hours. It only creates a commit when new articles are found.
+The workflow in `.github/workflows/update-feeds.yml` runs automatically every 6 hours. It uses a matrix strategy to process each feed config sequentially, committing only when new articles are found.
 
 ### First-time Setup
 
@@ -72,14 +79,14 @@ You can run the workflow at any time from the GitHub UI:
 
 1. Open your repository on GitHub.
 2. Click the **Actions** tab.
-3. Select **Update Claude Blog RSS Feed** from the left sidebar.
+3. Select **Update RSS Feeds** from the left sidebar.
 4. Click **Run workflow** (top-right of the workflow runs table).
 5. Set **max_pages** to a higher number (e.g. `5`) for a full backfill, or leave it at `1` for a quick check.
 6. Click the green **Run workflow** button.
 
 ### Scheduled Runs
 
-The default cron schedule is every 6 hours (`0 */6 * * *`). To change the frequency, edit the `cron` value in `.github/workflows/update-claude-blog-feed.yml`:
+The default cron schedule is every 6 hours (`0 */6 * * *`). To change the frequency, edit the `cron` value in `.github/workflows/update-feeds.yml`:
 
 ```yaml
 on:

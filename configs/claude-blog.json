@@ -1,0 +1,12 @@
+{
+  "id": "claude-blog",
+  "scraper_type": "claude_blog",
+  "listing_url": "https://claude.com/blog",
+  "base_url": "https://claude.com",
+  "feed_title": "Claude Blog",
+  "feed_description": "Product news and best practices for teams building with Claude.",
+  "feed_language": "en",
+  "pagination_param": "b7eea976_page",
+  "output_file": "feeds/claude-blog.xml",
+  "state_file": "state/claude-blog.json"
+}
