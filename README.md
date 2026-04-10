@@ -22,11 +22,10 @@ Paste a feed URL into any RSS reader (Reeder, NetNewsWire, Feedly, etc.).
 
 ```
 .
-├── configs/
-│   ├── claude-blog.json                 # feed config for claude.com/blog
-│   └── anthropic-engineering.json       # feed config for anthropic.com/engineering
 ├── scraper/
-│   └── scrape.py                        # config-driven scraper + feed generator
+│   ├── common.py                        # shared utilities (state, feed gen, HTTP helpers)
+│   ├── claude_blog.py                   # scraper for claude.com/blog
+│   └── anthropic_engineering.py         # scraper for anthropic.com/engineering
 ├── feeds/
 │   ├── claude-blog.xml                  # generated RSS 2.0 feed
 │   └── anthropic-engineering.xml        # generated RSS 2.0 feed
@@ -48,11 +47,11 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 # Run a specific feed (checks 1 listing page by default)
-python scraper/scrape.py --config configs/claude-blog.json
-python scraper/scrape.py --config configs/anthropic-engineering.json
+python scraper/claude_blog.py
+python scraper/anthropic_engineering.py
 
 # Seed with more history (checks first 5 pages)
-MAX_PAGES=5 python scraper/scrape.py --config configs/claude-blog.json
+MAX_PAGES=5 python scraper/claude_blog.py
 ```
 
 ## GitHub Actions

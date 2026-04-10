@@ -22,9 +22,9 @@ jobs:
 
     strategy:
       matrix:
-        config:
-          - configs/claude-blog.json
-          - configs/anthropic-engineering.json
+        script:
+          - scraper/claude_blog.py
+          - scraper/anthropic_engineering.py
       # Run feeds sequentially to avoid git push conflicts
       max-parallel: 1
 
@@ -50,7 +50,7 @@ jobs:
       - name: Run scraper
         env:
           MAX_PAGES: ${{ github.event.inputs.max_pages || '1' }}
-        run: python scraper/scrape.py --config ${{ matrix.config }}
+        run: python ${{ matrix.script }}
 
       - name: Commit and push changes
         run: |
