@@ -4,11 +4,11 @@ Scrapes tech blogs that don't provide native RSS and generates RSS 2.0 feeds, au
 
 ## Feeds
 
-| Blog | Feed file | Raw URL |
-|------|-----------|---------|
-| Claude Blog | `feeds/claude-blog.xml` | `https://raw.githubusercontent.com/<owner>/<repo>/main/feeds/claude-blog.xml` |
+| Blog | RSS Feed |
+|------|----------|
+| [Claude Blog](https://claude.com/blog) | [feeds/claude-blog.xml](https://raw.githubusercontent.com/liuhaibin/rss-feeds/refs/heads/main/feeds/claude-blog.xml) |
 
-Replace `<owner>/<repo>` with your GitHub username and repository name. Paste the raw URL into any RSS reader (Reeder, NetNewsWire, Feedly, etc.).
+Paste the feed URL into any RSS reader (Reeder, NetNewsWire, Feedly, etc.).
 
 ## How It Works
 
@@ -56,7 +56,7 @@ The workflow in `.github/workflows/update-claude-blog-feed.yml` runs automatical
 
 1. Push the repository to GitHub:
    ```bash
-   git remote add origin https://github.com/<owner>/<repo>.git
+   git remote add origin https://github.com/liuhaibin/rss-feeds.git
    git add -A
    git commit -m "feat: initial Claude blog RSS feed"
    git push -u origin main
