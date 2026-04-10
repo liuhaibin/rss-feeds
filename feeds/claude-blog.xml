@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 22:45:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 22:57:22 +0000</lastBuildDate>
     <item>
       <title>Multi-agent coordination patterns: Five approaches and when to use them</title>
       <link>https://claude.com/blog/multi-agent-coordination-patterns</link>
@@ -112,6 +112,426 @@
       <description>Ask Claude to explain a concept or analyze your data, and it can respond with interactive charts, diagrams, and visualizations — rendered inline as part of the conversation.</description>
       <guid isPermaLink="false">https://claude.com/blog/claude-builds-visuals</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing Claude for Excel and PowerPoint</title>
+      <link>https://claude.com/blog/claude-excel-powerpoint-updates</link>
+      <description>Claude for Excel and PowerPoint now share full context across open files, and skills make any workflow instantly repeatable.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-excel-powerpoint-updates</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing Code Review to Claude Code</title>
+      <link>https://claude.com/blog/code-review</link>
+      <description>Claude Code now dispatches a team of agents on every PR to catch bugs that skims miss. Available in research preview for Team and Enterprise.</description>
+      <guid isPermaLink="false">https://claude.com/blog/code-review</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Common workflow patterns for AI agents—and when to use them</title>
+      <link>https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</link>
+      <description>Practical guidance on how to structure agent tasks using three common workflow patterns, with tradeoffs and benefits for each.</description>
+      <guid isPermaLink="false">https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving skill-creator: Test, measure, and refine Agent Skills</title>
+      <link>https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</link>
+      <description>Skill authors now have tools to verify their skills work, catch regressions, and improve descriptions—no coding required.</description>
+      <guid isPermaLink="false">https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cowork and plugins for teams across the enterprise</title>
+      <link>https://claude.com/blog/cowork-plugins-across-enterprise</link>
+      <description>We're introducing Cowork and plugin updates that let enterprises customize Claude to how you work. Plugins turn Claude into specialized agents for every role and department. Now, you can build private marketplaces to distribute them across your organization.</description>
+      <guid isPermaLink="false">https://claude.com/blog/cowork-plugins-across-enterprise</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cowork and plugins for finance</title>
+      <link>https://claude.com/blog/cowork-plugins-finance</link>
+      <description>New plugins built for how finance actually works, plus cross-app workflows that move with you from Excel to PowerPoint to final deliverable.</description>
+      <guid isPermaLink="false">https://claude.com/blog/cowork-plugins-finance</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI helps break the cost barrier to COBOL modernization</title>
+      <link>https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</link>
+      <description>The economics of COBOL modernization have shifted. AI makes the economics work by automating what used to require armies of consultants.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing automated preview, review, and merge to Claude Code on desktop</title>
+      <link>https://claude.com/blog/preview-review-and-merge-with-claude-code</link>
+      <description>Preview running apps, auto-review diffs, and monitor PRs — all from Claude Code on desktop. Go from writing code to merging in one place.</description>
+      <guid isPermaLink="false">https://claude.com/blog/preview-review-and-merge-with-claude-code</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Increase web search accuracy and efficiency with dynamic filtering</title>
+      <link>https://claude.com/blog/improved-web-search-with-dynamic-filtering</link>
+      <description>Claude's web search and web fetch tools now use code execution to dynamically filter results before they reach the context window. Benchmarks show accuracy gains averaging 11% while using 24% fewer input tokens. Available now on the API.</description>
+      <guid isPermaLink="false">https://claude.com/blog/improved-web-search-with-dynamic-filtering</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Enterprise, now available self-serve</title>
+      <link>https://claude.com/blog/self-serve-enterprise</link>
+      <description>Starting today, any organization can purchase Claude Enterprise directly on our website with no sales conversation required. Set up your workspace, configure SSO, and start inviting team members in minutes.</description>
+      <guid isPermaLink="false">https://claude.com/blog/self-serve-enterprise</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind the model launch: What customers discovered testing Claude Opus 4.6 early</title>
+      <link>https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early</link>
+      <description>Four customer teams tested Opus 4.6 before anyone else. See their testing approaches, technical breakthroughs, and the feedback that shaped the release.</description>
+      <guid isPermaLink="false">https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing finance with Claude Opus 4.6</title>
+      <link>https://claude.com/blog/opus-4-6-finance</link>
+      <description>With Claude Opus 4.6, finance teams get better reasoning on complex analyses, cleaner first-pass deliverables, and new tools built for where analysts actually spend their time.</description>
+      <guid isPermaLink="false">https://claude.com/blog/opus-4-6-finance</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customize Cowork with plugins</title>
+      <link>https://claude.com/blog/cowork-plugins</link>
+      <description>With Cowork, you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets even better and more consistent outcomes.</description>
+      <guid isPermaLink="false">https://claude.com/blog/cowork-plugins</guid>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understand Claude Code’s impact with contribution metrics</title>
+      <link>https://claude.com/blog/contribution-metrics</link>
+      <description>Measure how Claude Code impacts your team's velocity. Track PRs shipped and code committed with GitHub integration—no extra tools required.</description>
+      <guid isPermaLink="false">https://claude.com/blog/contribution-metrics</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A complete guide to building skills for Claude</title>
+      <link>https://claude.com/blog/complete-guide-to-building-skills-for-claude</link>
+      <description>How to build skills that give Claude reusable context for your workflows. Covers technical requirements, testing approaches, and workflow patterns from early adopters.</description>
+      <guid isPermaLink="false">https://claude.com/blog/complete-guide-to-building-skills-for-claude</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updates to Claude Team</title>
+      <link>https://claude.com/blog/claude-team-updates</link>
+      <description>We're making the Claude Team plan more accessible for growing teams. We’re lowering prices and introducing an annual discount for premium seats.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-team-updates</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How leading retailers are turning AI pilots into enterprise-wide transformation</title>
+      <link>https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation</link>
+      <description>A practical guide for retail executives implementing AI at scale. Includes case studies from Shopify, L'Oréal, and Lotte Homeshopping with measurable results.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code</title>
+      <link>https://claude.com/blog/how-anthropic-uses-claude-marketing</link>
+      <description>Marketers spend hours creating ad variations and refreshing copy across platforms. Learn how Anthropic's growth team uses Claude Code to cut ad creation from 30 minutes to 30 seconds—no coding required.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-anthropic-uses-claude-marketing</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your favorite work tools are now interactive connectors inside Claude</title>
+      <link>https://claude.com/blog/interactive-tools-in-claude</link>
+      <description>MCP Apps bring interactive connectors to Claude. Interact with connectors with a live UI right in your conversation — no tab-switching required.</description>
+      <guid isPermaLink="false">https://claude.com/blog/interactive-tools-in-claude</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building multi-agent systems: When and how to use them</title>
+      <link>https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them</link>
+      <description>Most teams don't need multi-agent systems. Learn the three scenarios where they consistently outperform single agents—and how to implement them effectively.</description>
+      <guid isPermaLink="false">https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building agents with Skills: Equipping agents for specialized work</title>
+      <link>https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</link>
+      <description>Learn how Agent Skills package domain expertise for AI agents—turning capable generalists into knowledgeable specialists through organized files and workflows.</description>
+      <guid isPermaLink="false">https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eight trends defining how software gets built in 2026</title>
+      <link>https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026</link>
+      <description>How engineering teams are shifting from writing code to orchestrating agents. Eight trends, real-world case studies, and predictions for 2026.</description>
+      <guid isPermaLink="false">https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026</guid>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extending Claude’s capabilities with skills and MCP servers</title>
+      <link>https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</link>
+      <description>Learn how skills and MCP work together to build agents that follow your workflows and use external tools effectively. Best practices and real-world examples.</description>
+      <guid isPermaLink="false">https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skills for organizations, partners, the ecosystem</title>
+      <link>https://claude.com/blog/organization-skills-and-directory</link>
+      <description>In October, we introduced skills—a way to teach Claude repeatable workflows tailored to how you work. Today we're making skills easier to deploy, discover, and build: organization-wide management for admins; a directory of partner-built skills from Notion, Canva, Figma, Atlassian, and others; and an open standard so skills work across AI platforms.</description>
+      <guid isPermaLink="false">https://claude.com/blog/organization-skills-and-directory</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making Claude a better electrical engineer</title>
+      <link>https://claude.com/blog/making-claude-a-better-electrical-engineer</link>
+      <description>Anthropic partnered with Diode Computers to improve Claude's ability to auto-generate PCB reference designs in the Zener language, with measurable gains in Sonnet 4.5.</description>
+      <guid isPermaLink="false">https://claude.com/blog/making-claude-a-better-electrical-engineer</guid>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code power user customization: How to configure hooks</title>
+      <link>https://claude.com/blog/how-to-configure-hooks</link>
+      <description>Learn how to configure Claude Code hooks to automate repetitive tasks, enforce project rules, and inject dynamic context into your coding sessions.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-to-configure-hooks</guid>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How enterprises are building AI agents in 2026</title>
+      <link>https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026</link>
+      <description>New research from 500+ technical leaders reveals how enterprises are deploying AI agents in 2026—and why 80% already report measurable ROI.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026</guid>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code and Slack</title>
+      <link>https://claude.com/blog/claude-code-and-slack</link>
+      <description>Now you can tag @Claude in Slack to spin up Claude Code sessions automatically. Turn bug reports and feature requests into code fixes, get status updates in your thread, and open pull requests—all without leaving Slack.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-code-and-slack</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Anthropic's legal team cut review times from days to hours with Claude</title>
+      <link>https://claude.com/blog/how-anthropic-uses-claude-legal</link>
+      <description>Marketers spend hours creating ad variations and refreshing copy across platforms. Learn how Anthropic's growth team uses Claude Code to cut ad creation from 30 minutes to 30 seconds—no coding required.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-anthropic-uses-claude-legal</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What are the key benefits of transitioning to agentic coding for software development?</title>
+      <link>https://claude.com/blog/key-benefits-transitioning-agentic-coding</link>
+      <description>Learn how agentic coding with Claude Code accelerates development timelines, simplifies onboarding, and helps teams ship better software faster.</description>
+      <guid isPermaLink="false">https://claude.com/blog/key-benefits-transitioning-agentic-coding</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using CLAUDE.md files: Customizing Claude Code for your codebase</title>
+      <link>https://claude.com/blog/using-claude-md-files</link>
+      <description>Learn how to use CLAUDE.md files to give Claude Code persistent context about your project structure, coding standards, and workflows.</description>
+      <guid isPermaLink="false">https://claude.com/blog/using-claude-md-files</guid>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s new in Claude: Turning Claude into your thinking partner</title>
+      <link>https://claude.com/blog/your-thinking-partner</link>
+      <description>Your best work takes iteration. Claude now stays with you through the process—remembering context, talking through ideas, and turning them into real work.</description>
+      <guid isPermaLink="false">https://claude.com/blog/your-thinking-partner</guid>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to create Skills: Key steps, limitations, and examples</title>
+      <link>https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples</link>
+      <description>Learn how to write custom skills that extend Claude's capabilities. Follow our 5-step guide with real examples to build specialized workflows for your tasks.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How three YC startups built their companies with Claude Code</title>
+      <link>https://claude.com/blog/building-companies-with-claude-code</link>
+      <description>Learn how three YC startups use Claude Code to ship products faster, win government contracts, and scale AI-powered platforms with agentic coding workflows.</description>
+      <guid isPermaLink="false">https://claude.com/blog/building-companies-with-claude-code</guid>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Structured outputs on the Claude Developer Platform</title>
+      <link>https://claude.com/blog/structured-outputs-on-the-claude-developer-platform</link>
+      <description>Structured outputs on the Claude Developer Platform guarantee API responses match your JSON schemas and tool definitions. Now in public beta for Sonnet 4.5 and Opus 4.1, this feature eliminates parsing errors and failed tool calls for production applications.</description>
+      <guid isPermaLink="false">https://claude.com/blog/structured-outputs-on-the-claude-developer-platform</guid>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skills explained: How Skills compares to prompts, Projects, MCP, and subagents</title>
+      <link>https://claude.com/blog/skills-explained</link>
+      <description>Skills are an increasingly powerful tool for creating custom AI workflows and agents, but where do they fit in the Claude stack? We explain what tool to use when - and how they all work together.</description>
+      <guid isPermaLink="false">https://claude.com/blog/skills-explained</guid>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving frontend design through Skills</title>
+      <link>https://claude.com/blog/improving-frontend-design-through-skills</link>
+      <description>Best practices for building richer, more customized frontend design with Claude and Skills.</description>
+      <guid isPermaLink="false">https://claude.com/blog/improving-frontend-design-through-skills</guid>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best practices for prompt engineering</title>
+      <link>https://claude.com/blog/best-practices-for-prompt-engineering</link>
+      <description>Master the art of prompt engineering with Claude.</description>
+      <guid isPermaLink="false">https://claude.com/blog/best-practices-for-prompt-engineering</guid>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building AI agents for startups</title>
+      <link>https://claude.com/blog/building-ai-agents-for-startups</link>
+      <description>For resource-constrained startups, AI agents autonomously handle complex processes, reclaiming founder time, providing expert-level capabilities, and maintaining quality while moving fast.</description>
+      <guid isPermaLink="false">https://claude.com/blog/building-ai-agents-for-startups</guid>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is Model Context Protocol? Connect AI to your world</title>
+      <link>https://claude.com/blog/what-is-model-context-protocol</link>
+      <description>Connect AI assistants to your tools without custom integrations using Model Context Protocol. AI models are only as good as the context provided to them. AI assistants like Claude can answer questions and perform an impressive range of tasks, but if they can't access the data or tools they need,...</description>
+      <guid isPermaLink="false">https://claude.com/blog/what-is-model-context-protocol</guid>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Brex improves code quality and productivity with Claude Code</title>
+      <link>https://claude.com/blog/how-brex-improves-code-quality-and-productivity-with-claude-code</link>
+      <description>Learn how Claude Code breaks down barriers between technical and non-technical teams by making programming easier and more accessible.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-brex-improves-code-quality-and-productivity-with-claude-code</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building AI agents for financial services</title>
+      <link>https://claude.com/blog/building-ai-agents-in-financial-services</link>
+      <description>Financial institutions are deploying autonomous AI systems to improve operations while navigating regulatory complexity and risk. Here's how. ‍ In financial services, AI agents are moving beyond pilot programs to deliver concrete business value.</description>
+      <guid isPermaLink="false">https://claude.com/blog/building-ai-agents-in-financial-services</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building AI agents for healthcare and life sciences</title>
+      <link>https://claude.com/blog/building-ai-agents-in-healthcare-and-life-sciences</link>
+      <description>AI agents are delivering measurable results in healthcare and life sciences while navigating the industry's unique regulatory complexity and safety standards. Here's how.</description>
+      <guid isPermaLink="false">https://claude.com/blog/building-ai-agents-in-healthcare-and-life-sciences</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introduction to agentic coding</title>
+      <link>https://claude.com/blog/introduction-to-agentic-coding</link>
+      <description>Move from fragmented AI code snippets to deploying integrated features with agentic coding that understands your entire codebase. AI-assisted coding has evolved rapidly over the last few years. Tools that once suggested the next line now predict entire functions by analyzing patterns in your code.</description>
+      <guid isPermaLink="false">https://claude.com/blog/introduction-to-agentic-coding</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix software bugs faster with Claude</title>
+      <link>https://claude.com/blog/fix-software-bugs-faster-with-claude</link>
+      <description>Turn debugging from detective work into systematic problem-solving. Analyze errors, trace root causes, and implement fixes faster. Debugging code is time-consuming and tedious. And the hardest part isn't usually fixing the bug itself; it’s understanding why your code broke in the first place.</description>
+      <guid isPermaLink="false">https://claude.com/blog/fix-software-bugs-faster-with-claude</guid>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to integrate APIs seamlessly</title>
+      <link>https://claude.com/blog/integrate-apis-seamlessly</link>
+      <description>Build resilient API integrations from the start. Handle authentication, rate limits, and edge cases before they break production. API integration failures cost hours you can't afford. Authentication tokens expire during critical workflows, triggering 401 errors that cascade through your services.</description>
+      <guid isPermaLink="false">https://claude.com/blog/integrate-apis-seamlessly</guid>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code on the web</title>
+      <link>https://claude.com/blog/claude-code-on-the-web</link>
+      <description>Today, we're introducing Claude Code on the web, a new way to delegate coding tasks directly from your browser. Now in beta as a research preview, you can assign multiple coding tasks to Claude that run on Anthropic-managed cloud infrastructure, perfect for tackling bug backlogs, routine fixes, or...</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-code-on-the-web</guid>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Agent Skills</title>
+      <link>https://claude.com/blog/skills</link>
+      <description>Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.</description>
+      <guid isPermaLink="false">https://claude.com/blog/skills</guid>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude and your productivity platforms</title>
+      <link>https://claude.com/blog/productivity-platforms</link>
+      <description>Claude now integrates with Microsoft 365 and offers enterprise search across your connected tools. Claude works with the productivity tools you use every day, bringing context from your documents, emails, and calendar directly into your conversations.</description>
+      <guid isPermaLink="false">https://claude.com/blog/productivity-platforms</guid>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Equipping agents for the real world with Agent Skills</title>
+      <link>https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills</link>
+      <description>Discover how Anthropic builds AI agents with practical capabilities through modular skills, enabling them to handle complex real-world tasks more effectively and reliably.</description>
+      <guid isPermaLink="false">https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills</guid>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to scale agentic coding across your engineering organization</title>
+      <link>https://claude.com/blog/scaling-agentic-coding</link>
+      <description>As Agentic coding tools mature, technical leaders are wrestling with a practical challenge: moving beyond isolated experiments to organization-wide adoption.</description>
+      <guid isPermaLink="false">https://claude.com/blog/scaling-agentic-coding</guid>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build responsive web layouts</title>
+      <link>https://claude.com/blog/build-responsive-web-layouts</link>
+      <description>Generate responsive designs that work across all devices, without the trial and error. Responsive layouts often behave unpredictably across viewport sizes. A three-column card grid that displays perfectly on desktop can become illegible on tablets, with text overflowing containers and navigation...</description>
+      <guid isPermaLink="false">https://claude.com/blog/build-responsive-web-layouts</guid>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customize Claude Code with plugins</title>
+      <link>https://claude.com/blog/claude-code-plugins</link>
+      <description>Claude Code now supports plugins: custom collections of slash commands, agents, MCP servers, and hooks that install with a single command. Share your Claude Code setup with plugins Slash commands, agents, MCP servers, and hooks are all extension points you can use to customize your experience with...</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-code-plugins</guid>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
+      <link>https://claude.com/blog/beyond-permission-prompts-making-claude-code-more-secure-and-autonomous</link>
+      <description>In Claude Code, Claude writes, tests, and debugs code alongside you, navigating your codebase, editing multiple files, and running commands to verify its work.</description>
+      <guid isPermaLink="false">https://claude.com/blog/beyond-permission-prompts-making-claude-code-more-secure-and-autonomous</guid>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimize code performance quickly</title>
+      <link>https://claude.com/blog/optimize-code-performance-quickly</link>
+      <description>Go from reactive profiling to proactive optimization. Find and fix bottlenecks in your codebase before they slow down production. Performance bottlenecks sneak up on you. Your API was fast last week, but now it's timing out. User dashboards that load instantly are suddenly crawling.</description>
+      <guid isPermaLink="false">https://claude.com/blog/optimize-code-performance-quickly</guid>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude and Slack</title>
+      <link>https://claude.com/blog/claude-and-slack</link>
+      <description>Access Claude directly into Slack so you can get help in channels and threads, or connect your Slack workspace to Claude for searching conversations and pulling context when you need it.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-and-slack</guid>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How enterprises are driving AI transformation with Claude</title>
+      <link>https://claude.com/blog/driving-ai-transformation-with-claude</link>
+      <description>As the leader in enterprise AI, Anthropic builds state-of-the-art models specializing in industries where precision matters, from coding and cybersecurity to financial services. Claude Sonnet 4.</description>
+      <guid isPermaLink="false">https://claude.com/blog/driving-ai-transformation-with-claude</guid>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Managing context on the Claude Developer Platform</title>
+      <link>https://claude.com/blog/context-management</link>
+      <description>New context editing and memory tools enable Claude agents to handle long-running tasks without hitting context limits.</description>
+      <guid isPermaLink="false">https://claude.com/blog/context-management</guid>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building agents with the Claude Agent SDK</title>
+      <link>https://claude.com/blog/building-agents-with-the-claude-agent-sdk</link>
+      <description>How to get started with the Claude Agent SDK and best practices for using it.</description>
+      <guid isPermaLink="false">https://claude.com/blog/building-agents-with-the-claude-agent-sdk</guid>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude is now available in Microsoft 365 Copilot</title>
+      <link>https://claude.com/blog/claude-now-available-in-microsoft-365-copilot</link>
+      <description>Today, Microsoft announced that Claude models are now available in Microsoft 365 Copilot, bringing Claude to millions of enterprise users through Microsoft's productivity platform.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-now-available-in-microsoft-365-copilot</guid>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
