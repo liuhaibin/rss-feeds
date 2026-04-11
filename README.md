@@ -11,6 +11,8 @@ Scrapes tech blogs that don't provide native RSS and generates RSS 2.0 feeds, au
 
 Paste a feed URL into any RSS reader (Reeder, NetNewsWire, Feedly, etc.).
 
+> Inspired by [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds).
+
 ## How It Works
 
 1. The scraper fetches `https://claude.com/blog` and parses article titles, URLs, and dates.
