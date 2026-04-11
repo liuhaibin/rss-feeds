@@ -25,6 +25,7 @@ jobs:
         script:
           - scraper/claude_blog.py
           - scraper/anthropic_engineering.py
+          - scraper/openai_research.py
       # Run feeds sequentially to avoid git push conflicts
       max-parallel: 1
 

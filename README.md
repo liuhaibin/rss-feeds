@@ -8,6 +8,7 @@ Scrapes tech blogs that don't provide native RSS and generates RSS 2.0 feeds, au
 |------|----------|
 | [Claude Blog](https://claude.com/blog) | [feeds/claude-blog.xml](https://raw.githubusercontent.com/liuhaibin/rss-feeds/refs/heads/main/feeds/claude-blog.xml) |
 | [Engineering at Anthropic](https://www.anthropic.com/engineering) | [feeds/anthropic-engineering.xml](https://raw.githubusercontent.com/liuhaibin/rss-feeds/refs/heads/main/feeds/anthropic-engineering.xml) |
+| [OpenAI Research](https://openai.com/news/research/) | [feeds/openai-research.xml](https://raw.githubusercontent.com/liuhaibin/rss-feeds/refs/heads/main/feeds/openai-research.xml) |
 
 Paste a feed URL into any RSS reader (Reeder, NetNewsWire, Feedly, etc.).
 
@@ -27,13 +28,16 @@ Paste a feed URL into any RSS reader (Reeder, NetNewsWire, Feedly, etc.).
 ├── scraper/
 │   ├── common.py                        # shared utilities (state, feed gen, HTTP helpers)
 │   ├── claude_blog.py                   # scraper for claude.com/blog
-│   └── anthropic_engineering.py         # scraper for anthropic.com/engineering
+│   ├── anthropic_engineering.py         # scraper for anthropic.com/engineering
+│   └── openai_research.py              # scraper for openai.com/news/research/
 ├── feeds/
 │   ├── claude-blog.xml                  # generated RSS 2.0 feed
-│   └── anthropic-engineering.xml        # generated RSS 2.0 feed
+│   ├── anthropic-engineering.xml        # generated RSS 2.0 feed
+│   └── openai-research.xml             # generated RSS 2.0 feed
 ├── state/
 │   ├── claude-blog.json                 # persists seen article URLs
-│   └── anthropic-engineering.json       # persists seen article URLs
+│   ├── anthropic-engineering.json       # persists seen article URLs
+│   └── openai-research.json            # persists seen article URLs
 ├── .github/
 │   └── workflows/
 │       └── update-feeds.yml             # scheduled GitHub Actions workflow
@@ -51,6 +55,7 @@ pip install -r requirements.txt
 # Run a specific feed (checks 1 listing page by default)
 python scraper/claude_blog.py
 python scraper/anthropic_engineering.py
+python scraper/openai_research.py
 
 # Seed with more history (checks first 5 pages)
 MAX_PAGES=5 python scraper/claude_blog.py

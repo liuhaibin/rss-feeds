@@ -1,0 +1,67 @@
+{
+  "articles": [
+    {
+      "url": "https://openai.com/index/our-approach-to-the-model-spec/",
+      "title": "Inside our approach to the Model Spec",
+      "date_str": "2026-03-25T10:00",
+      "description": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "date": "2026-03-25T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+      "title": "How we monitor internal coding agents for misalignment",
+      "date_str": "2026-03-19T10:00",
+      "description": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "date": "2026-03-19T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/instruction-hierarchy-challenge/",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "date_str": "2026-03-10T11:00",
+      "description": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "date": "2026-03-10T11:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "title": "Introducing GPT-5.4",
+      "date_str": "2026-03-05T10:00",
+      "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "date": "2026-03-05T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card/",
+      "title": "GPT-5.4 Thinking System Card",
+      "date_str": "2026-03-05T10:00",
+      "description": "",
+      "date": "2026-03-05T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability/",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "date_str": "2026-03-05T10:00",
+      "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "date": "2026-03-05T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/",
+      "title": "Extending single-minus amplitudes to gravitons",
+      "date_str": "2026-03-04T10:00",
+      "description": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+      "date": "2026-03-04T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+      "date_str": "2026-03-03T10:00",
+      "description": "",
+      "date": "2026-03-03T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-3-instant-system-card/",
+      "title": "GPT-5.3 Instant System Card",
+      "date_str": "2026-03-03T10:00",
+      "description": "",
+      "date": "2026-03-03T10:00:00+00:00"
+    }
+  ]
+}

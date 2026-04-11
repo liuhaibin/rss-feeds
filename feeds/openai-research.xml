@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>OpenAI Research</title>
+    <link>https://openai.com/news/research/</link>
+    <description>Research news and publications from OpenAI.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Apr 2026 22:44:16 +0000</lastBuildDate>
+    <item>
+      <title>Inside our approach to the Model Spec</title>
+      <link>https://openai.com/index/our-approach-to-the-model-spec/</link>
+      <description>Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.</description>
+      <guid isPermaLink="false">https://openai.com/index/our-approach-to-the-model-spec/</guid>
+      <pubDate>Wed, 25 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we monitor internal coding agents for misalignment</title>
+      <link>https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/</link>
+      <description>How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.</description>
+      <guid isPermaLink="false">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/</guid>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving instruction hierarchy in frontier LLMs</title>
+      <link>https://openai.com/index/instruction-hierarchy-challenge/</link>
+      <description>IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.</description>
+      <guid isPermaLink="false">https://openai.com/index/instruction-hierarchy-challenge/</guid>
+      <pubDate>Tue, 10 Mar 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning models struggle to control their chains of thought, and that’s good</title>
+      <link>https://openai.com/index/reasoning-models-chain-of-thought-controllability/</link>
+      <description>OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.</description>
+      <guid isPermaLink="false">https://openai.com/index/reasoning-models-chain-of-thought-controllability/</guid>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.4 Thinking System Card</title>
+      <link>https://openai.com/index/gpt-5-4-thinking-system-card/</link>
+      <description>GPT-5.4 Thinking System Card</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-4-thinking-system-card/</guid>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.4</title>
+      <link>https://openai.com/index/introducing-gpt-5-4/</link>
+      <description>Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-4/</guid>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extending single-minus amplitudes to gravitons</title>
+      <link>https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</link>
+      <description>A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.</description>
+      <guid isPermaLink="false">https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/</guid>
+      <pubDate>Wed, 04 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.3 Instant System Card</title>
+      <link>https://openai.com/index/gpt-5-3-instant-system-card/</link>
+      <description>GPT-5.3 Instant System Card</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-3-instant-system-card/</guid>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.3 Instant: Smoother, more useful everyday conversations</title>
+      <link>https://openai.com/index/gpt-5-3-instant/</link>
+      <description>GPT-5.3 Instant: Smoother, more useful everyday conversations</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-3-instant/</guid>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

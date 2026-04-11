@@ -50,9 +50,14 @@ def save_state(state: dict, state_file: Path) -> None:
 # ---------------------------------------------------------------------------
 
 def parse_date(date_str: str) -> datetime:
-    """Parse 'Apr 10, 2026' or 'March 12, 2026' -> UTC datetime."""
+    """Parse various date formats -> UTC datetime.
+
+    Supported:
+      - 'Apr 10, 2026' / 'March 12, 2026'  (listing page text)
+      - '2026-03-25T10:00' / '2026-03-25'   (ISO datetime attribute)
+    """
     date_str = date_str.strip()
-    for fmt in ("%b %d, %Y", "%B %d, %Y"):
+    for fmt in ("%b %d, %Y", "%B %d, %Y", "%Y-%m-%dT%H:%M", "%Y-%m-%d"):
         try:
             return datetime.strptime(date_str, fmt).replace(tzinfo=timezone.utc)
         except ValueError:
