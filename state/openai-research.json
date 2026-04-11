@@ -62,6 +62,1116 @@
       "date_str": "2026-03-03T10:00",
       "description": "",
       "date": "2026-03-03T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "title": "Inside our approach to the Model Spec",
+      "description": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "date": "2026-03-25T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "description": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "date": "2026-03-10T11:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "date": "2026-03-05T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+      "title": "Extending single-minus amplitudes to gravitons",
+      "description": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+      "date": "2026-03-04T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "title": "Why we no longer evaluate SWE-bench Verified",
+      "description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+      "date": "2026-02-23T11:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/first-proof-submissions",
+      "title": "Our First Proof submissions",
+      "description": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+      "date": "2026-02-20T14:30:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-evmbench",
+      "title": "Introducing EVMbench",
+      "description": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+      "date": "2026-02-18T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/new-result-theoretical-physics",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "description": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+      "date": "2026-02-13T11:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+      "date": "2026-02-05T11:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "title": "Evaluating chain-of-thought monitorability",
+      "description": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
+      "date": "2025-12-18T12:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/frontierscience",
+      "title": "Evaluating AI’s ability to perform scientific research tasks",
+      "description": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+      "date": "2025-12-16T09:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+      "title": "Measuring AI’s capability to accelerate biological research",
+      "description": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.",
+      "date": "2025-12-16T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+      "title": "How confessions can keep language models honest",
+      "description": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+      "date": "2025-12-03T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/accelerating-science-gpt-5",
+      "title": "Early experiments in accelerating science with GPT-5",
+      "description": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new insights, and reshape the pace of discovery.",
+      "date": "2025-11-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/evals-drive-next-chapter-of-ai",
+      "title": "How evals drive the next chapter in AI for businesses",
+      "description": "Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.",
+      "date": "2025-11-19T11:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/understanding-neural-networks-through-sparse-circuits",
+      "title": "Understanding neural networks through sparse circuits",
+      "description": "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.",
+      "date": "2025-11-13T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-indqa",
+      "title": "Introducing IndQA",
+      "description": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
+      "date": "2025-11-03T22:30:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
+      "title": "Defining and evaluating political bias in LLMs",
+      "description": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+      "date": "2025-10-09T13:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/sora-2",
+      "title": "Sora 2 is here ",
+      "description": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
+      "date": "2025-09-30T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/how-people-are-using-chatgpt",
+      "title": "How people are using ChatGPT",
+      "description": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
+      "date": "2025-09-15T03:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/why-language-models-hallucinate",
+      "title": "Why language models hallucinate",
+      "description": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
+      "date": "2025-09-05T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/affective-use-study",
+      "title": "Early methods for studying affective use and emotional well-being on ChatGPT",
+      "description": "An OpenAI and MIT Media Lab Research collaboration.",
+      "date": "2025-03-21T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-deep-research",
+      "title": "Introducing deep research",
+      "description": "An agent that uses reasoning to synthesize large amounts of online information and complete multi-step research tasks for you. Available to Pro users today, Plus and Team next. \n\n",
+      "date": "2025-02-02T16:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/o3-mini-system-card",
+      "title": "OpenAI o3-mini System Card",
+      "description": "This report outlines the safety work carried out for the OpenAI o3-mini model, including safety evaluations, external red teaming, and Preparedness Framework evaluations.",
+      "date": "2025-01-31T11:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-o3-mini",
+      "title": "OpenAI o3-mini",
+      "description": "",
+      "date": "2025-01-31T11:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/computer-using-agent",
+      "title": "Computer-Using Agent",
+      "description": "",
+      "date": "2025-01-23T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness",
+      "title": "Trading inference-time compute for adversarial robustness",
+      "description": "Trading Inference-Time Compute for Adversarial Robustness",
+      "date": "2025-01-22T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-o1-system-card",
+      "title": "OpenAI o1 System Card",
+      "description": "This report outlines the safety work carried out prior to releasing OpenAI o1 and o1-mini, including external red teaming and frontier risk evaluations according to our Preparedness Framework.",
+      "date": "2024-12-05T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/advancing-red-teaming-with-people-and-ai",
+      "title": "Advancing red teaming with people and AI ",
+      "description": "Advancing red teaming with people and AI ",
+      "date": "2024-11-21T10:30:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-simpleqa",
+      "title": "Introducing SimpleQA",
+      "description": "A factuality benchmark called SimpleQA that measures the ability for language models to answer short, fact-seeking questions.",
+      "date": "2024-10-30T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models",
+      "title": "Simplifying, stabilizing, and scaling continuous-time consistency models",
+      "description": "We’ve simplified, stabilized, and scaled continuous-time consistency models, achieving comparable sample quality to leading diffusion models, while using only two sampling steps.",
+      "date": "2024-10-23T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/evaluating-fairness-in-chatgpt",
+      "title": "Evaluating fairness in ChatGPT",
+      "description": "We've analyzed how ChatGPT responds to users based on their name, using AI research assistants to protect privacy.",
+      "date": "2024-10-15T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/mle-bench",
+      "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+      "description": "We introduce MLE-bench, a benchmark for measuring how well AI agents perform at machine learning engineering.",
+      "date": "2024-10-10T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-to-reason-with-llms",
+      "title": "Learning to reason with LLMs",
+      "description": "",
+      "date": "2024-09-12T10:02:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning",
+      "title": "OpenAI o1-mini",
+      "description": "Advancing cost-efficient reasoning",
+      "date": "2024-09-12T10:01:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements",
+      "title": "OpenAI o1 System Card External Testers Acknowledgements",
+      "description": "OpenAI o1 system card external testers acknowledgements",
+      "date": "2024-09-12T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-swe-bench-verified",
+      "title": "Introducing SWE-bench Verified",
+      "description": "We’re releasing a human-validated subset of SWE-bench that more reliably evaluates AI models’ ability to solve real-world software issues.",
+      "date": "2024-08-13T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements",
+      "title": "GPT-4o System Card External Testers Acknowledgements",
+      "description": "",
+      "date": "2024-08-08T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards",
+      "title": "Improving Model Safety Behavior with Rule-Based Rewards",
+      "description": "We've developed and applied a new method leveraging Rule-Based Rewards (RBRs) that aligns models to behave safely without extensive human data collection.",
+      "date": "2024-07-24T09:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence",
+      "title": "GPT-4o mini: advancing cost-efficient intelligence",
+      "description": "",
+      "date": "2024-07-18T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/prover-verifier-games-improve-legibility",
+      "title": "Prover-Verifier Games improve legibility of language model outputs",
+      "description": "Discover how prover-verifier games improve the legibility of language model outputs, making AI solutions clearer, easier to verify, and more trustworthy for both humans and machines.",
+      "date": "2024-07-17T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together",
+      "title": "OpenAI and Los Alamos National Laboratory announce research partnership",
+      "description": "OpenAI and Los Alamos National Laboratory are working to develop safety evaluations to assess and measure biological capabilities and risks associated with frontier models.",
+      "date": "2024-07-10T06:30:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/consistency-models",
+      "title": "Consistency Models",
+      "description": "Diffusion models have significantly advanced the fields of image, audio, and video generation, but they depend on an iterative sampling process that causes slow generation.",
+      "date": "2024-06-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world",
+      "title": "A Holistic Approach to Undesired Content Detection in the Real World",
+      "description": "We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.",
+      "date": "2024-06-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/improved-techniques-for-training-consistency-models",
+      "title": "Improved Techniques for Training Consistency Models",
+      "description": "Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training. ",
+      "date": "2024-06-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/extracting-concepts-from-gpt-4",
+      "title": "Extracting Concepts from GPT-4",
+      "description": "Using new techniques for scaling sparse autoencoders, we automatically identified 16 million patterns in GPT-4's computations.",
+      "date": "2024-06-06T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/hello-gpt-4o",
+      "title": "Hello GPT-4o",
+      "description": "We’re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time.",
+      "date": "2024-05-13T10:05:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online",
+      "title": "Understanding the source of what we see and hear online",
+      "description": "Today we’re introducing new technology to help researchers identify content created by our tools and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote industry standards. ",
+      "date": "2024-05-07T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/the-instruction-hierarchy",
+      "title": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+      "description": "Today's LLMs are susceptible to prompt injections, jailbreaks, and other attacks that allow adversaries to overwrite a model's original instructions with their own malicious prompts.",
+      "date": "2024-04-19T19:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/video-generation-models-as-world-simulators",
+      "title": "Video generation models as world simulators",
+      "description": "We explore large-scale training of generative models on video data. Specifically, we train text-conditional diffusion models jointly on videos and images of variable durations, resolutions and aspect ratios. We leverage a transformer architecture that operates on spacetime patches of video and image latent codes. Our largest model, Sora, is capable of generating a minute of high fidelity video. Our results suggest that scaling video generation models is a promising path towards building general purpose simulators of the physical world.",
+      "date": "2024-02-15T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+      "title": "Building an early warning system for LLM-aided biological threat creation",
+      "description": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 provides at most a mild uplift in biological threat creation accuracy. While this uplift is not large enough to be conclusive, our finding is a starting point for continued research and community deliberation. ",
+      "date": "2024-01-31T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision",
+      "title": "Improving mathematical reasoning with process supervision",
+      "description": "We've trained a model to achieve a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”). In addition to boosting performance relative to outcome supervision, process supervision also has an important alignment benefit: it directly trains the model to produce a chain-of-thought that is endorsed by humans.",
+      "date": "2023-05-31T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/democratic-inputs-to-ai",
+      "title": "Democratic inputs to AI",
+      "description": "Our nonprofit organization, OpenAI, Inc., is launching a program to award ten $100,000 grants to fund experiments in setting up a democratic process for deciding what rules AI systems should follow, within the bounds defined by the law.",
+      "date": "2023-05-25T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpts-are-gpts",
+      "title": "GPTs are GPTs: An early look at the labor market impact potential of large language models",
+      "description": "",
+      "date": "2023-03-17T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-4-research",
+      "title": "GPT-4",
+      "description": "We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.",
+      "date": "2023-03-14T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/point-e",
+      "title": "Point-E: A system for generating 3D point clouds from complex prompts",
+      "description": "",
+      "date": "2022-12-16T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/scaling-laws-for-reward-model-overoptimization",
+      "title": "Scaling laws for reward model overoptimization",
+      "description": "",
+      "date": "2022-10-19T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/whisper",
+      "title": "Introducing Whisper",
+      "description": "",
+      "date": "2022-09-21T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle",
+      "title": "Efficient training of language models to fill in the middle",
+      "description": "",
+      "date": "2022-07-28T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/dall-e-2-pre-training-mitigations",
+      "title": "DALL·E 2 pre-training mitigations",
+      "description": "In order to share the magic of DALL·E 2 with a broad audience, we needed to reduce the risks associated with powerful image generation models. To this end, we put various guardrails in place to prevent generated images from violating our content policy.",
+      "date": "2022-06-28T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/vpt",
+      "title": "Learning to play Minecraft with Video PreTraining",
+      "description": "We trained a neural network to play Minecraft by Video PreTraining (VPT) on a massive unlabeled video dataset of human Minecraft play, while using only a small amount of labeled contractor data. With fine-tuning, our model can learn to craft diamond tools, a task that usually takes proficient humans over 20 minutes (24,000 actions). Our model uses the native human interface of keypresses and mouse movements, making it quite general, and represents a step towards general computer-using agents.",
+      "date": "2022-06-23T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/evolution-through-large-models",
+      "title": "Evolution through large models",
+      "description": "",
+      "date": "2022-06-17T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/techniques-for-training-large-neural-networks",
+      "title": "Techniques for training large neural networks",
+      "description": "Large neural networks are at the core of many recent advances in AI, but training them is a difficult engineering and research challenge which requires orchestrating a cluster of GPUs to perform a single synchronized calculation.",
+      "date": "2022-06-09T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words",
+      "title": "Teaching models to express their uncertainty in words",
+      "description": "",
+      "date": "2022-05-28T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents",
+      "title": "Hierarchical text-conditional image generation with CLIP latents",
+      "description": "",
+      "date": "2022-04-13T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/economic-impacts-research",
+      "title": "A research agenda for assessing the economic impacts of code generation models",
+      "description": "",
+      "date": "2022-03-03T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/formal-math",
+      "title": "Solving (some) formal math olympiad problems",
+      "description": "We built a neural theorem prover for Lean that learned to solve a variety of challenging high-school olympiad problems, including problems from the AMC12 and AIME competitions, as well as two problems adapted from the IMO.",
+      "date": "2022-02-02T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training",
+      "title": "Text and code embeddings by contrastive pre-training",
+      "description": "",
+      "date": "2022-01-24T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/webgpt",
+      "title": "WebGPT: Improving the factual accuracy of language models through web browsing",
+      "description": "We’ve fine-tuned GPT-3 to more accurately answer open-ended questions using a text-based web browser.",
+      "date": "2021-12-16T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/solving-math-word-problems",
+      "title": "Solving math word problems",
+      "description": "We’ve trained a system that solves grade school math problems with nearly twice the accuracy of a fine-tuned GPT-3 model. It solves about 90% as many problems as real kids: a small sample of 9-12 year olds scored 60% on a test from our dataset, while our system scored 55% on those same problems.",
+      "date": "2021-10-29T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/truthfulqa",
+      "title": "TruthfulQA: Measuring how models mimic human falsehoods",
+      "description": "",
+      "date": "2021-09-08T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/triton",
+      "title": "Introducing Triton: Open-source GPU programming for neural networks",
+      "description": "We’re releasing Triton 1.0, an open-source Python-like programming language which enables researchers with no CUDA experience to write highly efficient GPU code—most of the time on par with what an expert would be able to produce.",
+      "date": "2021-07-28T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/evaluating-large-language-models-trained-on-code",
+      "title": "Evaluating large language models trained on code",
+      "description": "",
+      "date": "2021-07-07T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/multimodal-neurons",
+      "title": "Multimodal neurons in artificial neural networks",
+      "description": "We’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. This may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn.",
+      "date": "2021-03-04T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models",
+      "title": "Understanding the capabilities, limitations, and societal impact of large language models",
+      "description": "",
+      "date": "2021-02-04T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+      "title": "Scaling Kubernetes to 7,500 nodes",
+      "description": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Language Models.",
+      "date": "2021-01-25T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/clip",
+      "title": "CLIP: Connecting text and images",
+      "description": "We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3.",
+      "date": "2021-01-05T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/dall-e",
+      "title": "DALL·E: Creating images from text",
+      "description": "We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.",
+      "date": "2021-01-05T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/generative-language-modeling-for-automated-theorem-proving",
+      "title": "Generative language modeling for automated theorem proving",
+      "description": "",
+      "date": "2020-09-07T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/image-gpt",
+      "title": "Image GPT",
+      "description": "We find that, just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image completions and samples. By establishing a correlation between sample quality and image classification accuracy, we show that our best generative model also contains features competitive with top convolutional nets in the unsupervised setting.",
+      "date": "2020-06-17T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/language-models-are-few-shot-learners",
+      "title": "Language models are few-shot learners",
+      "description": "",
+      "date": "2020-05-28T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/ai-and-efficiency",
+      "title": "AI and efficiency",
+      "description": "We’re releasing an analysis showing that since 2012 the amount of compute needed to train a neural net to the same performance on ImageNet classification has been decreasing by a factor of 2 every 16 months. Compared to 2012, it now takes 44 times less compute to train a neural network to the level of AlexNet (by contrast, Moore’s Law would yield an 11x cost improvement over this period). Our results suggest that for AI tasks with high levels of recent investment, algorithmic progress has yielded more gains than classical hardware efficiency.",
+      "date": "2020-05-05T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/jukebox",
+      "title": "Jukebox",
+      "description": "We’re introducing Jukebox, a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. We’re releasing the model weights and code, along with a tool to explore the generated samples.",
+      "date": "2020-04-30T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/improving-verifiability",
+      "title": "Improving verifiability in AI development",
+      "description": "We’ve contributed to a multi-stakeholder report by 58 co-authors at 30 organizations, including the Centre for the Future of Intelligence, Mila, Schwartz Reisman Institute for Technology and Society, Center for Advanced Study in the Behavioral Sciences, and Center for Security and Emerging Technologies. This report describes 10 mechanisms to improve the verifiability of claims made about AI systems. Developers can use these tools to provide evidence that AI systems are safe, secure, fair, or privacy-preserving. Users, policymakers, and civil society can use these tools to evaluate AI development processes.",
+      "date": "2020-04-16T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/microscope",
+      "title": "OpenAI Microscope",
+      "description": "We’re introducing OpenAI Microscope, a collection of visualizations of every significant layer and neuron of eight vision “model organisms” which are often studied in interpretability. Microscope makes it easier to analyze the features that form inside these neural networks, and we hope it will help the research community as we move towards understanding these complicated systems.",
+      "date": "2020-04-14T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/scaling-laws-for-neural-language-models",
+      "title": "Scaling laws for neural language models",
+      "description": "",
+      "date": "2020-01-23T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/dota-2-with-large-scale-deep-reinforcement-learning",
+      "title": "Dota 2 with large scale deep reinforcement learning",
+      "description": "",
+      "date": "2019-12-13T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/deep-double-descent",
+      "title": "Deep double descent",
+      "description": "We show that the double descent phenomenon occurs in CNNs, ResNets, and transformers: performance first improves, then gets worse, and then improves again with increasing model size, data size, or training time. This effect is often avoided through careful regularization. While this behavior appears to be fairly universal, we don’t yet fully understand why it happens, and view further study of this phenomenon as an important research direction.",
+      "date": "2019-12-05T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/procgen-benchmark",
+      "title": "Procgen Benchmark",
+      "description": "We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.",
+      "date": "2019-12-03T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-2-1-5b-release",
+      "title": "GPT-2: 1.5B release",
+      "description": "As the final model release of GPT-2’s staged release, we’re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT-2 models. While there have been larger language models released since August, we’ve continued with our original staged release plan in order to provide the community with a test case of a full staged release process. We hope that this test case will be useful to developers of future powerful models, and we’re actively continuing the conversation with the AI community on responsible publication.",
+      "date": "2019-11-05T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/solving-rubiks-cube",
+      "title": "Solving Rubik’s Cube with a robot hand",
+      "description": "We’ve trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand. The neural networks are trained entirely in simulation, using the same reinforcement learning code as OpenAI Five paired with a new technique called Automatic Domain Randomization (ADR). The system can handle situations it never saw during training, such as being prodded by a stuffed giraffe. This shows that reinforcement learning isn’t just a tool for virtual tasks, but can solve physical-world problems requiring unprecedented dexterity.",
+      "date": "2019-10-15T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/emergent-tool-use",
+      "title": "Emergent tool use from multi-agent interaction",
+      "description": "We’ve observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a series of six distinct strategies and counterstrategies, some of which we did not know our environment supported. The self-supervised emergent complexity in this simple environment further suggests that multi-agent co-adaptation may one day produce extremely complex and intelligent behavior.",
+      "date": "2019-09-17T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-2-6-month-follow-up",
+      "title": "GPT-2: 6-month follow-up",
+      "description": "We’re releasing the 774 million parameter GPT-2 language model after the release of our small 124M model in February, staged release of our medium 355M model in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit. We’re also releasing an open-source legal agreement to make it easier for organizations to initiate model-sharing partnerships with each other, and are publishing a technical report about our experience in coordinating with the wider AI research community on publication norms.",
+      "date": "2019-08-20T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/musenet",
+      "title": "MuseNet",
+      "description": "We’ve created MuseNet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments, and can combine styles from country to Mozart to the Beatles. MuseNet was not explicitly programmed with our understanding of music, but instead discovered patterns of harmony, rhythm, and style by learning to predict the next token in hundreds of thousands of MIDI files. MuseNet uses the same general-purpose unsupervised technology as GPT-2, a large-scale transformer model trained to predict the next token in a sequence, whether audio or text.",
+      "date": "2019-04-25T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/sparse-transformer",
+      "title": "Generative modeling with sparse transformers",
+      "description": "We’ve developed the Sparse Transformer, a deep neural network which sets new records at predicting what comes next in a sequence—whether text, images, or sound. It uses an algorithmic improvement of the attention mechanism to extract patterns from sequences 30x longer than possible previously.",
+      "date": "2019-04-23T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-five-defeats-dota-2-world-champions",
+      "title": "OpenAI Five defeats Dota 2 world champions",
+      "description": "OpenAI Five is the first AI to beat the world champions in an esports game, having won two back-to-back games versus the world champion Dota 2 team, OG, at Finals this weekend. Both OpenAI Five and DeepMind’s AlphaStar had previously beaten good pros privately but lost their live pro matches, making this also the first time an AI has beaten esports pros on livestream.",
+      "date": "2019-04-15T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/energy-based-models",
+      "title": "Implicit generation and generalization methods for energy-based models",
+      "description": "We’ve made progress towards stable and scalable training of energy-based models (EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends more compute to continually refine its answers and doing so can generate samples competitive with GANs at low temperatures, while also having mode coverage guarantees of likelihood-based models. We hope these findings stimulate further research into this promising class of models.",
+      "date": "2019-03-21T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/neural-mmo",
+      "title": "Neural MMO: A massively multiagent game environment",
+      "description": "We’re releasing a Neural MMO, a massively multiagent game environment for reinforcement learning agents. Our platform supports a large, variable number of agents within a persistent and open-ended task. The inclusion of many agents and species leads to better exploration, divergent niche formation, and greater overall competence.",
+      "date": "2019-03-04T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/better-language-models",
+      "title": "Better language models and their implications",
+      "description": "We’ve trained a large-scale unsupervised language model which generates coherent paragraphs of text, achieves state-of-the-art performance on many language modeling benchmarks, and performs rudimentary reading comprehension, machine translation, question answering, and summarization—all without task-specific training.",
+      "date": "2019-02-14T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/computational-limitations-in-robust-classification-and-win-win-results",
+      "title": "Computational limitations in robust classification and win-win results",
+      "description": "",
+      "date": "2019-02-04T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/how-ai-training-scales",
+      "title": "How AI training scales",
+      "description": "We’ve discovered that the gradient noise scale, a simple statistical metric, predicts the parallelizability of neural network training on a wide range of tasks. Since complex tasks tend to have noisier gradients, increasingly large batch sizes are likely to become useful in the future, removing one potential limit to further growth of AI systems. More broadly, these results show that neural network training need not be considered a mysterious art, but can be rigorized and systematized.",
+      "date": "2018-12-14T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/quantifying-generalization-in-reinforcement-learning",
+      "title": "Quantifying generalization in reinforcement learning",
+      "description": "We’re releasing CoinRun, a training environment which provides a metric for an agent’s ability to transfer its experience to novel situations and has already helped clarify a longstanding puzzle in reinforcement learning. CoinRun strikes a desirable balance in complexity: the environment is simpler than traditional platformer games like Sonic the Hedgehog but still poses a worthy generalization challenge for state of the art algorithms.",
+      "date": "2018-12-06T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/spinning-up-in-deep-rl",
+      "title": "Spinning Up in Deep RL",
+      "description": "We’re releasing Spinning Up in Deep RL, an educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning. Spinning Up consists of crystal-clear examples of RL code, educational exercises, documentation, and tutorials.",
+      "date": "2018-11-08T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-concepts-with-energy-functions",
+      "title": "Learning concepts with energy functions",
+      "description": "We’ve developed an energy-based model that can quickly learn to identify and generate instances of concepts, such as near, above, between, closest, and furthest, expressed as sets of 2d points. Our model learns these concepts after only five demonstrations. We also show cross-domain transfer: we use concepts learned in a 2d particle environment to solve tasks on a 3-dimensional physics-based robot.",
+      "date": "2018-11-07T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/plan-online-learn-offline",
+      "title": "Plan online, learn offline: Efficient learning and exploration via model-based control",
+      "description": "",
+      "date": "2018-11-05T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards",
+      "title": "Reinforcement learning with prediction-based rewards",
+      "description": "We’ve developed Random Network Distillation (RND), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time exceeds average human performance on Montezuma’s Revenge.",
+      "date": "2018-10-31T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/ffjord",
+      "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
+      "description": "",
+      "date": "2018-10-02T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/the-international-2018-results",
+      "title": "The International 2018: Results",
+      "description": "OpenAI Five lost two games against top Dota 2 players at The International in Vancouver this week, maintaining a good chance of winning for the first 20–35 minutes of both games.",
+      "date": "2018-08-23T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/large-scale-study-of-curiosity-driven-learning",
+      "title": "Large-scale study of curiosity-driven learning",
+      "description": "",
+      "date": "2018-08-13T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-five-benchmark-results",
+      "title": "OpenAI Five Benchmark: Results",
+      "description": "Yesterday, OpenAI Five won a best-of-three against a team of 99.95th percentile Dota players: Blitz, Cap, Fogged, Merlini, and MoonMeander—four of whom have played Dota professionally—in front of a live audience and 100,000 concurrent livestream viewers.",
+      "date": "2018-08-06T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-dexterity",
+      "title": "Learning dexterity",
+      "description": "We’ve trained a human-like robot hand to manipulate physical objects with unprecedented dexterity.",
+      "date": "2018-07-30T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/variational-option-discovery-algorithms",
+      "title": "Variational option discovery algorithms",
+      "description": "",
+      "date": "2018-07-26T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/glow",
+      "title": "Glow: Better reversible generative models",
+      "description": "We introduce Glow, a reversible generative model which uses invertible 1x1 convolutions. It extends previous work on reversible generative models and simplifies the architecture. Our model can generate realistic high resolution images, supports efficient sampling, and discovers features that can be used to manipulate attributes of data. We’re releasing code for the model and an online visualization tool so people can explore and build on these results.",
+      "date": "2018-07-09T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration",
+      "title": "Learning Montezuma’s Revenge from a single demonstration",
+      "description": "We’ve trained an agent to achieve a high score of 74,500 on Montezuma’s Revenge from a single human demonstration, better than any previously published result. Our algorithm is simple: the agent plays a sequence of games starting from carefully chosen states from the demonstration, and learns from them by optimizing the game score using PPO, the same reinforcement learning algorithm that underpins OpenAI Five.",
+      "date": "2018-07-04T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-five",
+      "title": "OpenAI Five",
+      "description": "Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2.",
+      "date": "2018-06-25T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/retro-contest-results",
+      "title": "Retro Contest: Results",
+      "description": "The first run of our Retro Contest—exploring the development of algorithms that can generalize from previous experience—is now complete.",
+      "date": "2018-06-22T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-policy-representations-in-multiagent-systems",
+      "title": "Learning policy representations in multiagent systems",
+      "description": "",
+      "date": "2018-06-17T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gamepad",
+      "title": "GamePad: A learning environment for theorem proving",
+      "description": "",
+      "date": "2018-06-02T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gym-retro",
+      "title": "Gym Retro",
+      "description": "We’re releasing the full version of Gym Retro, a platform for reinforcement learning research on games. This brings our publicly-released game count from around 70 Atari games and 30 Sega games to over 1,000 games across a variety of backing emulators. We’re also releasing the tool we use to add new games to the platform.",
+      "date": "2018-05-25T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/ai-and-compute",
+      "title": "AI and compute",
+      "description": "We’re releasing an analysis showing that since 2012, the amount of compute used in the largest AI training runs has been increasing exponentially with a 3.4-month doubling time (by comparison, Moore’s Law had a 2-year doubling period)[^footnote-correction]. Since 2012, this metric has grown by more than 300,000x (a 2-year doubling period would yield only a 7x increase). Improvements in compute have been a key component of AI progress, so as long as this trend continues, it’s worth preparing for the implications of systems far outside today’s capabilities.",
+      "date": "2018-05-16T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/evolved-policy-gradients",
+      "title": "Evolved Policy Gradients",
+      "description": "We’re releasing an experimental metalearning approach called Evolved Policy Gradients, a method that evolves the loss function of learning agents, which can enable fast training on novel tasks. Agents trained with EPG can succeed at basic tasks at test time that were outside their training regime, like learning to navigate to an object on a different side of the room from where it was placed during training.",
+      "date": "2018-04-18T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gotta-learn-fast",
+      "title": "Gotta Learn Fast: A new benchmark for generalization in RL",
+      "description": "",
+      "date": "2018-04-10T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/retro-contest",
+      "title": "Retro Contest",
+      "description": "We’re launching a transfer learning contest that measures a reinforcement learning algorithm’s ability to generalize from previous experience.",
+      "date": "2018-04-05T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines",
+      "title": "Variance reduction for policy gradient with action-dependent factorized baselines",
+      "description": "",
+      "date": "2018-03-20T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/improving-gans-using-optimal-transport",
+      "title": "Improving GANs using optimal transport",
+      "description": "",
+      "date": "2018-03-15T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/on-first-order-meta-learning-algorithms",
+      "title": "On first-order meta-learning algorithms",
+      "description": "",
+      "date": "2018-03-08T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/reptile",
+      "title": "Reptile: A scalable meta-learning algorithm",
+      "description": "We’ve developed a simple meta-learning algorithm called Reptile which works by repeatedly sampling a task, performing stochastic gradient descent on it, and updating the initial parameters towards the final parameters learned on that task. Reptile is the application of the Shortest Descent algorithm to the meta-learning setting, and is mathematically similar to first-order MAML (which is a version of the well-known MAML algorithm) that only needs black-box access to an optimizer such as SGD or Adam, with similar computational efficiency and performance.",
+      "date": "2018-03-07T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning",
+      "title": "Some considerations on learning to explore via meta-reinforcement learning",
+      "description": "",
+      "date": "2018-03-03T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/multi-goal-reinforcement-learning",
+      "title": "Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research",
+      "description": "",
+      "date": "2018-02-26T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/ingredients-for-robotics-research",
+      "title": "Ingredients for robotics research",
+      "description": "We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. We’re also releasing a set of requests for robotics research.",
+      "date": "2018-02-26T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/interpretable-machine-learning-through-teaching",
+      "title": "Interpretable machine learning through teaching",
+      "description": "We’ve designed a method that encourages AIs to teach each other with examples that also make sense to humans. Our approach automatically selects the most informative examples to teach a concept—for instance, the best images to describe the concept of dogs—and experimentally we found our approach to be effective at teaching both AIs",
+      "date": "2018-02-15T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/discovering-types-for-entity-disambiguation",
+      "title": "Discovering types for entity disambiguation",
+      "description": "We’ve built a system for automatically figuring out which object is meant by a word by having a neural network decide if the word belongs to each of about 100 automatically-discovered “types” (non-exclusive categories).",
+      "date": "2018-02-07T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/requests-for-research-2",
+      "title": "Requests for Research 2.0",
+      "description": "We’re releasing a new batch of seven unsolved problems which have come up in the course of our research at OpenAI.",
+      "date": "2018-01-31T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/scaling-kubernetes-to-2500-nodes",
+      "title": "Scaling Kubernetes to 2,500 nodes",
+      "description": "",
+      "date": "2018-01-18T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/block-sparse-gpu-kernels",
+      "title": "Block-sparse GPU kernels",
+      "description": "We’re releasing highly-optimized GPU kernels for an underexplored class of neural network architectures: networks with block-sparse weights. Depending on the chosen sparsity, these kernels can run orders of magnitude faster than cuBLAS or cuSPARSE. We’ve used them to attain state-of-the-art results in text sentiment analysis and generative modeling of text and images.",
+      "date": "2017-12-06T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization",
+      "title": "Learning sparse neural networks through L₀ regularization",
+      "description": "",
+      "date": "2017-12-04T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/interpretable-and-pedagogical-examples",
+      "title": "Interpretable and pedagogical examples",
+      "description": "",
+      "date": "2017-11-02T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-a-hierarchy",
+      "title": "Learning a hierarchy",
+      "description": "We’ve developed a hierarchical reinforcement learning algorithm that learns high-level actions useful for solving a range of tasks, allowing fast solving of tasks requiring thousands of timesteps. Our algorithm, when applied to a set of navigation problems, discovers a set of high-level actions for walking and crawling in different directions, which enables the agent to master new navigation tasks quickly.",
+      "date": "2017-10-26T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/generalizing-from-simulation",
+      "title": "Generalizing from simulation",
+      "description": "Our latest robotics techniques allow robot controllers, trained entirely in simulation and deployed on physical robots, to react to unplanned changes in the environment as they solve simple tasks. That is, we’ve used these techniques to build closed-loop systems rather than open-loop ones as before.",
+      "date": "2017-10-19T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning",
+      "title": "Asymmetric actor critic for image-based robot learning",
+      "description": "",
+      "date": "2017-10-18T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
+      "title": "Sim-to-real transfer of robotic control with dynamics randomization",
+      "description": "",
+      "date": "2017-10-18T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping",
+      "title": "Domain randomization and generative models for robotic grasping",
+      "description": "",
+      "date": "2017-10-17T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/meta-learning-for-wrestling",
+      "title": "Meta-learning for wrestling",
+      "description": "We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.",
+      "date": "2017-10-11T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/competitive-self-play",
+      "title": "Competitive self-play",
+      "description": "We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in mind. Self-play ensures that the environment is always the right difficulty for an AI to improve. Taken alongside our Dota 2 self-play results, we have increasing confidence that self-play will be a core part of powerful AI systems in the future.",
+      "date": "2017-10-11T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/nonlinear-computation-in-deep-linear-networks",
+      "title": "Nonlinear computation in deep linear networks",
+      "description": "",
+      "date": "2017-09-29T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-to-model-other-minds",
+      "title": "Learning to model other minds",
+      "description": "We’re releasing an algorithm which accounts for the fact that other agents are learning too, and discovers self-interested yet collaborative strategies like tit-for-tat in the iterated prisoner’s dilemma. This algorithm, Learning with Opponent-Learning Awareness (LOLA), is a small step towards agents that model other minds.",
+      "date": "2017-09-14T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-with-opponent-learning-awareness",
+      "title": "Learning with opponent-learning awareness",
+      "description": "",
+      "date": "2017-09-13T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-baselines-acktr-a2c",
+      "title": "OpenAI Baselines: ACKTR & A2C",
+      "description": "We’re releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we’ve found gives equal performance. ACKTR is a more sample-efficient reinforcement learning algorithm than TRPO and A2C, and requires only slightly more computation than A2C per update.",
+      "date": "2017-08-18T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/more-on-dota-2",
+      "title": "More on Dota 2",
+      "description": "Our Dota 2 result shows that self-play can catapult the performance of machine learning systems from far below human level to superhuman, given sufficient compute. In the span of a month, our system went from barely matching a high-ranked player to beating the top pros and has continued to improve since then. Supervised deep learning systems can only be as good as their training datasets, but in self-play systems, the available data improves automatically as the agent gets better.",
+      "date": "2017-08-16T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/dota-2",
+      "title": "Dota 2",
+      "description": "We’ve created a bot which beats the world’s top professionals at 1v1 matches of Dota 2 under standard tournament rules. The bot learned the game from scratch by self-play, and does not use imitation learning or tree search. This is a step towards building AI systems which accomplish well-defined goals in messy, complicated situations involving real humans.",
+      "date": "2017-08-11T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gathering-human-feedback",
+      "title": "Gathering human feedback",
+      "description": "RL-Teacher is an open-source implementation of our interface to train AIs via occasional human feedback rather than hand-crafted reward functions. The underlying technique was developed as a step towards safe AI systems, but also applies to reinforcement learning problems with rewards that are hard to specify.",
+      "date": "2017-08-03T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/better-exploration-with-parameter-noise",
+      "title": "Better exploration with parameter noise",
+      "description": "We’ve found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases performance, so it’s worth trying on any problem.",
+      "date": "2017-07-27T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-baselines-ppo",
+      "title": "Proximal Policy Optimization",
+      "description": "We’re releasing a new class of reinforcement learning algorithms, Proximal Policy Optimization (PPO), which perform comparably or better than state-of-the-art approaches while being much simpler to implement and tune. PPO has become the default reinforcement learning algorithm at OpenAI because of its ease of use and good performance.",
+      "date": "2017-07-20T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/robust-adversarial-inputs",
+      "title": "Robust adversarial inputs",
+      "description": "We’ve created images that reliably fool neural network classifiers when viewed from varied scales and perspectives. This challenges a claim from last week that self-driving cars would be hard to trick maliciously since they capture images from multiple scales, angles, perspectives, and the like.",
+      "date": "2017-07-17T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/hindsight-experience-replay",
+      "title": "Hindsight Experience Replay",
+      "description": "",
+      "date": "2017-07-05T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/teacher-student-curriculum-learning",
+      "title": "Teacher–student curriculum learning",
+      "description": "",
+      "date": "2017-07-01T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/faster-physics-in-python",
+      "title": "Faster physics in Python",
+      "description": "We’re open-sourcing a high-performance Python library for robotic simulation using the MuJoCo engine, developed over our past year of robotics research.",
+      "date": "2017-06-28T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-to-cooperate-compete-and-communicate",
+      "title": "Learning to cooperate, compete, and communicate",
+      "description": "Multiagent environments where agents compete for resources are stepping stones on the path to AGI. Multiagent environments have two useful properties: first, there is a natural curriculum—the difficulty of the environment is determined by the skill of your competitors (and if you’re competing against clones of yourself, the environment exactly matches your skill level). Second, a multiagent environment has no stable equilibrium: no matter how smart an agent is, there’s always pressure to get smarter. These environments have a very different feel from traditional environments, and it’ll take a lot more research before we become good at them.",
+      "date": "2017-06-08T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/ucb-exploration-via-q-ensembles",
+      "title": "UCB exploration via Q-ensembles",
+      "description": "",
+      "date": "2017-06-05T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-baselines-dqn",
+      "title": "OpenAI Baselines: DQN",
+      "description": "We’re open-sourcing OpenAI Baselines, our internal effort to reproduce reinforcement learning algorithms with performance on par with published results. We’ll release the algorithms over upcoming months; today’s release includes DQN and three of its variants.",
+      "date": "2017-05-24T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/robots-that-learn",
+      "title": "Robots that learn",
+      "description": "We’ve created a robotics system, trained entirely in simulation and deployed on a physical robot, which can learn a new task after seeing it done once.",
+      "date": "2017-05-16T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/roboschool",
+      "title": "Roboschool",
+      "description": "We are releasing Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.",
+      "date": "2017-05-15T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/equivalence-between-policy-gradients-and-soft-q-learning",
+      "title": "Equivalence between policy gradients and soft Q-learning",
+      "description": "",
+      "date": "2017-04-21T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/stochastic-neural-networks-for-hierarchical-reinforcement-learning",
+      "title": "Stochastic Neural Networks for hierarchical reinforcement learning",
+      "description": "",
+      "date": "2017-04-10T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/unsupervised-sentiment-neuron",
+      "title": "Unsupervised sentiment neuron",
+      "description": "We’ve developed an unsupervised system which learns an excellent representation of sentiment, despite being trained only to predict the next character in the text of Amazon reviews.",
+      "date": "2017-04-06T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/spam-detection-in-the-physical-world",
+      "title": "Spam detection in the physical world",
+      "description": "We’ve created the world’s first Spam-detecting AI trained entirely in simulation and deployed on a physical robot.",
+      "date": "2017-04-01T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/evolution-strategies",
+      "title": "Evolution strategies as a scalable alternative to reinforcement learning",
+      "description": "We’ve discovered that evolution strategies (ES), an optimization technique that’s been known for decades, rivals the performance of standard reinforcement learning (RL) techniques on modern RL benchmarks (e.g. Atari/MuJoCo), while overcoming many of RL’s inconveniences.",
+      "date": "2017-03-24T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/one-shot-imitation-learning",
+      "title": "One-shot imitation learning",
+      "description": "",
+      "date": "2017-03-21T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/learning-to-communicate",
+      "title": "Learning to communicate",
+      "description": "In this post we’ll outline new OpenAI research in which agents develop their own language.",
+      "date": "2017-03-16T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/emergence-of-grounded-compositional-language-in-multi-agent-populations",
+      "title": "Emergence of grounded compositional language in multi-agent populations",
+      "description": "",
+      "date": "2017-03-15T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/prediction-and-control-with-temporal-segment-models",
+      "title": "Prediction and control with temporal segment models",
+      "description": "",
+      "date": "2017-03-12T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/third-person-imitation-learning",
+      "title": "Third-person imitation learning",
+      "description": "",
+      "date": "2017-03-06T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/pixelcnn-plus-plus",
+      "title": "PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications",
+      "description": "",
+      "date": "2017-01-19T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/universe",
+      "title": "Universe",
+      "description": "We’re releasing Universe, a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications.",
+      "date": "2016-12-05T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/exploration",
+      "title": "#Exploration: A study of count-based exploration for deep reinforcement learning",
+      "description": "",
+      "date": "2016-11-15T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/on-the-quantitative-analysis-of-decoder-based-generative-models",
+      "title": "On the quantitative analysis of decoder-based generative models",
+      "description": "",
+      "date": "2016-11-14T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/a-connection-between-generative-adversarial-networks-inverse-reinforcement-learning-and-energy-based-models",
+      "title": "A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models",
+      "description": "",
+      "date": "2016-11-11T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/rl2",
+      "title": "RL²: Fast reinforcement learning via slow reinforcement learning",
+      "description": "",
+      "date": "2016-11-09T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/variational-lossy-autoencoder",
+      "title": "Variational lossy autoencoder",
+      "description": "",
+      "date": "2016-11-08T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/extensions-and-limitations-of-the-neural-gpu",
+      "title": "Extensions and limitations of the neural GPU",
+      "description": "",
+      "date": "2016-11-02T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/transfer-from-simulation-to-real-world-through-learning-deep-inverse-dynamics-model",
+      "title": "Transfer from simulation to real world through learning deep inverse dynamics model",
+      "description": "",
+      "date": "2016-10-11T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/infrastructure-for-deep-learning",
+      "title": "Infrastructure for deep learning",
+      "description": "Deep learning is an empirical science, and the quality of a group’s infrastructure is a multiplier on progress. Fortunately, today’s open-source ecosystem makes it possible for anyone to build great deep learning infrastructure.",
+      "date": "2016-08-29T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/generative-models",
+      "title": "Generative models",
+      "description": "This post describes four projects that share a common theme of enhancing or using generative models, a branch of unsupervised learning techniques in machine learning. In addition to describing our work, this post will tell you a bit more about generative models: what they are, why they are important, and where they might be going.",
+      "date": "2016-06-16T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-gym-beta",
+      "title": "OpenAI Gym Beta",
+      "description": "We’re releasing the public beta of OpenAI Gym, a toolkit for developing and comparing reinforcement learning (RL) algorithms. It consists of a growing suite of environments (from simulated robots to Atari games), and a site for comparing and reproducing results.",
+      "date": "2016-04-27T07:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/weight-normalization",
+      "title": "Weight normalization: A simple reparameterization to accelerate training of deep neural networks",
+      "description": "",
+      "date": "2016-02-25T08:00:00+00:00"
     }
   ]
 }

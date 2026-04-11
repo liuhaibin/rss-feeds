@@ -126,8 +126,13 @@ def generate_feed(articles: list[dict], cfg: dict) -> None:
     fg.language(cfg["feed_language"])
     fg.lastBuildDate(datetime.now(timezone.utc))
 
-    # feedgen reverses entries when writing, so sort ascending to get newest-first output
-    for art in sorted(articles, key=lambda a: a["date"]):
+    # feedgen reverses entries when writing, so sort ascending to get newest-first output.
+    # Articles without a date (None) go at the end (shown last / lowest priority).
+    dated = [a for a in articles if a.get("date") is not None]
+    undated = [a for a in articles if a.get("date") is None]
+    ordered = sorted(dated, key=lambda a: a["date"]) + undated
+
+    for art in ordered:
         fe = fg.add_entry()
         fe.id(art["url"])
         fe.title(art["title"])
