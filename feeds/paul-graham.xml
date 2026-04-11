@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Paul Graham Essays</title>
+    <link>https://paulgraham.com/articles.html</link>
+    <description>Essays by Paul Graham.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Apr 2026 23:29:10 +0000</lastBuildDate>
+    <item>
+      <title>The Brand Age</title>
+      <link>https://paulgraham.com/brandage.html</link>
+      <description>The Brand Age</description>
+      <guid isPermaLink="false">https://paulgraham.com/brandage.html</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Shape of the Essay Field</title>
+      <link>https://paulgraham.com/field.html</link>
+      <description>The Shape of the Essay Field</description>
+      <guid isPermaLink="false">https://paulgraham.com/field.html</guid>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good Writing</title>
+      <link>https://paulgraham.com/goodwriting.html</link>
+      <description>Good Writing</description>
+      <guid isPermaLink="false">https://paulgraham.com/goodwriting.html</guid>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to Do</title>
+      <link>https://paulgraham.com/do.html</link>
+      <description>What to Do</description>
+      <guid isPermaLink="false">https://paulgraham.com/do.html</guid>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Origins of Wokeness</title>
+      <link>https://paulgraham.com/woke.html</link>
+      <description>The Origins of Wokeness</description>
+      <guid isPermaLink="false">https://paulgraham.com/woke.html</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Writes and Write-Nots</title>
+      <link>https://paulgraham.com/writes.html</link>
+      <description>Writes and Write-Nots</description>
+      <guid isPermaLink="false">https://paulgraham.com/writes.html</guid>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Founder Mode</title>
+      <link>https://paulgraham.com/foundermode.html</link>
+      <description>Founder Mode</description>
+      <guid isPermaLink="false">https://paulgraham.com/foundermode.html</guid>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When To Do What You Love</title>
+      <link>https://paulgraham.com/when.html</link>
+      <description>When To Do What You Love</description>
+      <guid isPermaLink="false">https://paulgraham.com/when.html</guid>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Right Kind of Stubborn</title>
+      <link>https://paulgraham.com/persistence.html</link>
+      <description>The Right Kind of Stubborn</description>
+      <guid isPermaLink="false">https://paulgraham.com/persistence.html</guid>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best Essay</title>
+      <link>https://paulgraham.com/best.html</link>
+      <description>The Best Essay</description>
+      <guid isPermaLink="false">https://paulgraham.com/best.html</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Start Google</title>
+      <link>https://paulgraham.com/google.html</link>
+      <description>How to Start Google</description>
+      <guid isPermaLink="false">https://paulgraham.com/google.html</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Reddits</title>
+      <link>https://paulgraham.com/reddits.html</link>
+      <description>The Reddits</description>
+      <guid isPermaLink="false">https://paulgraham.com/reddits.html</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Superlinear Returns</title>
+      <link>https://paulgraham.com/superlinear.html</link>
+      <description>Superlinear Returns</description>
+      <guid isPermaLink="false">https://paulgraham.com/superlinear.html</guid>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Do Great Work</title>
+      <link>https://paulgraham.com/greatwork.html</link>
+      <description>How to Do Great Work</description>
+      <guid isPermaLink="false">https://paulgraham.com/greatwork.html</guid>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Get New Ideas</title>
+      <link>https://paulgraham.com/getideas.html</link>
+      <description>How to Get New Ideas</description>
+      <guid isPermaLink="false">https://paulgraham.com/getideas.html</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What You (Want to)* Want</title>
+      <link>https://paulgraham.com/want.html</link>
+      <description>What You (Want to)* Want</description>
+      <guid isPermaLink="false">https://paulgraham.com/want.html</guid>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Need to Read</title>
+      <link>https://paulgraham.com/read.html</link>
+      <description>The Need to Read</description>
+      <guid isPermaLink="false">https://paulgraham.com/read.html</guid>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alien Truth</title>
+      <link>https://paulgraham.com/alien.html</link>
+      <description>Alien Truth</description>
+      <guid isPermaLink="false">https://paulgraham.com/alien.html</guid>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Having Kids</title>
+      <link>https://paulgraham.com/kids.html</link>
+      <description>Having Kids</description>
+      <guid isPermaLink="false">https://paulgraham.com/kids.html</guid>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Lose Time and Money</title>
+      <link>https://paulgraham.com/selfindulgence.html</link>
+      <description>How to Lose Time and Money</description>
+      <guid isPermaLink="false">https://paulgraham.com/selfindulgence.html</guid>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

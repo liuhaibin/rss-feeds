@@ -1,0 +1,124 @@
+{
+  "articles": [
+    {
+      "url": "https://paulgraham.com/greatwork.html",
+      "title": "How to Do Great Work",
+      "description": "",
+      "date": "2023-07-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/kids.html",
+      "title": "Having Kids",
+      "description": "",
+      "date": "2019-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/selfindulgence.html",
+      "title": "How to Lose Time and Money",
+      "description": "",
+      "date": "2010-07-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/brandage.html",
+      "title": "The Brand Age",
+      "description": "",
+      "date": "2026-03-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/field.html",
+      "title": "The Shape of the Essay Field",
+      "description": "",
+      "date": "2025-06-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/goodwriting.html",
+      "title": "Good Writing",
+      "description": "",
+      "date": "2025-05-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/do.html",
+      "title": "What to Do",
+      "description": "",
+      "date": "2025-03-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/woke.html",
+      "title": "The Origins of Wokeness",
+      "description": "",
+      "date": "2025-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/writes.html",
+      "title": "Writes and Write-Nots",
+      "description": "",
+      "date": "2024-10-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/when.html",
+      "title": "When To Do What You Love",
+      "description": "",
+      "date": "2024-09-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/foundermode.html",
+      "title": "Founder Mode",
+      "description": "",
+      "date": "2024-09-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/persistence.html",
+      "title": "The Right Kind of Stubborn",
+      "description": "",
+      "date": "2024-07-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/reddits.html",
+      "title": "The Reddits",
+      "description": "",
+      "date": "2024-03-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/google.html",
+      "title": "How to Start Google",
+      "description": "",
+      "date": "2024-03-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/best.html",
+      "title": "The Best Essay",
+      "description": "",
+      "date": "2024-03-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/superlinear.html",
+      "title": "Superlinear Returns",
+      "description": "",
+      "date": "2023-10-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/getideas.html",
+      "title": "How to Get New Ideas",
+      "description": "",
+      "date": "2023-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/read.html",
+      "title": "The Need to Read",
+      "description": "",
+      "date": "2022-11-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/want.html",
+      "title": "What You (Want to)* Want",
+      "description": "",
+      "date": "2022-11-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/alien.html",
+      "title": "Alien Truth",
+      "description": "",
+      "date": "2022-10-01T00:00:00+00:00"
+    }
+  ]
+}
