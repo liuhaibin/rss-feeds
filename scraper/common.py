@@ -23,7 +23,7 @@ HEADERS = {
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/124.0.0.0 Safari/537.36"
-    )
+    ),
 }
 
 
@@ -74,7 +74,7 @@ def get_description(url: str) -> str:
     try:
         resp = requests.get(url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
+        soup = BeautifulSoup(resp.text, "lxml")
         for attrs in ({"property": "og:description"}, {"name": "description"}):
             meta = soup.find("meta", attrs=attrs)
             if meta and meta.get("content"):
@@ -89,7 +89,7 @@ def get_article_date(url: str) -> str:
     try:
         resp = requests.get(url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
+        soup = BeautifulSoup(resp.text, "lxml")
         for attrs in (
             {"property": "article:published_time"},
             {"name": "publish_date"},
@@ -172,7 +172,7 @@ def run(cfg: dict, parse_listing_page) -> None:
         print(f"  Fetching: {page_url}")
         resp = requests.get(page_url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
+        soup = BeautifulSoup(resp.text, "lxml")
         page_articles = parse_listing_page(soup, cfg["base_url"])
         print(f"  Found {len(page_articles)} articles on page {page_num}")
 

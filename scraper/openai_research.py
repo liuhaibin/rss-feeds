@@ -23,30 +23,27 @@ FEED_CONFIG = {
 
 
 def parse_listing_page(soup: BeautifulSoup, base_url: str) -> list[dict]:
+    """Parse article cards via aria-label which encodes: 'Title - Category - Date'."""
     articles: list[dict] = []
     seen_urls: set[str] = set()
 
-    for link_el in soup.find_all("a", href=lambda h: h and h.startswith("/index/")):
+    for link_el in soup.find_all(
+        "a",
+        attrs={"aria-label": True},
+        href=lambda h: h and h.startswith("/index/"),
+    ):
         href = link_el.get("href", "")
         full_url = base_url + href
         if full_url in seen_urls:
             continue
         seen_urls.add(full_url)
 
-        title_el = link_el.find("div", class_=lambda c: c and "text-h5" in (c or "").split())
-        if not title_el:
-            continue
-        title = title_el.get_text(strip=True)
+        # aria-label format: "Title - Category - Mon DD, YYYY"
+        parts = link_el["aria-label"].rsplit(" - ", maxsplit=2)
+        title = parts[0].strip() if parts else link_el["aria-label"]
+        date_str = parts[-1].strip() if len(parts) >= 3 else ""
 
-        # Prefer the machine-readable datetime attribute; fall back to visible text
-        time_el = link_el.find("time")
-        if time_el:
-            date_str = time_el.get("datetime") or time_el.get_text(strip=True)
-        else:
-            date_str = ""
-
-        if title:
-            articles.append({"url": full_url, "title": title, "date_str": date_str})
+        articles.append({"url": full_url, "title": title, "date_str": date_str})
 
     return articles
 

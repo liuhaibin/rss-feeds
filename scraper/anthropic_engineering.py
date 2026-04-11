@@ -26,13 +26,12 @@ def parse_listing_page(soup: BeautifulSoup, base_url: str) -> list[dict]:
     articles: list[dict] = []
     seen_urls: set[str] = set()
 
-    for article in soup.find_all("article", class_=lambda c: c and "ArticleList" in (c or "")):
-        link_el = article.find("a", class_=lambda c: c and "cardLink" in (c or ""))
-        if not link_el:
-            continue
+    for link_el in soup.find_all(
+        "a",
+        class_=lambda c: c and "cardLink" in (c if isinstance(c, str) else " ".join(c)),
+        href=lambda h: h and h.startswith("/engineering/"),
+    ):
         href = link_el.get("href", "")
-        if not href.startswith("/engineering/"):
-            continue
         full_url = base_url + href
         if full_url in seen_urls:
             continue
@@ -40,9 +39,9 @@ def parse_listing_page(soup: BeautifulSoup, base_url: str) -> list[dict]:
 
         title_el = link_el.find(["h2", "h3"])
         title = title_el.get_text(strip=True) if title_el else ""
-        # Featured/pinned articles sometimes lack a date in the listing;
-        # get_article_date() in common.py will fetch the page as fallback.
-        date_el = link_el.find("div", class_=lambda c: c and "__date" in (c or ""))
+
+        # Date div has __date in its CSS module class name
+        date_el = link_el.find("div", class_=lambda c: c and "__date" in (c if isinstance(c, str) else " ".join(c)))
         date_str = date_el.get_text(strip=True) if date_el else ""
 
         if title:
