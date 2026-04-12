@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Apr 2026 23:29:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 00:52:23 +0000</lastBuildDate>
     <item>
       <title>The Brand Age</title>
       <link>https://paulgraham.com/brandage.html</link>
@@ -133,6 +133,146 @@
       <description>Alien Truth</description>
       <guid isPermaLink="false">https://paulgraham.com/alien.html</guid>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What I've Learned from Users</title>
+      <link>https://paulgraham.com/users.html</link>
+      <description>What I've Learned from Users</description>
+      <guid isPermaLink="false">https://paulgraham.com/users.html</guid>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heresy</title>
+      <link>https://paulgraham.com/heresy.html</link>
+      <description>Heresy</description>
+      <guid isPermaLink="false">https://paulgraham.com/heresy.html</guid>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Putting Ideas into Words</title>
+      <link>https://paulgraham.com/words.html</link>
+      <description>Putting Ideas into Words</description>
+      <guid isPermaLink="false">https://paulgraham.com/words.html</guid>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is There Such a Thing as Good Taste?</title>
+      <link>https://paulgraham.com/goodtaste.html</link>
+      <description>Is There Such a Thing as Good Taste?</description>
+      <guid isPermaLink="false">https://paulgraham.com/goodtaste.html</guid>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Smart</title>
+      <link>https://paulgraham.com/smart.html</link>
+      <description>Beyond Smart</description>
+      <guid isPermaLink="false">https://paulgraham.com/smart.html</guid>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weird Languages</title>
+      <link>https://paulgraham.com/weird.html</link>
+      <description>Weird Languages</description>
+      <guid isPermaLink="false">https://paulgraham.com/weird.html</guid>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Project of One's Own</title>
+      <link>https://paulgraham.com/own.html</link>
+      <description>A Project of One's Own</description>
+      <guid isPermaLink="false">https://paulgraham.com/own.html</guid>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Work Hard</title>
+      <link>https://paulgraham.com/hwh.html</link>
+      <description>How to Work Hard</description>
+      <guid isPermaLink="false">https://paulgraham.com/hwh.html</guid>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An NFT That Saves Lives</title>
+      <link>https://paulgraham.com/nft.html</link>
+      <description>An NFT That Saves Lives</description>
+      <guid isPermaLink="false">https://paulgraham.com/nft.html</guid>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crazy New Ideas</title>
+      <link>https://paulgraham.com/newideas.html</link>
+      <description>Crazy New Ideas</description>
+      <guid isPermaLink="false">https://paulgraham.com/newideas.html</guid>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fierce Nerds</title>
+      <link>https://paulgraham.com/fn.html</link>
+      <description>Fierce Nerds</description>
+      <guid isPermaLink="false">https://paulgraham.com/fn.html</guid>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How People Get Rich Now</title>
+      <link>https://paulgraham.com/richnow.html</link>
+      <description>How People Get Rich Now</description>
+      <guid isPermaLink="false">https://paulgraham.com/richnow.html</guid>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Real Reason to End the Death Penalty</title>
+      <link>https://paulgraham.com/real.html</link>
+      <description>The Real Reason to End the Death Penalty</description>
+      <guid isPermaLink="false">https://paulgraham.com/real.html</guid>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donate Unrestricted</title>
+      <link>https://paulgraham.com/donate.html</link>
+      <description>Donate Unrestricted</description>
+      <guid isPermaLink="false">https://paulgraham.com/donate.html</guid>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Write Simply</title>
+      <link>https://paulgraham.com/simply.html</link>
+      <description>Write Simply</description>
+      <guid isPermaLink="false">https://paulgraham.com/simply.html</guid>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What I Worked On</title>
+      <link>https://paulgraham.com/worked.html</link>
+      <description>What I Worked On</description>
+      <guid isPermaLink="false">https://paulgraham.com/worked.html</guid>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Airbnbs</title>
+      <link>https://paulgraham.com/airbnbs.html</link>
+      <description>The Airbnbs</description>
+      <guid isPermaLink="false">https://paulgraham.com/airbnbs.html</guid>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Billionaires Build</title>
+      <link>https://paulgraham.com/ace.html</link>
+      <description>Billionaires Build</description>
+      <guid isPermaLink="false">https://paulgraham.com/ace.html</guid>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earnestness</title>
+      <link>https://paulgraham.com/earnest.html</link>
+      <description>Earnestness</description>
+      <guid isPermaLink="false">https://paulgraham.com/earnest.html</guid>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Think for Yourself</title>
+      <link>https://paulgraham.com/think.html</link>
+      <description>How to Think for Yourself</description>
+      <guid isPermaLink="false">https://paulgraham.com/think.html</guid>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Having Kids</title>
