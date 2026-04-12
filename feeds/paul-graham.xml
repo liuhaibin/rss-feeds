@@ -7,7 +7,122 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Apr 2026 12:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 18:20:55 +0000</lastBuildDate>
+    <item>
+      <title>The New Funding Landscape</title>
+      <link>https://paulgraham.com/superangels.html</link>
+      <description>October 2010After barely changing at all for decades, the startup funding
+business is now in what could, at least by comparison, be called
+turmoil.  At Y Combinator we've seen dramatic changes in the funding
+environment for startups.  Fortunately one of them is much higher
+valuations.The trends we'v</description>
+      <guid isPermaLink="false">https://paulgraham.com/superangels.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>What We Look for in Founders</title>
+      <link>https://paulgraham.com/founders.html</link>
+      <description>(I wrote this for Forbes, who asked me to write something
+about the qualities we look for in founders.  In print they had to cut
+the last item because they didn't have room.)1. DeterminationThis has turned out to be the most important quality in startup
+founders.  We thought when we started Y Combin</description>
+      <guid isPermaLink="false">https://paulgraham.com/founders.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Founder Control</title>
+      <link>https://paulgraham.com/control.html</link>
+      <description>December 2010Someone we funded is talking to VCs now, and asked me how common
+it was for a startup's founders to retain control of the board after
+a series A round.  He said VCs told him this almost never happened.Ten years ago that was true.  In the past, founders rarely kept
+control of the board t</description>
+      <guid isPermaLink="false">https://paulgraham.com/control.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Startup Hubs Work</title>
+      <link>https://paulgraham.com/hubs.html</link>
+      <description>October 2011If you look at a list of US cities sorted by population, the number
+of successful startups per capita varies by orders of magnitude.
+Somehow it's as if most places were sprayed with startupicide.I wondered about this for years.  I could see the average town was
+like a roach motel for sta</description>
+      <guid isPermaLink="false">https://paulgraham.com/hubs.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schlep Blindness</title>
+      <link>https://paulgraham.com/schlep.html</link>
+      <description>January 2012There are great startup ideas lying around unexploited right under
+our noses.  One reason we don't see them is a phenomenon I callschlep blindness.  Schlep was originally a Yiddish word but has
+passed into general use in the US.  It means a tedious, unpleasant
+task.No one likes schleps, </description>
+      <guid isPermaLink="false">https://paulgraham.com/schlep.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Word to the Resourceful</title>
+      <link>https://paulgraham.com/word.html</link>
+      <description>January 2012A year ago I noticed a pattern in the least successful startups
+we'd funded: they all seemed hard to talk to.  It felt as if there
+was some kind of wall between us.  I could never quite tell if they
+understood what I was saying.This caught my attention because earlier we'd noticed a patt</description>
+      <guid isPermaLink="false">https://paulgraham.com/word.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frighteningly Ambitious Startup Ideas</title>
+      <link>https://paulgraham.com/ambitious.html</link>
+      <description>March 2012One of the more surprising things I've noticed while working
+on Y Combinator is how frightening the most ambitious startup
+ideas are.  In this essay I'm going to demonstrate
+this phenomenon by describing some.  Any one of them
+could make you a billionaire.  That might sound like an attract</description>
+      <guid isPermaLink="false">https://paulgraham.com/ambitious.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Swan Farming</title>
+      <link>https://paulgraham.com/swan.html</link>
+      <description>September 2012I've done several types of work over the years but I don't know
+another as counterintuitive as startup investing.The two most important things to understand about startup investing,
+as a business, are (1) that effectively all the returns are
+concentrated in a few big winners, and (2) t</description>
+      <guid isPermaLink="false">https://paulgraham.com/swan.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Startup = Growth</title>
+      <link>https://paulgraham.com/growth.html</link>
+      <description>September 2012A startup is a company designed to grow fast.  Being newly founded
+does not in itself make a company a startup.  Nor is it necessary
+for a startup to work on technology, or take venture funding, or
+have some sort of "exit."  The only essential thing is growth.
+Everything else we associ</description>
+      <guid isPermaLink="false">https://paulgraham.com/growth.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hardware Renaissance</title>
+      <link>https://paulgraham.com/hw.html</link>
+      <description>October 2012One advantage of Y Combinator's early, broad focus is that we
+see trends before most other people.  And one of the most conspicuous
+trends in the last batch was the large number of hardware startups.
+Out of 84 companies, 7 were making hardware.  On the whole
+they've done better than the </description>
+      <guid isPermaLink="false">https://paulgraham.com/hw.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Get Startup Ideas</title>
+      <link>https://paulgraham.com/startupideas.html</link>
+      <description>November 2012The way to get startup ideas is not to try to think of startup
+ideas.  It's to look for problems, preferably problems you have
+yourself.The very best startup ideas tend to have three things in common:
+they're something the founders themselves want, that they themselves
+can build, and th</description>
+      <guid isPermaLink="false">https://paulgraham.com/startupideas.html</guid>
+      <pubDate>Sun, 12 Apr 2026 18:20:41 +0000</pubDate>
+    </item>
     <item>
       <title>Do Things that Don't Scale</title>
       <link>https://paulgraham.com/ds.html</link>
@@ -583,6 +698,73 @@ worth $2 million, and the company's trajectory is </description>
       <description>Mean People Fail</description>
       <guid isPermaLink="false">https://paulgraham.com/mean.html</guid>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Startup Investing Trends</title>
+      <link>https://paulgraham.com/invtrend.html</link>
+      <description>Startup Investing Trends</description>
+      <guid isPermaLink="false">https://paulgraham.com/invtrend.html</guid>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Top of My Todo List</title>
+      <link>https://paulgraham.com/todo.html</link>
+      <description>The Top of My Todo List</description>
+      <guid isPermaLink="false">https://paulgraham.com/todo.html</guid>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defining Property</title>
+      <link>https://paulgraham.com/property.html</link>
+      <description>Defining Property</description>
+      <guid isPermaLink="false">https://paulgraham.com/property.html</guid>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Y Combinator Started</title>
+      <link>https://paulgraham.com/ycstart.html</link>
+      <description>On March 11 2005, Jessica and I were walking home from dinner in
+Harvard Square.  Jessica was working at an investment bank at the
+time, but she didn't like it much, so she had interviewed for a job
+as director of marketing at a Boston VC fund.  The VC fund was doing
+what now seems a comically famil</description>
+      <guid isPermaLink="false">https://paulgraham.com/ycstart.html</guid>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Writing and Speaking</title>
+      <link>https://paulgraham.com/speak.html</link>
+      <description>Writing and Speaking</description>
+      <guid isPermaLink="false">https://paulgraham.com/speak.html</guid>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snapshot: Viaweb, June 1998</title>
+      <link>https://paulgraham.com/vw.html</link>
+      <description>Snapshot: Viaweb, June 1998</description>
+      <guid isPermaLink="false">https://paulgraham.com/vw.html</guid>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Patent Pledge</title>
+      <link>https://paulgraham.com/patentpledge.html</link>
+      <description>The Patent Pledge</description>
+      <guid isPermaLink="false">https://paulgraham.com/patentpledge.html</guid>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subject: Airbnb</title>
+      <link>https://paulgraham.com/airbnb.html</link>
+      <description>Subject: Airbnb</description>
+      <guid isPermaLink="false">https://paulgraham.com/airbnb.html</guid>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tablets</title>
+      <link>https://paulgraham.com/tablets.html</link>
+      <description>Tablets</description>
+      <guid isPermaLink="false">https://paulgraham.com/tablets.html</guid>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Lose Time and Money</title>
