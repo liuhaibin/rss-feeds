@@ -359,6 +359,126 @@
       "title": "The Refragmentation",
       "description": "",
       "date": "2016-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/jessica.html",
+      "title": "Jessica Livingston",
+      "description": "",
+      "date": "2015-11-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/bias.html",
+      "title": "A Way to Detect Bias",
+      "description": "",
+      "date": "2015-10-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/talk.html",
+      "title": "Write Like You Talk",
+      "description": "",
+      "date": "2015-10-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/aord.html",
+      "title": "Default Alive or Default Dead?",
+      "description": "",
+      "date": "2015-10-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/safe.html",
+      "title": "Why It's Safe for Founders to Be Nice",
+      "description": "",
+      "date": "2015-08-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/name.html",
+      "title": "Change Your Name",
+      "description": "",
+      "date": "2015-08-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/altair.html",
+      "title": "What Microsoft Is this the Altair Basic of?",
+      "description": "",
+      "date": "2015-02-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/ronco.html",
+      "title": "The Ronco Principle",
+      "description": "",
+      "date": "2015-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/work.html",
+      "title": "What Doesn't Seem Like Work?",
+      "description": "",
+      "date": "2015-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/corpdev.html",
+      "title": "Don't Talk to Corp Dev",
+      "description": "",
+      "date": "2015-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/95.html",
+      "title": "Let the Other 95% of Great Programmers In",
+      "description": "",
+      "date": "2014-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/ecw.html",
+      "title": "How to Be an Expert in a Changing World",
+      "description": "",
+      "date": "2014-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/know.html",
+      "title": "How You Know",
+      "description": "",
+      "date": "2014-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/pinch.html",
+      "title": "The Fatal Pinch",
+      "description": "",
+      "date": "2014-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/mean.html",
+      "title": "Mean People Fail",
+      "description": "",
+      "date": "2014-11-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/before.html",
+      "title": "Before the Startup",
+      "description": "October 2014(This essay is derived from a guest lecture in Sam Altman'sstartup classat\nStanford.  It's intended for college students, but much of it is\napplicable to potential founders at other ages.)One of the advantages of having kids is that when you have to give\nadvice, you can ask yourself \"wha",
+      "date": "2026-04-12T12:21:17.157711+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/fr.html",
+      "title": "How to Raise Money",
+      "description": "September 2013Most startups that raise money do it more than once.  A typical\ntrajectory might be (1) to get started with a few tens of thousands\nfrom something like Y Combinator or individual angels, then \n(2) raise a few hundred thousand to a few million to build the company,\nand then (3) once the",
+      "date": "2026-04-12T12:21:17.808144+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/herd.html",
+      "title": "Investor Herd Dynamics",
+      "description": "August 2013The biggest component in most investors' opinion of you is the\nopinion of other investors.  Which is of course a recipe for\nexponential growth.  When one investor wants to invest in you, that\nmakes other investors want to, which makes others want to, and so\non.Sometimes inexperienced foun",
+      "date": "2026-04-12T12:21:18.418072+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/convince.html",
+      "title": "How to Convince Investors",
+      "description": "August 2013When people hurt themselves lifting heavy things, it's usually\nbecause they try to lift with their back.  The right way to lift\nheavy things is to let your legs do the work.  Inexperienced founders\nmake the same mistake when trying to convince investors.  They try\nto convince with their p",
+      "date": "2026-04-12T12:21:19.025102+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/ds.html",
+      "title": "Do Things that Don't Scale",
+      "description": "July 2013One of the most common types of advice we give at Y Combinator is\nto do things that don't scale.  A lot of would-be founders believe\nthat startups either take off or don't.  You build something, make\nit available, and if you've made a better mousetrap, people beat a\npath to your door as pro",
+      "date": "2026-04-12T12:21:19.750188+00:00"
     }
   ]
 }

@@ -7,7 +7,61 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Apr 2026 06:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 12:21:20 +0000</lastBuildDate>
+    <item>
+      <title>Do Things that Don't Scale</title>
+      <link>https://paulgraham.com/ds.html</link>
+      <description>July 2013One of the most common types of advice we give at Y Combinator is
+to do things that don't scale.  A lot of would-be founders believe
+that startups either take off or don't.  You build something, make
+it available, and if you've made a better mousetrap, people beat a
+path to your door as pro</description>
+      <guid isPermaLink="false">https://paulgraham.com/ds.html</guid>
+      <pubDate>Sun, 12 Apr 2026 12:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Convince Investors</title>
+      <link>https://paulgraham.com/convince.html</link>
+      <description>August 2013When people hurt themselves lifting heavy things, it's usually
+because they try to lift with their back.  The right way to lift
+heavy things is to let your legs do the work.  Inexperienced founders
+make the same mistake when trying to convince investors.  They try
+to convince with their p</description>
+      <guid isPermaLink="false">https://paulgraham.com/convince.html</guid>
+      <pubDate>Sun, 12 Apr 2026 12:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investor Herd Dynamics</title>
+      <link>https://paulgraham.com/herd.html</link>
+      <description>August 2013The biggest component in most investors' opinion of you is the
+opinion of other investors.  Which is of course a recipe for
+exponential growth.  When one investor wants to invest in you, that
+makes other investors want to, which makes others want to, and so
+on.Sometimes inexperienced foun</description>
+      <guid isPermaLink="false">https://paulgraham.com/herd.html</guid>
+      <pubDate>Sun, 12 Apr 2026 12:21:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Raise Money</title>
+      <link>https://paulgraham.com/fr.html</link>
+      <description>September 2013Most startups that raise money do it more than once.  A typical
+trajectory might be (1) to get started with a few tens of thousands
+from something like Y Combinator or individual angels, then 
+(2) raise a few hundred thousand to a few million to build the company,
+and then (3) once the</description>
+      <guid isPermaLink="false">https://paulgraham.com/fr.html</guid>
+      <pubDate>Sun, 12 Apr 2026 12:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Before the Startup</title>
+      <link>https://paulgraham.com/before.html</link>
+      <description>October 2014(This essay is derived from a guest lecture in Sam Altman'sstartup classat
+Stanford.  It's intended for college students, but much of it is
+applicable to potential founders at other ages.)One of the advantages of having kids is that when you have to give
+advice, you can ask yourself "wha</description>
+      <guid isPermaLink="false">https://paulgraham.com/before.html</guid>
+      <pubDate>Sun, 12 Apr 2026 12:21:17 +0000</pubDate>
+    </item>
     <item>
       <title>The Brand Age</title>
       <link>https://paulgraham.com/brandage.html</link>
@@ -424,6 +478,111 @@ worth $2 million, and the company's trajectory is </description>
       <description>Life is Short</description>
       <guid isPermaLink="false">https://paulgraham.com/vb.html</guid>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jessica Livingston</title>
+      <link>https://paulgraham.com/jessica.html</link>
+      <description>Jessica Livingston</description>
+      <guid isPermaLink="false">https://paulgraham.com/jessica.html</guid>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Default Alive or Default Dead?</title>
+      <link>https://paulgraham.com/aord.html</link>
+      <description>Default Alive or Default Dead?</description>
+      <guid isPermaLink="false">https://paulgraham.com/aord.html</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Write Like You Talk</title>
+      <link>https://paulgraham.com/talk.html</link>
+      <description>Write Like You Talk</description>
+      <guid isPermaLink="false">https://paulgraham.com/talk.html</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Way to Detect Bias</title>
+      <link>https://paulgraham.com/bias.html</link>
+      <description>A Way to Detect Bias</description>
+      <guid isPermaLink="false">https://paulgraham.com/bias.html</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Your Name</title>
+      <link>https://paulgraham.com/name.html</link>
+      <description>Change Your Name</description>
+      <guid isPermaLink="false">https://paulgraham.com/name.html</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why It's Safe for Founders to Be Nice</title>
+      <link>https://paulgraham.com/safe.html</link>
+      <description>Why It's Safe for Founders to Be Nice</description>
+      <guid isPermaLink="false">https://paulgraham.com/safe.html</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Microsoft Is this the Altair Basic of?</title>
+      <link>https://paulgraham.com/altair.html</link>
+      <description>What Microsoft Is this the Altair Basic of?</description>
+      <guid isPermaLink="false">https://paulgraham.com/altair.html</guid>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don't Talk to Corp Dev</title>
+      <link>https://paulgraham.com/corpdev.html</link>
+      <description>Don't Talk to Corp Dev</description>
+      <guid isPermaLink="false">https://paulgraham.com/corpdev.html</guid>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Doesn't Seem Like Work?</title>
+      <link>https://paulgraham.com/work.html</link>
+      <description>What Doesn't Seem Like Work?</description>
+      <guid isPermaLink="false">https://paulgraham.com/work.html</guid>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ronco Principle</title>
+      <link>https://paulgraham.com/ronco.html</link>
+      <description>The Ronco Principle</description>
+      <guid isPermaLink="false">https://paulgraham.com/ronco.html</guid>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Fatal Pinch</title>
+      <link>https://paulgraham.com/pinch.html</link>
+      <description>The Fatal Pinch</description>
+      <guid isPermaLink="false">https://paulgraham.com/pinch.html</guid>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How You Know</title>
+      <link>https://paulgraham.com/know.html</link>
+      <description>How You Know</description>
+      <guid isPermaLink="false">https://paulgraham.com/know.html</guid>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Be an Expert in a Changing World</title>
+      <link>https://paulgraham.com/ecw.html</link>
+      <description>How to Be an Expert in a Changing World</description>
+      <guid isPermaLink="false">https://paulgraham.com/ecw.html</guid>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let the Other 95% of Great Programmers In</title>
+      <link>https://paulgraham.com/95.html</link>
+      <description>Let the Other 95% of Great Programmers In</description>
+      <guid isPermaLink="false">https://paulgraham.com/95.html</guid>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mean People Fail</title>
+      <link>https://paulgraham.com/mean.html</link>
+      <description>Mean People Fail</description>
+      <guid isPermaLink="false">https://paulgraham.com/mean.html</guid>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Lose Time and Money</title>
