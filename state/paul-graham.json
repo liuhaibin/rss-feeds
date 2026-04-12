@@ -239,6 +239,126 @@
       "title": "How to Think for Yourself",
       "description": "",
       "date": "2020-11-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/early.html",
+      "title": "Early Work",
+      "description": "",
+      "date": "2020-10-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/wtax.html",
+      "title": "Modeling a Wealth Tax",
+      "description": "A wealth tax will usually have a threshold at which it starts.\nHow much difference would a high threshold make? To model that,\nwe need to make some assumptions about the initial value of\nyour stock and the growth rate.Suppose your stock is initially\nworth $2 million, and the company's trajectory is ",
+      "date": "2020-08-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/conformism.html",
+      "title": "The Four Quadrants of Conformism",
+      "description": "",
+      "date": "2020-07-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/orth.html",
+      "title": "Orthodox Privilege",
+      "description": "",
+      "date": "2020-07-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/cred.html",
+      "title": "Coronavirus and Credibility",
+      "description": "",
+      "date": "2020-04-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/useful.html",
+      "title": "How to Write Usefully",
+      "description": "",
+      "date": "2020-02-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/noob.html",
+      "title": "Being a Noob",
+      "description": "",
+      "date": "2020-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/fh.html",
+      "title": "Haters",
+      "description": "",
+      "date": "2020-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/mod.html",
+      "title": "The Two Kinds of Moderate",
+      "description": "",
+      "date": "2019-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/fp.html",
+      "title": "Fashionable Problems",
+      "description": "",
+      "date": "2019-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/lesson.html",
+      "title": "The Lesson to Unlearn",
+      "description": "",
+      "date": "2019-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/nov.html",
+      "title": "Novelty and Heresy",
+      "description": "",
+      "date": "2019-11-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/genius.html",
+      "title": "The Bus Ticket Theory of Genius",
+      "description": "",
+      "date": "2019-11-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/sun.html",
+      "title": "General and Surprising",
+      "description": "",
+      "date": "2017-09-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/pow.html",
+      "title": "Charisma / Power",
+      "description": "",
+      "date": "2017-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/disc.html",
+      "title": "The Risk of Discovery",
+      "description": "",
+      "date": "2017-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/pgh.html",
+      "title": "How to Make Pittsburgh a Startup Hub",
+      "description": "",
+      "date": "2016-04-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/vb.html",
+      "title": "Life is Short",
+      "description": "",
+      "date": "2016-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/ineq.html",
+      "title": "Economic Inequality",
+      "description": "",
+      "date": "2016-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/re.html",
+      "title": "The Refragmentation",
+      "description": "",
+      "date": "2016-01-01T00:00:00+00:00"
     }
   ]
 }

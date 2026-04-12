@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Apr 2026 00:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 06:42:03 +0000</lastBuildDate>
     <item>
       <title>The Brand Age</title>
       <link>https://paulgraham.com/brandage.html</link>
@@ -275,11 +275,155 @@
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Early Work</title>
+      <link>https://paulgraham.com/early.html</link>
+      <description>Early Work</description>
+      <guid isPermaLink="false">https://paulgraham.com/early.html</guid>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modeling a Wealth Tax</title>
+      <link>https://paulgraham.com/wtax.html</link>
+      <description>A wealth tax will usually have a threshold at which it starts.
+How much difference would a high threshold make? To model that,
+we need to make some assumptions about the initial value of
+your stock and the growth rate.Suppose your stock is initially
+worth $2 million, and the company's trajectory is </description>
+      <guid isPermaLink="false">https://paulgraham.com/wtax.html</guid>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orthodox Privilege</title>
+      <link>https://paulgraham.com/orth.html</link>
+      <description>Orthodox Privilege</description>
+      <guid isPermaLink="false">https://paulgraham.com/orth.html</guid>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Four Quadrants of Conformism</title>
+      <link>https://paulgraham.com/conformism.html</link>
+      <description>The Four Quadrants of Conformism</description>
+      <guid isPermaLink="false">https://paulgraham.com/conformism.html</guid>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coronavirus and Credibility</title>
+      <link>https://paulgraham.com/cred.html</link>
+      <description>Coronavirus and Credibility</description>
+      <guid isPermaLink="false">https://paulgraham.com/cred.html</guid>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Write Usefully</title>
+      <link>https://paulgraham.com/useful.html</link>
+      <description>How to Write Usefully</description>
+      <guid isPermaLink="false">https://paulgraham.com/useful.html</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Haters</title>
+      <link>https://paulgraham.com/fh.html</link>
+      <description>Haters</description>
+      <guid isPermaLink="false">https://paulgraham.com/fh.html</guid>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Being a Noob</title>
+      <link>https://paulgraham.com/noob.html</link>
+      <description>Being a Noob</description>
+      <guid isPermaLink="false">https://paulgraham.com/noob.html</guid>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Lesson to Unlearn</title>
+      <link>https://paulgraham.com/lesson.html</link>
+      <description>The Lesson to Unlearn</description>
+      <guid isPermaLink="false">https://paulgraham.com/lesson.html</guid>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fashionable Problems</title>
+      <link>https://paulgraham.com/fp.html</link>
+      <description>Fashionable Problems</description>
+      <guid isPermaLink="false">https://paulgraham.com/fp.html</guid>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Two Kinds of Moderate</title>
+      <link>https://paulgraham.com/mod.html</link>
+      <description>The Two Kinds of Moderate</description>
+      <guid isPermaLink="false">https://paulgraham.com/mod.html</guid>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Having Kids</title>
       <link>https://paulgraham.com/kids.html</link>
       <description>Having Kids</description>
       <guid isPermaLink="false">https://paulgraham.com/kids.html</guid>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Bus Ticket Theory of Genius</title>
+      <link>https://paulgraham.com/genius.html</link>
+      <description>The Bus Ticket Theory of Genius</description>
+      <guid isPermaLink="false">https://paulgraham.com/genius.html</guid>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novelty and Heresy</title>
+      <link>https://paulgraham.com/nov.html</link>
+      <description>Novelty and Heresy</description>
+      <guid isPermaLink="false">https://paulgraham.com/nov.html</guid>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>General and Surprising</title>
+      <link>https://paulgraham.com/sun.html</link>
+      <description>General and Surprising</description>
+      <guid isPermaLink="false">https://paulgraham.com/sun.html</guid>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Risk of Discovery</title>
+      <link>https://paulgraham.com/disc.html</link>
+      <description>The Risk of Discovery</description>
+      <guid isPermaLink="false">https://paulgraham.com/disc.html</guid>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Charisma / Power</title>
+      <link>https://paulgraham.com/pow.html</link>
+      <description>Charisma / Power</description>
+      <guid isPermaLink="false">https://paulgraham.com/pow.html</guid>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make Pittsburgh a Startup Hub</title>
+      <link>https://paulgraham.com/pgh.html</link>
+      <description>How to Make Pittsburgh a Startup Hub</description>
+      <guid isPermaLink="false">https://paulgraham.com/pgh.html</guid>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Refragmentation</title>
+      <link>https://paulgraham.com/re.html</link>
+      <description>The Refragmentation</description>
+      <guid isPermaLink="false">https://paulgraham.com/re.html</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Economic Inequality</title>
+      <link>https://paulgraham.com/ineq.html</link>
+      <description>Economic Inequality</description>
+      <guid isPermaLink="false">https://paulgraham.com/ineq.html</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Life is Short</title>
+      <link>https://paulgraham.com/vb.html</link>
+      <description>Life is Short</description>
+      <guid isPermaLink="false">https://paulgraham.com/vb.html</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Lose Time and Money</title>
