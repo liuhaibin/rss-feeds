@@ -7,7 +7,81 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 18:34:53 +0000</lastBuildDate>
+    <item>
+      <title>How to Fund a Startup</title>
+      <link>https://paulgraham.com/startupfunding.html</link>
+      <description>November 2005Venture funding works like gears.  A typical startup goes through
+several rounds of funding, and at each round you want to take just
+enough money to reach the speed where you can shift into the next
+gear.Few startups get it quite right.  Many are underfunded.  A few are
+overfunded, whic</description>
+      <guid isPermaLink="false">https://paulgraham.com/startupfunding.html</guid>
+      <pubDate>Mon, 13 Apr 2026 18:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web 2.0</title>
+      <link>https://paulgraham.com/web20.html</link>
+      <description>November 2005Does "Web 2.0" mean anything?  Till recently I thought it didn't,
+but the truth turns out to be more complicated.  Originally, yes,
+it was meaningless.  Now it seems to have acquired a meaning.  And
+yet those who dislike the term are probably right, because if it
+means what I think it d</description>
+      <guid isPermaLink="false">https://paulgraham.com/web20.html</guid>
+      <pubDate>Mon, 13 Apr 2026 18:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Do What You Love</title>
+      <link>https://paulgraham.com/love.html</link>
+      <description>January 2006To do something well you have to like it.   That idea is not exactly
+novel.  We've got it down to four words: "Do what you love."  But
+it's not enough just to tell people that.  Doing what you love is
+complicated.The very idea is foreign to what most of us learn as kids.  When I
+was a ki</description>
+      <guid isPermaLink="false">https://paulgraham.com/love.html</guid>
+      <pubDate>Mon, 13 Apr 2026 18:34:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Power of the Marginal</title>
+      <link>https://paulgraham.com/marginal.html</link>
+      <description>June 2006(This essay is derived from talks at Usenix 2006 and
+Railsconf 2006.)A couple years ago my friend Trevor and I went to look at the Apple
+garage.  As we stood there, he said that as a kid growing up in
+Saskatchewan he'd been amazed at the dedication Jobs and Wozniak
+must have had to work in </description>
+      <guid isPermaLink="false">https://paulgraham.com/marginal.html</guid>
+      <pubDate>Mon, 13 Apr 2026 18:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Present to Investors</title>
+      <link>https://paulgraham.com/investors.html</link>
+      <description>August 2006, rev. April 2007, September 2010In a few days it will be Demo Day, when the startups we funded
+this summer present to investors.  Y Combinator funds startups twice
+a year, in January and June.  Ten weeks later we invite all the
+investors we know to hear them present what they've built so</description>
+      <guid isPermaLink="false">https://paulgraham.com/investors.html</guid>
+      <pubDate>Mon, 13 Apr 2026 18:34:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Student's Guide to Startups</title>
+      <link>https://paulgraham.com/mit.html</link>
+      <description>October 2006(This essay is derived from a talk at MIT.)Till recently graduating seniors had two choices: get a job or go
+to grad school.  I think there will increasingly be a third option:
+to start your own startup.  But how common will that be?I'm sure the default will always be to get a job, but s</description>
+      <guid isPermaLink="false">https://paulgraham.com/mit.html</guid>
+      <pubDate>Mon, 13 Apr 2026 18:34:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 18 Mistakes That Kill Startups</title>
+      <link>https://paulgraham.com/startupmistakes.html</link>
+      <description>October 2006In the Q &amp; A period after a recent talk, someone asked what made
+startups fail.  After standing there gaping for a few seconds I
+realized this was kind of a trick question.  It's equivalent to
+asking how to make a startup succeed — if you avoid every cause of
+failure, you succeed — and t</description>
+      <guid isPermaLink="false">https://paulgraham.com/startupmistakes.html</guid>
+      <pubDate>Mon, 13 Apr 2026 18:34:42 +0000</pubDate>
+    </item>
     <item>
       <title>Why to Not Not Start a Startup</title>
       <link>https://paulgraham.com/notnot.html</link>
@@ -1261,6 +1335,97 @@ what now seems a comically famil</description>
       <description>Is It Worth Being Wise?</description>
       <guid isPermaLink="false">https://paulgraham.com/wisdom.html</guid>
       <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning from Founders</title>
+      <link>https://paulgraham.com/foundersatwork.html</link>
+      <description>Learning from Founders</description>
+      <guid isPermaLink="false">https://paulgraham.com/foundersatwork.html</guid>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Art Can Be Good</title>
+      <link>https://paulgraham.com/goodart.html</link>
+      <description>How Art Can Be Good</description>
+      <guid isPermaLink="false">https://paulgraham.com/goodart.html</guid>
+      <pubDate>Fri, 01 Dec 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Island Test</title>
+      <link>https://paulgraham.com/island.html</link>
+      <description>The Island Test</description>
+      <guid isPermaLink="false">https://paulgraham.com/island.html</guid>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copy What You Like</title>
+      <link>https://paulgraham.com/copy.html</link>
+      <description>Copy What You Like</description>
+      <guid isPermaLink="false">https://paulgraham.com/copy.html</guid>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Be Silicon Valley</title>
+      <link>https://paulgraham.com/siliconvalley.html</link>
+      <description>How to Be Silicon Valley</description>
+      <guid isPermaLink="false">https://paulgraham.com/siliconvalley.html</guid>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Startups Condense in America</title>
+      <link>https://paulgraham.com/america.html</link>
+      <description>Why Startups Condense in America</description>
+      <guid isPermaLink="false">https://paulgraham.com/america.html</guid>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>See Randomness</title>
+      <link>https://paulgraham.com/randomness.html</link>
+      <description>See Randomness</description>
+      <guid isPermaLink="false">https://paulgraham.com/randomness.html</guid>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hardest Lessons for Startups to Learn</title>
+      <link>https://paulgraham.com/startuplessons.html</link>
+      <description>The Hardest Lessons for Startups to Learn</description>
+      <guid isPermaLink="false">https://paulgraham.com/startuplessons.html</guid>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why YC</title>
+      <link>https://paulgraham.com/whyyc.html</link>
+      <description>Why YC</description>
+      <guid isPermaLink="false">https://paulgraham.com/whyyc.html</guid>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6,631,372</title>
+      <link>https://paulgraham.com/6631327.html</link>
+      <description>6,631,372</description>
+      <guid isPermaLink="false">https://paulgraham.com/6631327.html</guid>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Software Patents Evil?</title>
+      <link>https://paulgraham.com/softwarepatents.html</link>
+      <description>Are Software Patents Evil?</description>
+      <guid isPermaLink="false">https://paulgraham.com/softwarepatents.html</guid>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good and Bad Procrastination</title>
+      <link>https://paulgraham.com/procrastination.html</link>
+      <description>Good and Bad Procrastination</description>
+      <guid isPermaLink="false">https://paulgraham.com/procrastination.html</guid>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Venture Capital Squeeze</title>
+      <link>https://paulgraham.com/vcsqueeze.html</link>
+      <description>The Venture Capital Squeeze</description>
+      <guid isPermaLink="false">https://paulgraham.com/vcsqueeze.html</guid>
+      <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

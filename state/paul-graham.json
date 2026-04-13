@@ -959,6 +959,126 @@
       "title": "Is It Worth Being Wise?",
       "description": "",
       "date": "2007-02-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/foundersatwork.html",
+      "title": "Learning from Founders",
+      "description": "",
+      "date": "2007-01-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/goodart.html",
+      "title": "How Art Can Be Good",
+      "description": "",
+      "date": "2006-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/startupmistakes.html",
+      "title": "The 18 Mistakes That Kill Startups",
+      "description": "October 2006In the Q & A period after a recent talk, someone asked what made\nstartups fail.  After standing there gaping for a few seconds I\nrealized this was kind of a trick question.  It's equivalent to\nasking how to make a startup succeed — if you avoid every cause of\nfailure, you succeed — and t",
+      "date": "2026-04-13T18:34:42.741213+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/mit.html",
+      "title": "A Student's Guide to Startups",
+      "description": "October 2006(This essay is derived from a talk at MIT.)Till recently graduating seniors had two choices: get a job or go\nto grad school.  I think there will increasingly be a third option:\nto start your own startup.  But how common will that be?I'm sure the default will always be to get a job, but s",
+      "date": "2026-04-13T18:34:43.359969+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/investors.html",
+      "title": "How to Present to Investors",
+      "description": "August 2006, rev. April 2007, September 2010In a few days it will be Demo Day, when the startups we funded\nthis summer present to investors.  Y Combinator funds startups twice\na year, in January and June.  Ten weeks later we invite all the\ninvestors we know to hear them present what they've built so",
+      "date": "2026-04-13T18:34:43.995363+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/copy.html",
+      "title": "Copy What You Like",
+      "description": "",
+      "date": "2006-07-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/island.html",
+      "title": "The Island Test",
+      "description": "",
+      "date": "2006-07-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/marginal.html",
+      "title": "The Power of the Marginal",
+      "description": "June 2006(This essay is derived from talks at Usenix 2006 and\nRailsconf 2006.)A couple years ago my friend Trevor and I went to look at the Apple\ngarage.  As we stood there, he said that as a kid growing up in\nSaskatchewan he'd been amazed at the dedication Jobs and Wozniak\nmust have had to work in ",
+      "date": "2026-04-13T18:34:45.926213+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/america.html",
+      "title": "Why Startups Condense in America",
+      "description": "",
+      "date": "2006-05-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/siliconvalley.html",
+      "title": "How to Be Silicon Valley",
+      "description": "",
+      "date": "2006-05-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/startuplessons.html",
+      "title": "The Hardest Lessons for Startups to Learn",
+      "description": "",
+      "date": "2006-04-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/randomness.html",
+      "title": "See Randomness",
+      "description": "",
+      "date": "2006-04-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/softwarepatents.html",
+      "title": "Are Software Patents Evil?",
+      "description": "",
+      "date": "2006-03-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/6631327.html",
+      "title": "6,631,372",
+      "description": "",
+      "date": "2006-03-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/whyyc.html",
+      "title": "Why YC",
+      "description": "",
+      "date": "2006-03-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/love.html",
+      "title": "How to Do What You Love",
+      "description": "January 2006To do something well you have to like it.   That idea is not exactly\nnovel.  We've got it down to four words: \"Do what you love.\"  But\nit's not enough just to tell people that.  Doing what you love is\ncomplicated.The very idea is foreign to what most of us learn as kids.  When I\nwas a ki",
+      "date": "2026-04-13T18:34:50.838190+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/procrastination.html",
+      "title": "Good and Bad Procrastination",
+      "description": "",
+      "date": "2005-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/web20.html",
+      "title": "Web 2.0",
+      "description": "November 2005Does \"Web 2.0\" mean anything?  Till recently I thought it didn't,\nbut the truth turns out to be more complicated.  Originally, yes,\nit was meaningless.  Now it seems to have acquired a meaning.  And\nyet those who dislike the term are probably right, because if it\nmeans what I think it d",
+      "date": "2026-04-13T18:34:52.066143+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/startupfunding.html",
+      "title": "How to Fund a Startup",
+      "description": "November 2005Venture funding works like gears.  A typical startup goes through\nseveral rounds of funding, and at each round you want to take just\nenough money to reach the speed where you can shift into the next\ngear.Few startups get it quite right.  Many are underfunded.  A few are\noverfunded, whic",
+      "date": "2026-04-13T18:34:52.800212+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/vcsqueeze.html",
+      "title": "The Venture Capital Squeeze",
+      "description": "",
+      "date": "2005-11-01T00:00:00+00:00"
     }
   ]
 }
