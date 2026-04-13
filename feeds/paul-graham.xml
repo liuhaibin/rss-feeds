@@ -7,7 +7,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:34:48 +0000</lastBuildDate>
+    <item>
+      <title>Why to Not Not Start a Startup</title>
+      <link>https://paulgraham.com/notnot.html</link>
+      <description>March 2007(This essay is derived from talks at the 2007 
+Startup School and the Berkeley CSUA.)We've now been doing Y Combinator long enough to have some data
+about success rates.  Our first batch, in the summer of 2005, had
+eight startups in it.  Of those eight, it now looks as if at least
+four suc</description>
+      <guid isPermaLink="false">https://paulgraham.com/notnot.html</guid>
+      <pubDate>Mon, 13 Apr 2026 12:34:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Not to Die</title>
+      <link>https://paulgraham.com/die.html</link>
+      <description>August 2007(This is a talk I gave at the last 
+Y Combinator dinner of the summer. 
+Usually we don't have a speaker at the last dinner; it's more of
+a party.  But it seemed worth spoiling the atmosphere if I could
+save some of the startups from
+preventable deaths.  So at the last minute I cooked up t</description>
+      <guid isPermaLink="false">https://paulgraham.com/die.html</guid>
+      <pubDate>Mon, 13 Apr 2026 12:34:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Future of Web Startups</title>
+      <link>https://paulgraham.com/webstartups.html</link>
+      <description>October 2007(This essay is derived from a keynote at FOWA in October 2007.)There's something interesting happening right now.  Startups are
+undergoing the same transformation that technology does when it becomes
+cheaper.It's a pattern we see over and over in technology.  Initially
+there's some devic</description>
+      <guid isPermaLink="false">https://paulgraham.com/webstartups.html</guid>
+      <pubDate>Mon, 13 Apr 2026 12:34:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>You Weren't Meant to Have a Boss</title>
+      <link>https://paulgraham.com/boss.html</link>
+      <description>March 2008, rev. June 2008Technology tends to separate normal from natural.  Our bodies
+weren't designed to eat the foods that people in rich countries eat, or
+to get so little exercise.  
+There may be a similar problem with the way we work: 
+a normal job may be as bad for us intellectually as white</description>
+      <guid isPermaLink="false">https://paulgraham.com/boss.html</guid>
+      <pubDate>Mon, 13 Apr 2026 12:34:35 +0000</pubDate>
+    </item>
     <item>
       <title>Why There Aren't More Googles</title>
       <link>https://paulgraham.com/googles.html</link>
@@ -1100,11 +1144,123 @@ what now seems a comically famil</description>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Some Heroes</title>
+      <link>https://paulgraham.com/heroes.html</link>
+      <description>Some Heroes</description>
+      <guid isPermaLink="false">https://paulgraham.com/heroes.html</guid>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Be Good</title>
       <link>https://paulgraham.com/good.html</link>
       <description>Be Good</description>
       <guid isPermaLink="false">https://paulgraham.com/good.html</guid>
       <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Venture Animal</title>
+      <link>https://paulgraham.com/ycombinator.html</link>
+      <description>A New Venture Animal</description>
+      <guid isPermaLink="false">https://paulgraham.com/ycombinator.html</guid>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Disagree</title>
+      <link>https://paulgraham.com/disagree.html</link>
+      <description>How to Disagree</description>
+      <guid isPermaLink="false">https://paulgraham.com/disagree.html</guid>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Six Principles for Making New Things</title>
+      <link>https://paulgraham.com/newthings.html</link>
+      <description>Six Principles for Making New Things</description>
+      <guid isPermaLink="false">https://paulgraham.com/newthings.html</guid>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trolls</title>
+      <link>https://paulgraham.com/trolls.html</link>
+      <description>Trolls</description>
+      <guid isPermaLink="false">https://paulgraham.com/trolls.html</guid>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why to Move to a Startup Hub</title>
+      <link>https://paulgraham.com/startuphubs.html</link>
+      <description>Why to Move to a Startup Hub</description>
+      <guid isPermaLink="false">https://paulgraham.com/startuphubs.html</guid>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>News from the Front</title>
+      <link>https://paulgraham.com/colleges.html</link>
+      <description>News from the Front</description>
+      <guid isPermaLink="false">https://paulgraham.com/colleges.html</guid>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Do Philosophy</title>
+      <link>https://paulgraham.com/philosophy.html</link>
+      <description>How to Do Philosophy</description>
+      <guid isPermaLink="false">https://paulgraham.com/philosophy.html</guid>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Holding a Program in One's Head</title>
+      <link>https://paulgraham.com/head.html</link>
+      <description>Holding a Program in One's Head</description>
+      <guid isPermaLink="false">https://paulgraham.com/head.html</guid>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Equity Equation</title>
+      <link>https://paulgraham.com/equity.html</link>
+      <description>The Equity Equation</description>
+      <guid isPermaLink="false">https://paulgraham.com/equity.html</guid>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stuff</title>
+      <link>https://paulgraham.com/stuff.html</link>
+      <description>Stuff</description>
+      <guid isPermaLink="false">https://paulgraham.com/stuff.html</guid>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Alternative Theory of Unions</title>
+      <link>https://paulgraham.com/unions.html</link>
+      <description>An Alternative Theory of Unions</description>
+      <guid isPermaLink="false">https://paulgraham.com/unions.html</guid>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft is Dead</title>
+      <link>https://paulgraham.com/microsoft.html</link>
+      <description>Microsoft is Dead</description>
+      <guid isPermaLink="false">https://paulgraham.com/microsoft.html</guid>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Kinds of Judgement</title>
+      <link>https://paulgraham.com/judgement.html</link>
+      <description>Two Kinds of Judgement</description>
+      <guid isPermaLink="false">https://paulgraham.com/judgement.html</guid>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hacker's Guide to Investors</title>
+      <link>https://paulgraham.com/guidetoinvestors.html</link>
+      <description>The Hacker's Guide to Investors</description>
+      <guid isPermaLink="false">https://paulgraham.com/guidetoinvestors.html</guid>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is It Worth Being Wise?</title>
+      <link>https://paulgraham.com/wisdom.html</link>
+      <description>Is It Worth Being Wise?</description>
+      <guid isPermaLink="false">https://paulgraham.com/wisdom.html</guid>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
