@@ -7,7 +7,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 00:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:56:27 +0000</lastBuildDate>
+    <item>
+      <title>Why There Aren't More Googles</title>
+      <link>https://paulgraham.com/googles.html</link>
+      <description>April 2008Umair Haquewroterecently that the reason there aren't more Googles is
+that most startups get bought before they can change the world.</description>
+      <guid isPermaLink="false">https://paulgraham.com/googles.html</guid>
+      <pubDate>Mon, 13 Apr 2026 06:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disconnecting Distraction</title>
+      <link>https://paulgraham.com/distraction.html</link>
+      <description>Disconnecting Distraction</description>
+      <guid isPermaLink="false">https://paulgraham.com/distraction.html</guid>
+      <pubDate>Mon, 13 Apr 2026 06:56:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Fundraising Survival Guide</title>
+      <link>https://paulgraham.com/fundraising.html</link>
+      <description>August 2008Raising money is the second hardest part of starting a startup.
+The hardest part is making something people want: most startups
+that die, die because they didn't do that.  But the second biggest
+cause of death is probably the difficulty of raising money.
+Fundraising is brutal.One reason i</description>
+      <guid isPermaLink="false">https://paulgraham.com/fundraising.html</guid>
+      <pubDate>Mon, 13 Apr 2026 06:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why to Start a Startup in a Bad Economy</title>
+      <link>https://paulgraham.com/badeconomy.html</link>
+      <description>October 2008The economic situation is apparently so grim that some experts fear
+we may be in for a stretch as bad as the mid seventies.When Microsoft and Apple were founded.As those examples suggest, a recession may not be such a bad time
+to start a startup.  I'm not claiming it's a particularly goo</description>
+      <guid isPermaLink="false">https://paulgraham.com/badeconomy.html</guid>
+      <pubDate>Mon, 13 Apr 2026 06:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Startups in 13 Sentences</title>
+      <link>https://paulgraham.com/13sentences.html</link>
+      <description>February 2009One of the things I always tell startups is a principle I learned
+from Paul Buchheit: it's better to make a few people really happy
+than to make a lot of people semi-happy.  I was saying recently to
+a reporter that if I could only tell startups 10 things, this would
+be one of them.  The</description>
+      <guid isPermaLink="false">https://paulgraham.com/13sentences.html</guid>
+      <pubDate>Mon, 13 Apr 2026 06:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Relentlessly Resourceful</title>
+      <link>https://paulgraham.com/relres.html</link>
+      <description>March 2009A couple days ago I finally got being a good startup founder down
+to two words:  relentlessly resourceful.Till then the best I'd managed was to get the opposite quality down
+to one: hapless.  Most dictionaries say hapless means unlucky.  But
+the dictionaries are not doing a very good job. </description>
+      <guid isPermaLink="false">https://paulgraham.com/relres.html</guid>
+      <pubDate>Mon, 13 Apr 2026 06:56:15 +0000</pubDate>
+    </item>
     <item>
       <title>Maker's Schedule, Manager's Schedule</title>
       <link>https://paulgraham.com/makersschedule.html</link>
@@ -932,6 +988,13 @@ what now seems a comically famil</description>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Five Founders</title>
+      <link>https://paulgraham.com/5founders.html</link>
+      <description>Five Founders</description>
+      <guid isPermaLink="false">https://paulgraham.com/5founders.html</guid>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Founder Visa</title>
       <link>https://paulgraham.com/foundervisa.html</link>
       <description>The Founder Visa</description>
@@ -951,6 +1014,97 @@ what now seems a comically famil</description>
       <description>A Local Revolution?</description>
       <guid isPermaLink="false">https://paulgraham.com/revolution.html</guid>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why TV Lost</title>
+      <link>https://paulgraham.com/convergence.html</link>
+      <description>Why TV Lost</description>
+      <guid isPermaLink="false">https://paulgraham.com/convergence.html</guid>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Be an Angel Investor</title>
+      <link>https://paulgraham.com/angelinvesting.html</link>
+      <description>How to Be an Angel Investor</description>
+      <guid isPermaLink="false">https://paulgraham.com/angelinvesting.html</guid>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keep Your Identity Small</title>
+      <link>https://paulgraham.com/identity.html</link>
+      <description>Keep Your Identity Small</description>
+      <guid isPermaLink="false">https://paulgraham.com/identity.html</guid>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What I've Learned from Hacker News</title>
+      <link>https://paulgraham.com/hackernews.html</link>
+      <description>What I've Learned from Hacker News</description>
+      <guid isPermaLink="false">https://paulgraham.com/hackernews.html</guid>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can You Buy a Silicon Valley?  Maybe.</title>
+      <link>https://paulgraham.com/maybe.html</link>
+      <description>Can You Buy a Silicon Valley?  Maybe.</description>
+      <guid isPermaLink="false">https://paulgraham.com/maybe.html</guid>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The High-Res Society</title>
+      <link>https://paulgraham.com/highres.html</link>
+      <description>The High-Res Society</description>
+      <guid isPermaLink="false">https://paulgraham.com/highres.html</guid>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could VC be a Casualty of the Recession?</title>
+      <link>https://paulgraham.com/divergence.html</link>
+      <description>Could VC be a Casualty of the Recession?</description>
+      <guid isPermaLink="false">https://paulgraham.com/divergence.html</guid>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>After Credentials</title>
+      <link>https://paulgraham.com/credentials.html</link>
+      <description>After Credentials</description>
+      <guid isPermaLink="false">https://paulgraham.com/credentials.html</guid>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Other Half of "Artists Ship"</title>
+      <link>https://paulgraham.com/artistsship.html</link>
+      <description>The Other Half of "Artists Ship"</description>
+      <guid isPermaLink="false">https://paulgraham.com/artistsship.html</guid>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pooled-Risk Company Management Company</title>
+      <link>https://paulgraham.com/prcmc.html</link>
+      <description>The Pooled-Risk Company Management Company</description>
+      <guid isPermaLink="false">https://paulgraham.com/prcmc.html</guid>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lies We Tell Kids</title>
+      <link>https://paulgraham.com/lies.html</link>
+      <description>Lies We Tell Kids</description>
+      <guid isPermaLink="false">https://paulgraham.com/lies.html</guid>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cities and Ambition</title>
+      <link>https://paulgraham.com/cities.html</link>
+      <description>Cities and Ambition</description>
+      <guid isPermaLink="false">https://paulgraham.com/cities.html</guid>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Be Good</title>
+      <link>https://paulgraham.com/good.html</link>
+      <description>Be Good</description>
+      <guid isPermaLink="false">https://paulgraham.com/good.html</guid>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
