@@ -7,7 +7,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 06:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 12:32:33 +0000</lastBuildDate>
+    <item>
+      <title>Programming Bottom-Up</title>
+      <link>https://paulgraham.com/progbot.html</link>
+      <description>(This essay is from the introduction toOn Lisp.)It's a long-standing principle of programming style that the functional
+elements of a program should not be too large.  If some component of a
+program grows beyond the stage where it's readily comprehensible,
+it becomes a mass of complexity which conce</description>
+      <guid isPermaLink="false">https://paulgraham.com/progbot.html</guid>
+      <pubDate>Tue, 14 Apr 2026 12:32:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lisp for Web-Based Applications</title>
+      <link>https://paulgraham.com/lwba.html</link>
+      <description>After a link toBeating the Averageswas posted on slashdot, 
+some readers wanted to hear in more detail 
+about the specific technical advantages we got from using
+Lisp in Viaweb.  For those who are interested,
+here are some excerpts from a talk I gave in April 2001 at
+BBN Labs in Cambridge, MA.</description>
+      <guid isPermaLink="false">https://paulgraham.com/lwba.html</guid>
+      <pubDate>Tue, 14 Apr 2026 12:32:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beating the Averages</title>
+      <link>https://paulgraham.com/avg.html</link>
+      <description>April 2001, rev. April 2003(This article is derived from a talk given at the 2001 Franz
+Developer Symposium.)In the summer of 1995, my friend Robert Morris and I
+started a startup calledViaweb.  
+Our plan was to write
+software that would let end users build online stores.
+What was novel about this s</description>
+      <guid isPermaLink="false">https://paulgraham.com/avg.html</guid>
+      <pubDate>Tue, 14 Apr 2026 12:32:30 +0000</pubDate>
+    </item>
     <item>
       <title>Why Arc Isn't Especially Object-Oriented</title>
       <link>https://paulgraham.com/noop.html</link>
@@ -972,6 +1006,13 @@ worth $2 million, and the company's trajectory is </description>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>This Year We Can End the Death Penalty in California</title>
+      <link>https://paulgraham.com/prop62.html</link>
+      <description>This Year We Can End the Death Penalty in California</description>
+      <guid isPermaLink="false">https://paulgraham.com/prop62.html</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Make Pittsburgh a Startup Hub</title>
       <link>https://paulgraham.com/pgh.html</link>
       <description>How to Make Pittsburgh a Startup Hub</description>
@@ -1748,6 +1789,51 @@ a radical departure from existing languages,
 the most important of which wasFortran.Lisp embodied nine new ideas:</description>
       <guid isPermaLink="false">https://paulgraham.com/diff.html</guid>
       <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Other Road Ahead</title>
+      <link>https://paulgraham.com/road.html</link>
+      <description>The Other Road Ahead</description>
+      <guid isPermaLink="false">https://paulgraham.com/road.html</guid>
+      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Being Popular</title>
+      <link>https://paulgraham.com/popular.html</link>
+      <description>Being Popular</description>
+      <guid isPermaLink="false">https://paulgraham.com/popular.html</guid>
+      <pubDate>Tue, 01 May 2001 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Questions about Language Design</title>
+      <link>https://paulgraham.com/langdes.html</link>
+      <description>(These are some notes I made
+for a panel discussion on programming language design
+at MIT on May 10, 2001.)1. Programming Languages Are for People.Programming languages
+are how people talk to computers.  The computer would be just as
+happy speaking any language that was unambiguous.  The reason we
+h</description>
+      <guid isPermaLink="false">https://paulgraham.com/langdes.html</guid>
+      <pubDate>Tue, 01 May 2001 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Roots of Lisp</title>
+      <link>https://paulgraham.com/rootsoflisp.html</link>
+      <description>(I wrote this article to help myself understand exactly
+what McCarthy discovered.  You don't need to know this stuff
+to program in Lisp, but it should be helpful to 
+anyone who wants to
+understand the essence of Lisp — both in the sense of its
+origins and its semantic core.  The fact that it has suc</description>
+      <guid isPermaLink="false">https://paulgraham.com/rootsoflisp.html</guid>
+      <pubDate>Tue, 01 May 2001 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java's Cover</title>
+      <link>https://paulgraham.com/javacover.html</link>
+      <description>Java's Cover</description>
+      <guid isPermaLink="false">https://paulgraham.com/javacover.html</guid>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1319,6 +1319,60 @@
       "title": "What Made Lisp Different",
       "description": "(This article came about in response to some questions on\ntheLL1mailing list.  It is now\nincorporated inRevenge of the Nerds.)When McCarthy designed Lisp in the late 1950s, it was\na radical departure from existing languages,\nthe most important of which wasFortran.Lisp embodied nine new ideas:",
       "date": "2001-12-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/road.html",
+      "title": "The Other Road Ahead",
+      "description": "",
+      "date": "2001-09-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/rootsoflisp.html",
+      "title": "The Roots of Lisp",
+      "description": "(I wrote this article to help myself understand exactly\nwhat McCarthy discovered.  You don't need to know this stuff\nto program in Lisp, but it should be helpful to \nanyone who wants to\nunderstand the essence of Lisp — both in the sense of its\norigins and its semantic core.  The fact that it has suc",
+      "date": "2001-05-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/langdes.html",
+      "title": "Five Questions about Language Design",
+      "description": "(These are some notes I made\nfor a panel discussion on programming language design\nat MIT on May 10, 2001.)1. Programming Languages Are for People.Programming languages\nare how people talk to computers.  The computer would be just as\nhappy speaking any language that was unambiguous.  The reason we\nh",
+      "date": "2001-05-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/popular.html",
+      "title": "Being Popular",
+      "description": "",
+      "date": "2001-05-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/javacover.html",
+      "title": "Java's Cover",
+      "description": "",
+      "date": "2001-04-01T00:00:00+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/avg.html",
+      "title": "Beating the Averages",
+      "description": "April 2001, rev. April 2003(This article is derived from a talk given at the 2001 Franz\nDeveloper Symposium.)In the summer of 1995, my friend Robert Morris and I\nstarted a startup calledViaweb.  \nOur plan was to write\nsoftware that would let end users build online stores.\nWhat was novel about this s",
+      "date": "2026-04-14T12:32:30.727478+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/lwba.html",
+      "title": "Lisp for Web-Based Applications",
+      "description": "After a link toBeating the Averageswas posted on slashdot, \nsome readers wanted to hear in more detail \nabout the specific technical advantages we got from using\nLisp in Viaweb.  For those who are interested,\nhere are some excerpts from a talk I gave in April 2001 at\nBBN Labs in Cambridge, MA.",
+      "date": "2026-04-14T12:32:31.395206+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/progbot.html",
+      "title": "Programming Bottom-Up",
+      "description": "(This essay is from the introduction toOn Lisp.)It's a long-standing principle of programming style that the functional\nelements of a program should not be too large.  If some component of a\nprogram grows beyond the stage where it's readily comprehensible,\nit becomes a mass of complexity which conce",
+      "date": "2026-04-14T12:32:31.984391+00:00"
+    },
+    {
+      "url": "https://paulgraham.com/prop62.html",
+      "title": "This Year We Can End the Death Penalty in California",
+      "description": "",
+      "date": "2016-11-01T00:00:00+00:00"
     }
   ]
 }
