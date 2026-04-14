@@ -7,7 +7,61 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 18:34:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 00:52:32 +0000</lastBuildDate>
+    <item>
+      <title>How to Start a Startup</title>
+      <link>https://paulgraham.com/start.html</link>
+      <description>March 2005(This essay is derived from a talk at the Harvard Computer
+Society.)You need three things to create a successful startup: to start with
+good people, to make something customers actually want, and to spend
+as little money as possible.  Most startups that fail do it because
+they fail at one </description>
+      <guid isPermaLink="false">https://paulgraham.com/start.html</guid>
+      <pubDate>Tue, 14 Apr 2026 00:52:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Undergraduation</title>
+      <link>https://paulgraham.com/college.html</link>
+      <description>March 2005(Parts of this essay began as replies to students who wrote to
+me with questions.)Recently I've had several emails from computer science
+undergrads asking what to do in college. I might not
+be the best source of advice, because I was a philosophy major in
+college.  But I took so many CS cl</description>
+      <guid isPermaLink="false">https://paulgraham.com/college.html</guid>
+      <pubDate>Tue, 14 Apr 2026 00:52:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Smart People Have Bad Ideas</title>
+      <link>https://paulgraham.com/bronze.html</link>
+      <description>April 2005This summer, as an 
+experiment, some 
+friends and I are givingseed
+fundingto a bunch of new startups.  It's an experiment because
+we're prepared to fund younger founders than most investors would.
+That's why we're doing it during the summer—so even college
+students can participate.We know </description>
+      <guid isPermaLink="false">https://paulgraham.com/bronze.html</guid>
+      <pubDate>Tue, 14 Apr 2026 00:52:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hiring is Obsolete</title>
+      <link>https://paulgraham.com/hiring.html</link>
+      <description>May 2005(This essay is derived from a talk at the Berkeley CSUA.)The three big powers on the Internet now are Yahoo, Google, and
+Microsoft.  Average age of their founders: 24.  So it is pretty
+well established now that grad students can start successful
+companies.  And if grad students can do it, wh</description>
+      <guid isPermaLink="false">https://paulgraham.com/hiring.html</guid>
+      <pubDate>Tue, 14 Apr 2026 00:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ideas for Startups</title>
+      <link>https://paulgraham.com/ideas.html</link>
+      <description>October 2005(This essay is derived from a talk at the 2005Startup School.)How do you get good ideas forstartups?  That's probably the number
+one question people ask me.I'd like to reply with another question: why do people think it's
+hard to come up with ideas for startups?That might seem a stupid t</description>
+      <guid isPermaLink="false">https://paulgraham.com/ideas.html</guid>
+      <pubDate>Tue, 14 Apr 2026 00:52:17 +0000</pubDate>
+    </item>
     <item>
       <title>How to Fund a Startup</title>
       <link>https://paulgraham.com/startupfunding.html</link>
@@ -1426,6 +1480,111 @@ what now seems a comically famil</description>
       <description>The Venture Capital Squeeze</description>
       <guid isPermaLink="false">https://paulgraham.com/vcsqueeze.html</guid>
       <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What I Did this Summer</title>
+      <link>https://paulgraham.com/sfp.html</link>
+      <description>What I Did this Summer</description>
+      <guid isPermaLink="false">https://paulgraham.com/sfp.html</guid>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Business Can Learn from Open Source</title>
+      <link>https://paulgraham.com/opensource.html</link>
+      <description>What Business Can Learn from Open Source</description>
+      <guid isPermaLink="false">https://paulgraham.com/opensource.html</guid>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>After the Ladder</title>
+      <link>https://paulgraham.com/ladder.html</link>
+      <description>After the Ladder</description>
+      <guid isPermaLink="false">https://paulgraham.com/ladder.html</guid>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inequality and Risk</title>
+      <link>https://paulgraham.com/inequality.html</link>
+      <description>Inequality and Risk</description>
+      <guid isPermaLink="false">https://paulgraham.com/inequality.html</guid>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Submarine</title>
+      <link>https://paulgraham.com/submarine.html</link>
+      <description>The Submarine</description>
+      <guid isPermaLink="false">https://paulgraham.com/submarine.html</guid>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Unified Theory of VC Suckage</title>
+      <link>https://paulgraham.com/venturecapital.html</link>
+      <description>A Unified Theory of VC Suckage</description>
+      <guid isPermaLink="false">https://paulgraham.com/venturecapital.html</guid>
+      <pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Writing,  Briefly</title>
+      <link>https://paulgraham.com/writing44.html</link>
+      <description>Writing,  Briefly</description>
+      <guid isPermaLink="false">https://paulgraham.com/writing44.html</guid>
+      <pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Return of the Mac</title>
+      <link>https://paulgraham.com/mac.html</link>
+      <description>Return of the Mac</description>
+      <guid isPermaLink="false">https://paulgraham.com/mac.html</guid>
+      <pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What You'll Wish You'd Known</title>
+      <link>https://paulgraham.com/hs.html</link>
+      <description>What You'll Wish You'd Known</description>
+      <guid isPermaLink="false">https://paulgraham.com/hs.html</guid>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bradley's Ghost</title>
+      <link>https://paulgraham.com/polls.html</link>
+      <description>Bradley's Ghost</description>
+      <guid isPermaLink="false">https://paulgraham.com/polls.html</guid>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's Charisma, Stupid</title>
+      <link>https://paulgraham.com/charisma.html</link>
+      <description>It's Charisma, Stupid</description>
+      <guid isPermaLink="false">https://paulgraham.com/charisma.html</guid>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Made in USA</title>
+      <link>https://paulgraham.com/usa.html</link>
+      <description>Made in USA</description>
+      <guid isPermaLink="false">https://paulgraham.com/usa.html</guid>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Version 1.0</title>
+      <link>https://paulgraham.com/laundry.html</link>
+      <description>A Version 1.0</description>
+      <guid isPermaLink="false">https://paulgraham.com/laundry.html</guid>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Age of the Essay</title>
+      <link>https://paulgraham.com/essay.html</link>
+      <description>The Age of the Essay</description>
+      <guid isPermaLink="false">https://paulgraham.com/essay.html</guid>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What the Bubble Got Right</title>
+      <link>https://paulgraham.com/bubble.html</link>
+      <description>What the Bubble Got Right</description>
+      <guid isPermaLink="false">https://paulgraham.com/bubble.html</guid>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
