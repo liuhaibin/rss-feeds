@@ -531,6 +531,13 @@
       "date_str": "Apr 10, 2026",
       "description": "We share our initial set of recommendations to shore up your defenses based on our own findings and security practices.",
       "date": "2026-04-10T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/introducing-routines-in-claude-code",
+      "title": "Introducing routines in Claude Code",
+      "date_str": "Apr 14, 2026",
+      "description": "Define repeatable routines that work your backlog, review your PRs, and respond to events in the cloud.",
+      "date": "2026-04-14T00:00:00+00:00"
     }
   ]
 }
