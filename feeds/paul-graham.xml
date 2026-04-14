@@ -7,7 +7,68 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 00:52:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:47:50 +0000</lastBuildDate>
+    <item>
+      <title>Why Arc Isn't Especially Object-Oriented</title>
+      <link>https://paulgraham.com/noop.html</link>
+      <description>There is a kind of mania for object-oriented programming at the moment, butsome of thesmartest programmersI know are some of the least excited about it.My own feeling is that object-oriented
+programming is a useful technique in some
+cases, but it isn't something that has to pervade every program you</description>
+      <guid isPermaLink="false">https://paulgraham.com/noop.html</guid>
+      <pubDate>Tue, 14 Apr 2026 06:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Languages Fix</title>
+      <link>https://paulgraham.com/fix.html</link>
+      <description>Kevin Kelleher suggested an interesting way to compare programming
+languages: to describe each in terms of the problem it
+fixes.  The surprising thing is how many, and how well, languages can be
+described this way.</description>
+      <guid isPermaLink="false">https://paulgraham.com/fix.html</guid>
+      <pubDate>Tue, 14 Apr 2026 06:47:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revenge of the Nerds</title>
+      <link>https://paulgraham.com/icad.html</link>
+      <description>Revenge of the Nerds</description>
+      <guid isPermaLink="false">https://paulgraham.com/icad.html</guid>
+      <pubDate>Tue, 14 Apr 2026 06:47:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Plan for Spam</title>
+      <link>https://paulgraham.com/spam.html</link>
+      <description>August 2002(This article describes the spam-filtering techniques
+used in the spamproof web-based mail reader we
+built to exerciseArc. An
+improved algorithm is described inBetter
+Bayesian Filtering.)I think it's possible to stop spam, and that 
+content-based filters are the way to do it.
+The Achilles</description>
+      <guid isPermaLink="false">https://paulgraham.com/spam.html</guid>
+      <pubDate>Tue, 14 Apr 2026 06:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make Wealth</title>
+      <link>https://paulgraham.com/wealth.html</link>
+      <description>May 2004(This essay was originally published inHackers 
+&amp; Painters.)If you wanted to get rich, how would you do it? I think your best
+bet would be to start or join a startup.  That's been a 
+reliable way to get rich for hundreds of years.  The word "startup" 
+dates from the 1960s, but what happens i</description>
+      <guid isPermaLink="false">https://paulgraham.com/wealth.html</guid>
+      <pubDate>Tue, 14 Apr 2026 06:47:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Great Hackers</title>
+      <link>https://paulgraham.com/gh.html</link>
+      <description>July 2004(This essay is derived from a talk at Oscon 2004.)A few months ago I finished a newbook, 
+and in reviews I keep
+noticing words like "provocative'' and "controversial.'' To say
+nothing of "idiotic.''I didn't mean to make the book controversial.  I was trying to make
+it efficient.  I didn't w</description>
+      <guid isPermaLink="false">https://paulgraham.com/gh.html</guid>
+      <pubDate>Tue, 14 Apr 2026 06:47:36 +0000</pubDate>
+    </item>
     <item>
       <title>How to Start a Startup</title>
       <link>https://paulgraham.com/start.html</link>
@@ -1585,6 +1646,108 @@ what now seems a comically famil</description>
       <description>What the Bubble Got Right</description>
       <guid isPermaLink="false">https://paulgraham.com/bubble.html</guid>
       <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python Paradox</title>
+      <link>https://paulgraham.com/pypar.html</link>
+      <description>The Python Paradox</description>
+      <guid isPermaLink="false">https://paulgraham.com/pypar.html</guid>
+      <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mind the Gap</title>
+      <link>https://paulgraham.com/gap.html</link>
+      <description>Mind the Gap</description>
+      <guid isPermaLink="false">https://paulgraham.com/gap.html</guid>
+      <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Word "Hacker"</title>
+      <link>https://paulgraham.com/gba.html</link>
+      <description>The Word "Hacker"</description>
+      <guid isPermaLink="false">https://paulgraham.com/gba.html</guid>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What You Can't Say</title>
+      <link>https://paulgraham.com/say.html</link>
+      <description>What You Can't Say</description>
+      <guid isPermaLink="false">https://paulgraham.com/say.html</guid>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Filters that Fight Back</title>
+      <link>https://paulgraham.com/ffb.html</link>
+      <description>Filters that Fight Back</description>
+      <guid isPermaLink="false">https://paulgraham.com/ffb.html</guid>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>If Lisp is So Great</title>
+      <link>https://paulgraham.com/iflisp.html</link>
+      <description>If Lisp is So Great</description>
+      <guid isPermaLink="false">https://paulgraham.com/iflisp.html</guid>
+      <pubDate>Thu, 01 May 2003 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers and Painters</title>
+      <link>https://paulgraham.com/hp.html</link>
+      <description>Hackers and Painters</description>
+      <guid isPermaLink="false">https://paulgraham.com/hp.html</guid>
+      <pubDate>Thu, 01 May 2003 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hundred-Year Language</title>
+      <link>https://paulgraham.com/hundred.html</link>
+      <description>The Hundred-Year Language</description>
+      <guid isPermaLink="false">https://paulgraham.com/hundred.html</guid>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Nerds are Unpopular</title>
+      <link>https://paulgraham.com/nerds.html</link>
+      <description>Why Nerds are Unpopular</description>
+      <guid isPermaLink="false">https://paulgraham.com/nerds.html</guid>
+      <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Design and Research</title>
+      <link>https://paulgraham.com/desres.html</link>
+      <description>Design and Research</description>
+      <guid isPermaLink="false">https://paulgraham.com/desres.html</guid>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Better Bayesian Filtering</title>
+      <link>https://paulgraham.com/better.html</link>
+      <description>Better Bayesian Filtering</description>
+      <guid isPermaLink="false">https://paulgraham.com/better.html</guid>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Succinctness is Power</title>
+      <link>https://paulgraham.com/power.html</link>
+      <description>Succinctness is Power</description>
+      <guid isPermaLink="false">https://paulgraham.com/power.html</guid>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taste for Makers</title>
+      <link>https://paulgraham.com/taste.html</link>
+      <description>Taste for Makers</description>
+      <guid isPermaLink="false">https://paulgraham.com/taste.html</guid>
+      <pubDate>Fri, 01 Feb 2002 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Made Lisp Different</title>
+      <link>https://paulgraham.com/diff.html</link>
+      <description>(This article came about in response to some questions on
+theLL1mailing list.  It is now
+incorporated inRevenge of the Nerds.)When McCarthy designed Lisp in the late 1950s, it was
+a radical departure from existing languages,
+the most important of which wasFortran.Lisp embodied nine new ideas:</description>
+      <guid isPermaLink="false">https://paulgraham.com/diff.html</guid>
+      <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
