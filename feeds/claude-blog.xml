@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 18:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 00:51:54 +0000</lastBuildDate>
+    <item>
+      <title>Redesigning Claude Code on desktop for parallel agents</title>
+      <link>https://claude.com/blog/claude-code-desktop-redesign</link>
+      <description>Today, we're releasing a redesign of the Claude Code desktop app, built to help you run more Claude Code tasks at once.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-code-desktop-redesign</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing routines in Claude Code</title>
       <link>https://claude.com/blog/introducing-routines-in-claude-code</link>

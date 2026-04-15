@@ -538,6 +538,13 @@
       "date_str": "Apr 14, 2026",
       "description": "Define repeatable routines that work your backlog, review your PRs, and respond to events in the cloud.",
       "date": "2026-04-14T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-code-desktop-redesign",
+      "title": "Redesigning Claude Code on desktop for parallel agents",
+      "date_str": "Apr 14, 2026",
+      "description": "Today, we're releasing a redesign of the Claude Code desktop app, built to help you run more Claude Code tasks at once.",
+      "date": "2026-04-14T00:00:00+00:00"
     }
   ]
 }
