@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 12:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:32:56 +0000</lastBuildDate>
     <item>
       <title>Scaling Managed Agents: Decoupling the brain from the hands</title>
       <link>https://www.anthropic.com/engineering/managed-agents</link>
@@ -91,6 +91,13 @@
       <description>Learn how Claude Code's new sandboxing feature protects developers with filesystem and network isolation, reducing permission prompts and increasing user safety.</description>
       <guid isPermaLink="false">https://www.anthropic.com/engineering/claude-code-sandboxing</guid>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Equipping agents for the real world with Agent Skills</title>
+      <link>https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills</link>
+      <description>Discover how Anthropic builds AI agents with practical capabilities through modular skills, enabling them to handle complex real-world tasks more effectively and reliably.</description>
+      <guid isPermaLink="false">https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills</guid>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Effective context engineering for AI agents</title>
