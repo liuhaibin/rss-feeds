@@ -552,6 +552,13 @@
       "date_str": "Apr 15, 2026",
       "description": "Learn how to manage context in Claude Code—when to continue, rewind, compact, or clear a session, and how subagents keep parent context clean.",
       "date": "2026-04-15T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code",
+      "title": "Best practices for using Claude Opus 4.7 with Claude Code",
+      "date_str": "Apr 16, 2026",
+      "description": "Learn how to use recalibrated effort levels, adaptive thinking, and new defaults to optimize your Claude Code setup with Opus 4.7.",
+      "date": "2026-04-16T00:00:00+00:00"
     }
   ]
 }
