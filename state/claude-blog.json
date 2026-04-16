@@ -545,6 +545,13 @@
       "date_str": "Apr 14, 2026",
       "description": "Today, we're releasing a redesign of the Claude Code desktop app, built to help you run more Claude Code tasks at once.",
       "date": "2026-04-14T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/using-claude-code-session-management-and-1m-context",
+      "title": "Using Claude Code: session management and 1M context",
+      "date_str": "Apr 15, 2026",
+      "description": "Learn how to manage context in Claude Code—when to continue, rewind, compact, or clear a session, and how subagents keep parent context clean.",
+      "date": "2026-04-15T00:00:00+00:00"
     }
   ]
 }
