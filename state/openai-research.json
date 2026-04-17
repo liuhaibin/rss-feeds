@@ -1172,6 +1172,12 @@
       "title": "Weight normalization: A simple reparameterization to accelerate training of deep neural networks",
       "description": "",
       "date": "2016-02-25T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "date": "2026-04-16T01:00:00+00:00"
     }
   ]
 }
