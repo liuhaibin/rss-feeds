@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 18:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 00:49:20 +0000</lastBuildDate>
     <item>
       <title>Introducing GPT-Rosalind for life sciences research</title>
       <link>https://openai.com/index/introducing-gpt-rosalind</link>
@@ -179,17 +179,17 @@
       <pubDate>Sun, 02 Feb 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI o3-mini</title>
-      <link>https://openai.com/index/openai-o3-mini</link>
-      <description>OpenAI o3-mini</description>
-      <guid isPermaLink="false">https://openai.com/index/openai-o3-mini</guid>
-      <pubDate>Fri, 31 Jan 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenAI o3-mini System Card</title>
       <link>https://openai.com/index/o3-mini-system-card</link>
       <description>This report outlines the safety work carried out for the OpenAI o3-mini model, including safety evaluations, external red teaming, and Preparedness Framework evaluations.</description>
       <guid isPermaLink="false">https://openai.com/index/o3-mini-system-card</guid>
+      <pubDate>Fri, 31 Jan 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI o3-mini</title>
+      <link>https://openai.com/index/openai-o3-mini</link>
+      <description>OpenAI o3-mini</description>
+      <guid isPermaLink="false">https://openai.com/index/openai-o3-mini</guid>
       <pubDate>Fri, 31 Jan 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
@@ -263,25 +263,11 @@
       <pubDate>Thu, 12 Sep 2024 10:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI o1 System Card External Testers Acknowledgements</title>
-      <link>https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements</link>
-      <description>OpenAI o1 system card external testers acknowledgements</description>
-      <guid isPermaLink="false">https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements</guid>
-      <pubDate>Thu, 12 Sep 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing SWE-bench Verified</title>
       <link>https://openai.com/index/introducing-swe-bench-verified</link>
       <description>We’re releasing a human-validated subset of SWE-bench that more reliably evaluates AI models’ ability to solve real-world software issues.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-swe-bench-verified</guid>
       <pubDate>Tue, 13 Aug 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT-4o System Card External Testers Acknowledgements</title>
-      <link>https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements</link>
-      <description>GPT-4o System Card External Testers Acknowledgements</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements</guid>
-      <pubDate>Thu, 08 Aug 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Improving Model Safety Behavior with Rule-Based Rewards</title>
@@ -312,10 +298,10 @@
       <pubDate>Wed, 10 Jul 2024 06:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Holistic Approach to Undesired Content Detection in the Real World</title>
-      <link>https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world</link>
-      <description>We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.</description>
-      <guid isPermaLink="false">https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world</guid>
+      <title>Improved Techniques for Training Consistency Models</title>
+      <link>https://openai.com/index/improved-techniques-for-training-consistency-models</link>
+      <description>Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training. </description>
+      <guid isPermaLink="false">https://openai.com/index/improved-techniques-for-training-consistency-models</guid>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -326,10 +312,10 @@
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Improved Techniques for Training Consistency Models</title>
-      <link>https://openai.com/index/improved-techniques-for-training-consistency-models</link>
-      <description>Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training. </description>
-      <guid isPermaLink="false">https://openai.com/index/improved-techniques-for-training-consistency-models</guid>
+      <title>A Holistic Approach to Undesired Content Detection in the Real World</title>
+      <link>https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world</link>
+      <description>We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.</description>
+      <guid isPermaLink="false">https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world</guid>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -914,17 +900,17 @@
       <pubDate>Sat, 03 Mar 2018 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ingredients for robotics research</title>
-      <link>https://openai.com/index/ingredients-for-robotics-research</link>
-      <description>We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. We’re also releasing a set of requests for robotics research.</description>
-      <guid isPermaLink="false">https://openai.com/index/ingredients-for-robotics-research</guid>
-      <pubDate>Mon, 26 Feb 2018 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research</title>
       <link>https://openai.com/index/multi-goal-reinforcement-learning</link>
       <description>Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research</description>
       <guid isPermaLink="false">https://openai.com/index/multi-goal-reinforcement-learning</guid>
+      <pubDate>Mon, 26 Feb 2018 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ingredients for robotics research</title>
+      <link>https://openai.com/index/ingredients-for-robotics-research</link>
+      <description>We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. We’re also releasing a set of requests for robotics research.</description>
+      <guid isPermaLink="false">https://openai.com/index/ingredients-for-robotics-research</guid>
       <pubDate>Mon, 26 Feb 2018 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -991,17 +977,17 @@
       <pubDate>Thu, 19 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Asymmetric actor critic for image-based robot learning</title>
-      <link>https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</link>
-      <description>Asymmetric actor critic for image-based robot learning</description>
-      <guid isPermaLink="false">https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</guid>
-      <pubDate>Wed, 18 Oct 2017 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sim-to-real transfer of robotic control with dynamics randomization</title>
       <link>https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization</link>
       <description>Sim-to-real transfer of robotic control with dynamics randomization</description>
       <guid isPermaLink="false">https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization</guid>
+      <pubDate>Wed, 18 Oct 2017 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asymmetric actor critic for image-based robot learning</title>
+      <link>https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</link>
+      <description>Asymmetric actor critic for image-based robot learning</description>
+      <guid isPermaLink="false">https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</guid>
       <pubDate>Wed, 18 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
