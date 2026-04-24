@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 18:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 00:54:10 +0000</lastBuildDate>
+    <item>
+      <title>Built-in memory for Claude Managed Agents</title>
+      <link>https://claude.com/blog/claude-managed-agents-memory</link>
+      <description>Memory on Claude Managed Agents lets you build agents that learn from every task, user, and session, with no memory infrastructure to maintain.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-managed-agents-memory</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New connectors in Claude for everyday life</title>
       <link>https://claude.com/blog/connectors-for-everyday-life</link>

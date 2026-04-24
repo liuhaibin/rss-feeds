@@ -580,6 +580,13 @@
       "date_str": "Apr 23, 2026",
       "description": "Claude now connects to the apps you use every week, including AllTrails, Instacart, Audible, Booking.com, and TripAdvisor. Ask, and Claude brings in the right app.",
       "date": "2026-04-23T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-managed-agents-memory",
+      "title": "Built-in memory for Claude Managed Agents",
+      "date_str": "Apr 23, 2026",
+      "description": "Memory on Claude Managed Agents lets you build agents that learn from every task, user, and session, with no memory infrastructure to maintain.",
+      "date": "2026-04-23T00:00:00+00:00"
     }
   ]
 }
