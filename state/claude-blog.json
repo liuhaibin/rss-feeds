@@ -587,6 +587,13 @@
       "date_str": "Apr 23, 2026",
       "description": "Memory on Claude Managed Agents lets you build agents that learn from every task, user, and session, with no memory infrastructure to maintain.",
       "date": "2026-04-23T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
+      "title": "Onboarding Claude Code like a new developer: Lessons from 17 years of development",
+      "date_str": "Apr 28, 2026",
+      "description": "The methodology that onboards new developers to MacCoss Lab's 700,000-line codebase works on Claude Code, too. Here's how Brendan MacLean, a Claude Developer Ambassador whose lab is part of our Claude for Open Source program, did it.",
+      "date": "2026-04-28T00:00:00+00:00"
     }
   ]
 }

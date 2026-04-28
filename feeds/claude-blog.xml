@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 18:40:50 +0000</lastBuildDate>
+    <item>
+      <title>Onboarding Claude Code like a new developer: Lessons from 17 years of development</title>
+      <link>https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development</link>
+      <description>The methodology that onboards new developers to MacCoss Lab's 700,000-line codebase works on Claude Code, too. Here's how Brendan MacLean, a Claude Developer Ambassador whose lab is part of our Claude for Open Source program, did it.</description>
+      <guid isPermaLink="false">https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Built-in memory for Claude Managed Agents</title>
       <link>https://claude.com/blog/claude-managed-agents-memory</link>
