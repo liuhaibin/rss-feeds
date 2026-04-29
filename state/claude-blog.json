@@ -594,6 +594,27 @@
       "date_str": "Apr 28, 2026",
       "description": "The methodology that onboards new developers to MacCoss Lab's 700,000-line codebase works on Claude Code, too. Here's how Brendan MacLean, a Claude Developer Ambassador whose lab is part of our Claude for Open Source program, did it.",
       "date": "2026-04-28T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork",
+      "title": "Deploying Claude across the enterprise with Claude Cowork",
+      "date_str": "Apr 29, 2026",
+      "description": "Learn how organizations use Claude Cowork to transform their day-to-day work, including use cases and best practices from Anthropic’s own teams.",
+      "date": "2026-04-29T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-api-skill",
+      "title": "Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp",
+      "date_str": "Apr 29, 2026",
+      "description": "Today, CodeRabbit, JetBrains, Resolve AI, and Warp are bundling the claude-api skill, giving developers production-ready Claude API code wherever they build. First introduced in Claude Code in March, the skill is now in more of the tools developers already use.",
+      "date": "2026-04-29T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/product-development-in-the-agentic-era",
+      "title": "Product development in the agentic era",
+      "date_str": "Apr 29, 2026",
+      "description": "Jess Yan, Claude Managed Agents product manager, shares how she uses the product to unblock herself and free up time to hone her craft.",
+      "date": "2026-04-29T00:00:00+00:00"
     }
   ]
 }
