@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 12:43:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 18:38:48 +0000</lastBuildDate>
+    <item>
+      <title>Lessons from building Claude Code: Prompt caching is everything</title>
+      <link>https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything</link>
+      <description>Best practices for optimizing prompt caching in Claude Code, including how to most effectively structure your prompt, use tools, and layer on compaction.</description>
+      <guid isPermaLink="false">https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Security is now in public beta</title>
+      <link>https://claude.com/blog/claude-security-public-beta</link>
+      <description>Scan code for vulnerabilities and generate proposed fixes with Opus 4.7, on the Claude Platform, or through technology and services partners building with Claude.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-security-public-beta</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Product development in the agentic era</title>
       <link>https://claude.com/blog/product-development-in-the-agentic-era</link>

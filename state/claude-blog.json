@@ -615,6 +615,20 @@
       "date_str": "Apr 29, 2026",
       "description": "Jess Yan, Claude Managed Agents product manager, shares how she uses the product to unblock herself and free up time to hone her craft.",
       "date": "2026-04-29T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-security-public-beta",
+      "title": "Claude Security is now in public beta",
+      "date_str": "Apr 30, 2026",
+      "description": "Scan code for vulnerabilities and generate proposed fixes with Opus 4.7, on the Claude Platform, or through technology and services partners building with Claude.",
+      "date": "2026-04-30T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything",
+      "title": "Lessons from building Claude Code: Prompt caching is everything",
+      "date_str": "Apr 30, 2026",
+      "description": "Best practices for optimizing prompt caching in Claude Code, including how to most effectively structure your prompt, use tools, and layer on compaction.",
+      "date": "2026-04-30T00:00:00+00:00"
     }
   ]
 }
