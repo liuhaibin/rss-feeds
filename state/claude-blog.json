@@ -643,6 +643,13 @@
       "date_str": "Apr 30, 2026",
       "description": "Inside a platform that indexes 26M+ SEC filings, earnings call transcripts, IR presentations, consensus estimates, and private data across 14,000+ companies and 27 global markets, and how the team behind it built AI that validates every number to the exact filing, page, and line item.",
       "date": "2026-04-30T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks",
+      "title": "How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks",
+      "date_str": "May 1, 2026",
+      "description": "Kostiantyn Vlasenko had never written a line of code when he set out to build Respiro. Just over a month later, his product was live on the App Store.",
+      "date": "2026-05-01T00:00:00+00:00"
     }
   ]
 }
