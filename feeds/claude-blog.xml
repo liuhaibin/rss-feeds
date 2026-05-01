@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 18:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 01:01:46 +0000</lastBuildDate>
+    <item>
+      <title>How Kepler built verifiable AI for financial services with Claude</title>
+      <link>https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude</link>
+      <description>Inside a platform that indexes 26M+ SEC filings, earnings call transcripts, IR presentations, consensus estimates, and private data across 14,000+ companies and 27 global markets, and how the team behind it built AI that validates every number to the exact filing, page, and line item.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building AI agents for the enterprise</title>
+      <link>https://claude.com/blog/building-ai-agents-for-the-enterprise</link>
+      <description>In this guide, we share how leading organizations are using agents to transform their work today, and how Claude Cowork brings these capabilities to every team.</description>
+      <guid isPermaLink="false">https://claude.com/blog/building-ai-agents-for-the-enterprise</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lessons from building Claude Code: Prompt caching is everything</title>
       <link>https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything</link>

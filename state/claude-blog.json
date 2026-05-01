@@ -629,6 +629,20 @@
       "date_str": "Apr 30, 2026",
       "description": "Best practices for optimizing prompt caching in Claude Code, including how to most effectively structure your prompt, use tools, and layer on compaction.",
       "date": "2026-04-30T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/building-ai-agents-for-the-enterprise",
+      "title": "Building AI agents for the enterprise",
+      "date_str": "Apr 30, 2026",
+      "description": "In this guide, we share how leading organizations are using agents to transform their work today, and how Claude Cowork brings these capabilities to every team.",
+      "date": "2026-04-30T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+      "title": "How Kepler built verifiable AI for financial services with Claude",
+      "date_str": "Apr 30, 2026",
+      "description": "Inside a platform that indexes 26M+ SEC filings, earnings call transcripts, IR presentations, consensus estimates, and private data across 14,000+ companies and 27 global markets, and how the team behind it built AI that validates every number to the exact filing, page, and line item.",
+      "date": "2026-04-30T00:00:00+00:00"
     }
   ]
 }
