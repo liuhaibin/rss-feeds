@@ -657,6 +657,13 @@
       "date_str": "May 5, 2026",
       "description": "In this guide, we share how financial services firms are using Claude to compress their most time-consuming work, including customer examples and a practical adoption roadmap.",
       "date": "2026-05-05T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/new-in-claude-managed-agents",
+      "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+      "date_str": "May 6, 2026",
+      "description": "Dreaming, outcomes, and multiagent orchestration are now available in Claude Managed Agents. Build agents that learn, meet a quality bar, and work in parallel.",
+      "date": "2026-05-06T00:00:00+00:00"
     }
   ]
 }
