@@ -664,6 +664,13 @@
       "date_str": "May 6, 2026",
       "description": "Dreaming, outcomes, and multiagent orchestration are now available in Claude Managed Agents. Build agents that learn, meet a quality bar, and work in parallel.",
       "date": "2026-05-06T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
+      "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
+      "date_str": "May 7, 2026",
+      "description": "Claude for Excel, PowerPoint, and Word are generally available, and Claude for Outlook is now in public beta for all paid plans.",
+      "date": "2026-05-07T00:00:00+00:00"
     }
   ]
 }
