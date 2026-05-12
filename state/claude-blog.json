@@ -678,6 +678,13 @@
       "date_str": "May 11, 2026",
       "description": "The Claude Platform on AWS is now generally available, offering a new way for AWS customers to access the full set of Claude platform features with AWS authentication, billing, and commitment retirement.",
       "date": "2026-05-11T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/agent-view-in-claude-code",
+      "title": "Agent view in Claude Code",
+      "date_str": "May 11, 2026",
+      "description": "Today we're introducing agent view in Claude Code: one place to manage all your Claude Code sessions.",
+      "date": "2026-05-11T00:00:00+00:00"
     }
   ]
 }
