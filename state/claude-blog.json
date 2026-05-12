@@ -685,6 +685,27 @@
       "date_str": "May 11, 2026",
       "description": "Today we're introducing agent view in Claude Code: one place to manage all your Claude Code sessions.",
       "date": "2026-05-11T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/code-w-claude-sf-2026-sf",
+      "title": "Code w/ Claude SF 2026: Building on the AI exponential",
+      "date_str": "May 12, 2026",
+      "description": "Check out our Code w/ Claude SF sessions on YouTube.",
+      "date": "2026-05-12T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-for-the-legal-industry",
+      "title": "Claude for the legal industry",
+      "date_str": "May 12, 2026",
+      "description": "We're releasing 20+ new MCP connectors that link Claude to the software that the legal industry runs on and 12 new plugins tailored specific legal work and practice areas.",
+      "date": "2026-05-12T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
+      "title": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+      "date_str": "May 12, 2026",
+      "description": "Jackie Bow, technical lead for Anthropic's Detection Platform Engineering team, shares how her team uses Claude Code to build tools that automate alert triage, accelerate investigations, and transform how security analysts work.",
+      "date": "2026-05-12T00:00:00+00:00"
     }
   ]
 }
