@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 12:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:47:14 +0000</lastBuildDate>
     <item>
       <title>How Anthropic's cybersecurity team built a threat detection platform with Claude Code</title>
       <link>https://claude.com/blog/how-anthropic-uses-claude-cybersecurity</link>
