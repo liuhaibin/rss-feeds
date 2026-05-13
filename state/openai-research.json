@@ -1184,6 +1184,12 @@
       "title": "Introducing OpenAI Privacy Filter",
       "description": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
       "date": "2026-04-22T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "date": "2026-05-12T00:00:00+00:00"
     }
   ]
 }
