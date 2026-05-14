@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 12:48:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:45:11 +0000</lastBuildDate>
+    <item>
+      <title>How Claude Code works in large codebases: Best practices and where to start</title>
+      <link>https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</link>
+      <description>The most successful Claude Code deployments share a set of recognizable patterns across configurations, tooling, and org structure. This article is part of Claude Code at scale, a new series covering best practices for engineering organizations building with Claude Code at enterprise scale.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The founder's playbook: Building an AI-native startup</title>
+      <link>https://claude.com/blog/the-founders-playbook</link>
+      <description>We share how AI-native founders are using Claude at every stage of the startup journey, with practical exercises, frameworks, and prompts.</description>
+      <guid isPermaLink="false">https://claude.com/blog/the-founders-playbook</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Best practices for computer and browser use with Claude</title>
       <link>https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</link>
