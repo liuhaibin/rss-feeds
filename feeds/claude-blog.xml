@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 18:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 01:02:07 +0000</lastBuildDate>
+    <item>
+      <title>Best practices for computer and browser use with Claude</title>
+      <link>https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</link>
+      <description>Practical guidance for developers building computer and browser use integrations with the Claude model family.</description>
+      <guid isPermaLink="false">https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How Anthropic's cybersecurity team built a threat detection platform with Claude Code</title>
       <link>https://claude.com/blog/how-anthropic-uses-claude-cybersecurity</link>
