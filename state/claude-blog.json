@@ -727,6 +727,13 @@
       "date_str": "May 14, 2026",
       "description": "The most successful Claude Code deployments share a set of recognizable patterns across configurations, tooling, and org structure. This article is part of Claude Code at scale, a new series covering best practices for engineering organizations building with Claude Code at enterprise scale.",
       "date": "2026-05-14T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
+      "title": "Deploying Claude across the legal industry",
+      "date_str": "May 15, 2026",
+      "description": "A practical guide to using Claude for legal professionals, covering Claude products, connectors, practice-area plugins, and a three-phase adoption roadmap.",
+      "date": "2026-05-15T00:00:00+00:00"
     }
   ]
 }
