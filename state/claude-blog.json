@@ -741,6 +741,13 @@
       "date_str": "May 19, 2026",
       "description": "Claude Managed Agents can now operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers",
       "date": "2026-05-19T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "date_str": "May 20, 2026",
+      "description": "How and why members of the Claude Code team use HTML instead of Markdown to produce richer, more readable, and easily shareable outputs.",
+      "date": "2026-05-20T00:00:00+00:00"
     }
   ]
 }

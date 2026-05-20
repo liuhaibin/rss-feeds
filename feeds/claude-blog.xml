@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 18:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:06:06 +0000</lastBuildDate>
+    <item>
+      <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
+      <link>https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html</link>
+      <description>How and why members of the Claude Code team use HTML instead of Markdown to produce richer, more readable, and easily shareable outputs.</description>
+      <guid isPermaLink="false">https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels</title>
       <link>https://claude.com/blog/claude-managed-agents-updates</link>
