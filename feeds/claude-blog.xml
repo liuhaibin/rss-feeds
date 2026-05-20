@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 13:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:56:38 +0000</lastBuildDate>
+    <item>
+      <title>How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book</title>
+      <link>https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book</link>
+      <description>Travis Bryant, Head of US Mid-Market GTM at Anthropic, shares how he uses Claude Cowork to prepare customer briefs and weekly forecasts, and to run an overnight territory scoring that used to take cross-functional teams hundreds of hours.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
       <link>https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html</link>

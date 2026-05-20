@@ -748,6 +748,13 @@
       "date_str": "May 20, 2026",
       "description": "How and why members of the Claude Code team use HTML instead of Markdown to produce richer, more readable, and easily shareable outputs.",
       "date": "2026-05-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+      "title": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+      "date_str": "May 20, 2026",
+      "description": "Travis Bryant, Head of US Mid-Market GTM at Anthropic, shares how he uses Claude Cowork to prepare customer briefs and weekly forecasts, and to run an overnight territory scoring that used to take cross-functional teams hundreds of hours.",
+      "date": "2026-05-20T00:00:00+00:00"
     }
   ]
 }
