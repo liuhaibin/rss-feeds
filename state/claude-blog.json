@@ -755,6 +755,20 @@
       "date_str": "May 20, 2026",
       "description": "Travis Bryant, Head of US Mid-Market GTM at Anthropic, shares how he uses Claude Cowork to prepare customer briefs and weekly forecasts, and to run an overnight territory scoring that used to take cross-functional teams hundreds of hours.",
       "date": "2026-05-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/compliance-api-security-partners",
+      "title": "Claude now works with more security and compliance tools",
+      "date_str": "May 21, 2026",
+      "description": "Today we're introducing integrations with notable security and compliance tools. Now IT and security teams can govern Claude across our platform and suite of products, the same way they govern other applications in their stack.",
+      "date": "2026-05-21T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+      "title": "How our partners are putting Opus to work for cybersecurity",
+      "date_str": "May 21, 2026",
+      "description": "Learn how companies like Wiz, Palo Alto Networks, and Accenture are using Claude Opus to find and fix vulnerabilities faster and deploy AI defense at scale.",
+      "date": "2026-05-21T00:00:00+00:00"
     }
   ]
 }

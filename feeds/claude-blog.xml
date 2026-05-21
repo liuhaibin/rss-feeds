@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 13:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 18:46:16 +0000</lastBuildDate>
+    <item>
+      <title>How our partners are putting Opus to work for cybersecurity</title>
+      <link>https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity</link>
+      <description>Learn how companies like Wiz, Palo Alto Networks, and Accenture are using Claude Opus to find and fix vulnerabilities faster and deploy AI defense at scale.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude now works with more security and compliance tools</title>
+      <link>https://claude.com/blog/compliance-api-security-partners</link>
+      <description>Today we're introducing integrations with notable security and compliance tools. Now IT and security teams can govern Claude across our platform and suite of products, the same way they govern other applications in their stack.</description>
+      <guid isPermaLink="false">https://claude.com/blog/compliance-api-security-partners</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book</title>
       <link>https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book</link>
