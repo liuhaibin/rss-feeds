@@ -769,6 +769,13 @@
       "date_str": "May 21, 2026",
       "description": "Learn how companies like Wiz, Palo Alto Networks, and Accenture are using Claude Opus to find and fix vulnerabilities faster and deploy AI defense at scale.",
       "date": "2026-05-21T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
+      "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+      "date_str": "May 22, 2026",
+      "description": "Alice Fong, on the corporate finance and strategy team at Anthropic, shares how she uses Claude to maintain a single coherent financial narrative for the CFO and board, and free up 10 to 20 hours a week for higher-impact work.",
+      "date": "2026-05-22T00:00:00+00:00"
     }
   ]
 }
