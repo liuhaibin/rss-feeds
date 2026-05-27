@@ -783,6 +783,20 @@
       "date_str": "May 26, 2026",
       "description": "Couldn't make it to London? Check out our Code w/ Claude London event recap and watch our session recordings.",
       "date": "2026-05-26T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
+      "title": "How CodeRabbit Used Claude to Build an Agent Orchestration System",
+      "date_str": "May 27, 2026",
+      "description": "CodeRabbit built a layer on Claude that sits between a coding request and a coding agent, producing a structured coding plan the team can review before any code gets generated.",
+      "date": "2026-05-27T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/zero-trust-for-ai-agents",
+      "title": "Zero Trust for AI agents",
+      "date_str": "May 27, 2026",
+      "description": "A Zero Trust framework for deploying autonomous AI agents in the enterprise, covering current threats, a tiered architecture, an eight-phase implementation workflow, and agentic SOAR.",
+      "date": "2026-05-27T00:00:00+00:00"
     }
   ]
 }
