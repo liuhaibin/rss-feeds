@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 18:56:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 00:59:22 +0000</lastBuildDate>
+    <item>
+      <title>Using LLMs to secure source code</title>
+      <link>https://claude.com/blog/using-llms-to-secure-source-code</link>
+      <description>We share best practices for how you can work with Claude Opus to build a threat model, discover vulnerabilities in your codebase, then verify, triage, and patch them.</description>
+      <guid isPermaLink="false">https://claude.com/blog/using-llms-to-secure-source-code</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zero Trust for AI agents</title>
       <link>https://claude.com/blog/zero-trust-for-ai-agents</link>

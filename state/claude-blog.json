@@ -797,6 +797,13 @@
       "date_str": "May 27, 2026",
       "description": "A Zero Trust framework for deploying autonomous AI agents in the enterprise, covering current threats, a tiered architecture, an eight-phase implementation workflow, and agentic SOAR.",
       "date": "2026-05-27T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/using-llms-to-secure-source-code",
+      "title": "Using LLMs to secure source code",
+      "date_str": "May 27, 2026",
+      "description": "We share best practices for how you can work with Claude Opus to build a threat model, discover vulnerabilities in your codebase, then verify, triage, and patch them.",
+      "date": "2026-05-27T00:00:00+00:00"
     }
   ]
 }
