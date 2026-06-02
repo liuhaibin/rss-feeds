@@ -811,6 +811,13 @@
       "date_str": "May 28, 2026",
       "description": "Dynamic workflows in Claude Code let Claude tackle the most challenging tasks by executing across 10s to 100s of parallel subagents, and checking its work before anything reaches you.",
       "date": "2026-05-28T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
+      "title": "Running an AI-native engineering org",
+      "date_str": "Jun 3, 2026",
+      "description": "How the Claude Code engineering team’s processes and structure changed once agentic coding became the default way of working.",
+      "date": "2026-06-03T00:00:00+00:00"
     }
   ]
 }
