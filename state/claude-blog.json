@@ -825,6 +825,27 @@
       "date_str": "Jun 2, 2026",
       "description": "Claude Code can now write and orchestrate its own multi-agent harness on the fly. Here's how dynamic workflows work, and the patterns that get the most out of them.",
       "date": "2026-06-02T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+      "title": "How Anthropic enables self-service data analytics with Claude",
+      "date_str": "Jun 3, 2026",
+      "description": "Tips and approaches to maximizing Claude’s ability to drive self-serve data insights",
+      "date": "2026-06-03T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
+      "title": "Lessons from building Claude Code: How we use skills",
+      "date_str": "Jun 3, 2026",
+      "description": "What we learned building and scaling hundreds of skills internally at Anthropic.",
+      "date": "2026-06-03T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork",
+      "title": "Best practices for getting started with Claude Cowork",
+      "date_str": "Jun 3, 2026",
+      "description": "When to use Claude Cowork instead of Claude Code or chat, how to decide what workflows to delegate, and concrete steps to get started.",
+      "date": "2026-06-03T00:00:00+00:00"
     }
   ]
 }
