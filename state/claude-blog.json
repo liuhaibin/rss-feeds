@@ -818,6 +818,13 @@
       "date_str": "Jun 3, 2026",
       "description": "How the Claude Code engineering team’s processes and structure changed once agentic coding became the default way of working.",
       "date": "2026-06-03T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code",
+      "title": "A harness for every task: dynamic workflows in Claude Code",
+      "date_str": "Jun 2, 2026",
+      "description": "Claude Code can now write and orchestrate its own multi-agent harness on the fly. Here's how dynamic workflows work, and the patterns that get the most out of them.",
+      "date": "2026-06-02T00:00:00+00:00"
     }
   ]
 }
