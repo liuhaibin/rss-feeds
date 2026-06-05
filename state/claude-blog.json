@@ -846,6 +846,13 @@
       "date_str": "Jun 3, 2026",
       "description": "When to use Claude Cowork instead of Claude Code or chat, how to decide what workflows to delegate, and concrete steps to get started.",
       "date": "2026-06-03T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
+      "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "date_str": "Jun 5, 2026",
+      "description": "How one Anthropic account executive turned GTM product manager used Claude Code to save 10-15 hours per week on email and pre-call research.",
+      "date": "2026-06-05T00:00:00+00:00"
     }
   ]
 }
