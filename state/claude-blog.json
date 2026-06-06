@@ -853,6 +853,13 @@
       "date_str": "Jun 5, 2026",
       "description": "How one Anthropic account executive turned GTM product manager used Claude Code to save 10-15 hours per week on email and pre-call research.",
       "date": "2026-06-05T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/the-claude-cowork-product-guide",
+      "title": "The Claude Cowork product guide",
+      "date_str": "Jun 5, 2026",
+      "description": "We share how to get started with Claude Cowork, from setting up the tool to kicking off your first task.",
+      "date": "2026-06-05T00:00:00+00:00"
     }
   ]
 }
