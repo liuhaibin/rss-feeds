@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 01:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 07:58:28 +0000</lastBuildDate>
     <item>
       <title>Dreaming: Better memory for a more helpful ChatGPT</title>
       <link>https://openai.com/index/chatgpt-memory-dreaming</link>
@@ -564,17 +564,17 @@
       <pubDate>Mon, 25 Jan 2021 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CLIP: Connecting text and images</title>
-      <link>https://openai.com/index/clip</link>
-      <description>We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3.</description>
-      <guid isPermaLink="false">https://openai.com/index/clip</guid>
-      <pubDate>Tue, 05 Jan 2021 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>DALL·E: Creating images from text</title>
       <link>https://openai.com/index/dall-e</link>
       <description>We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.</description>
       <guid isPermaLink="false">https://openai.com/index/dall-e</guid>
+      <pubDate>Tue, 05 Jan 2021 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLIP: Connecting text and images</title>
+      <link>https://openai.com/index/clip</link>
+      <description>We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3.</description>
+      <guid isPermaLink="false">https://openai.com/index/clip</guid>
       <pubDate>Tue, 05 Jan 2021 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -928,17 +928,17 @@
       <pubDate>Sat, 03 Mar 2018 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ingredients for robotics research</title>
-      <link>https://openai.com/index/ingredients-for-robotics-research</link>
-      <description>We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. We’re also releasing a set of requests for robotics research.</description>
-      <guid isPermaLink="false">https://openai.com/index/ingredients-for-robotics-research</guid>
-      <pubDate>Mon, 26 Feb 2018 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research</title>
       <link>https://openai.com/index/multi-goal-reinforcement-learning</link>
       <description>Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research</description>
       <guid isPermaLink="false">https://openai.com/index/multi-goal-reinforcement-learning</guid>
+      <pubDate>Mon, 26 Feb 2018 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ingredients for robotics research</title>
+      <link>https://openai.com/index/ingredients-for-robotics-research</link>
+      <description>We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. We’re also releasing a set of requests for robotics research.</description>
+      <guid isPermaLink="false">https://openai.com/index/ingredients-for-robotics-research</guid>
       <pubDate>Mon, 26 Feb 2018 08:00:00 +0000</pubDate>
     </item>
     <item>
