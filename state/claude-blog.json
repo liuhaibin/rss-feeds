@@ -860,6 +860,13 @@
       "date_str": "Jun 5, 2026",
       "description": "We share how to get started with Claude Cowork, from setting up the tool to kicking off your first task.",
       "date": "2026-06-05T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/observability-for-developers-building-connectors",
+      "title": "Observability for developers building connectors",
+      "date_str": "Jun 8, 2026",
+      "description": "Monitor connector performance across Claude, diagnose errors and latency, and submit your MCP server to the directory in-app. Public beta now live.",
+      "date": "2026-06-08T00:00:00+00:00"
     }
   ]
 }
