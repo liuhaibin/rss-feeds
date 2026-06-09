@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 18:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 01:03:46 +0000</lastBuildDate>
+    <item>
+      <title>Building intelligent apps for Apple platforms with Claude in the Foundation Models framework</title>
+      <link>https://claude.com/blog/claude-for-foundation-models</link>
+      <description>A new Swift package connects Apple's Foundation Models framework to Claude. Hand off complex reasoning from on-device models with typed Swift outputs.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-for-foundation-models</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Observability for developers building connectors</title>
       <link>https://claude.com/blog/observability-for-developers-building-connectors</link>
