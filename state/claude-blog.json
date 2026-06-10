@@ -881,6 +881,13 @@
       "date_str": "Jun 9, 2026",
       "description": "Claude Managed Agents can now run on a schedule and securely access CLI tools and other authenticated services.",
       "date": "2026-06-09T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/building-with-claude-managed-agents",
+      "title": "The evolution of agentic surfaces: building with Claude Managed Agents",
+      "date_str": "Jun 10, 2026",
+      "description": "Claude Managed Agents allows teams to build and deploy agents in production environments reliably at scale. Here’s why and how teams are using it.",
+      "date": "2026-06-10T00:00:00+00:00"
     }
   ]
 }
