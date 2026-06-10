@@ -874,6 +874,13 @@
       "date_str": "Jun 8, 2026",
       "description": "A new Swift package connects Apple's Foundation Models framework to Claude. Hand off complex reasoning from on-device models with typed Swift outputs.",
       "date": "2026-06-08T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/whats-new-in-claude-managed-agents",
+      "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+      "date_str": "Jun 9, 2026",
+      "description": "Claude Managed Agents can now run on a schedule and securely access CLI tools and other authenticated services.",
+      "date": "2026-06-09T00:00:00+00:00"
     }
   ]
 }
