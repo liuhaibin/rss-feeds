@@ -888,6 +888,13 @@
       "date_str": "Jun 10, 2026",
       "description": "Claude Managed Agents allows teams to build and deploy agents in production environments reliably at scale. Here’s why and how teams are using it.",
       "date": "2026-06-10T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon",
+      "title": "Meet the winners of Built with Opus 4.7 Claude Code hackathon",
+      "date_str": "Jun 15, 2026",
+      "description": "we chatted with the winners of our Built with Opus 4.7 hackathon about their projects, tackling medical training, electronics repair, computer science education, interactive play, home repair, and factory maintenance.",
+      "date": "2026-06-15T00:00:00+00:00"
     }
   ]
 }
