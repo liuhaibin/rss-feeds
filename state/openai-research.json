@@ -1208,6 +1208,12 @@
       "title": "Predicting model behavior before release by simulating deployment",
       "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "date": "2026-06-16T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "date": "2026-06-17T10:00:00+00:00"
     }
   ]
 }
