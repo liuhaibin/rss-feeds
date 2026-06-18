@@ -895,6 +895,27 @@
       "date_str": "Jun 15, 2026",
       "description": "we chatted with the winners of our Built with Opus 4.7 hackathon about their projects, tackling medical training, electronics repair, computer science education, interactive play, home repair, and factory maintenance.",
       "date": "2026-06-15T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon",
+      "title": "Meet the winners of our Claude Opus 4.8 Build Day hackathon",
+      "date_str": "Jun 17, 2026",
+      "description": "From reconstructing Tang Dynasty architecture to polling a synthetic San Francisco, see what the winners of our latest hackathon built with Claude Opus 4.8 in a day.",
+      "date": "2026-06-17T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+      "title": "Claude Design now stays on brand for daily work",
+      "date_str": "Jun 17, 2026",
+      "description": "Claude Design now sticks to your design system across projects, works fluidly with Claude Code, lets you edit directly on the canvas, and connects to more tools you already use. It has a new home in the sidebar on the Claude desktop app; you can also find it at claude.ai/design.",
+      "date": "2026-06-17T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/workload-identity-federation",
+      "title": "Secure access to the Claude Platform with Workload Identity Federation",
+      "date_str": "Jun 17, 2026",
+      "description": "WIF replaces static API keys with short-lived, scoped credentials issued at request time. WIF is compatible with any OIDC-compliant identity provider and covers all Claude API endpoints",
+      "date": "2026-06-17T00:00:00+00:00"
     }
   ]
 }
