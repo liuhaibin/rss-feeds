@@ -1214,6 +1214,12 @@
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "date": "2026-06-17T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "title": "Introducing LifeSciBench",
+      "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "date": "2026-06-17T00:00:00+00:00"
     }
   ]
 }
