@@ -916,6 +916,27 @@
       "date_str": "Jun 17, 2026",
       "description": "WIF replaces static API keys with short-lived, scoped credentials issued at request time. WIF is compatible with any OIDC-compliant identity provider and covers all Claude API endpoints",
       "date": "2026-06-17T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+      "title": "Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more",
+      "date_str": "Jun 18, 2026",
+      "description": "Learn about the seven methods for instructing Claude's behavior to understand the context cost and authority of each.",
+      "date": "2026-06-18T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/enterprise-managed-auth",
+      "title": "Centrally manage authorization for MCP connectors",
+      "date_str": "Jun 18, 2026",
+      "description": "Admins can now provision MCP connectors for their whole organization through their identity provider, starting with Okta. Users get connector access automatically on first login, with authorization configured centrally by their organization.",
+      "date": "2026-06-18T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "title": "Claude Code now supports artifacts",
+      "date_str": "Jun 18, 2026",
+      "description": "Preview your in-progress work in Claude Code as a live, interactive artifact—built from your full session context and shareable with your team.",
+      "date": "2026-06-18T00:00:00+00:00"
     }
   ]
 }

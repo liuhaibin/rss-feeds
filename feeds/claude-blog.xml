@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 13:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:56:39 +0000</lastBuildDate>
+    <item>
+      <title>Claude Code now supports artifacts</title>
+      <link>https://claude.com/blog/artifacts-in-claude-code</link>
+      <description>Preview your in-progress work in Claude Code as a live, interactive artifact—built from your full session context and shareable with your team.</description>
+      <guid isPermaLink="false">https://claude.com/blog/artifacts-in-claude-code</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Centrally manage authorization for MCP connectors</title>
+      <link>https://claude.com/blog/enterprise-managed-auth</link>
+      <description>Admins can now provision MCP connectors for their whole organization through their identity provider, starting with Okta. Users get connector access automatically on first login, with authorization configured centrally by their organization.</description>
+      <guid isPermaLink="false">https://claude.com/blog/enterprise-managed-auth</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more</title>
+      <link>https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more</link>
+      <description>Learn about the seven methods for instructing Claude's behavior to understand the context cost and authority of each.</description>
+      <guid isPermaLink="false">https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Secure access to the Claude Platform with Workload Identity Federation</title>
       <link>https://claude.com/blog/workload-identity-federation</link>
