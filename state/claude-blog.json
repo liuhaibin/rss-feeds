@@ -937,6 +937,13 @@
       "date_str": "Jun 18, 2026",
       "description": "Preview your in-progress work in Claude Code as a live, interactive artifact—built from your full session context and shareable with your team.",
       "date": "2026-06-18T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
+      "title": "The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry",
+      "date_str": "Jun 22, 2026",
+      "description": "Deploy the full Claude desktop experience - chat, Claude Cowork, and Claude Code - using inference on AWS, Google Cloud and Microsoft Foundry. Available today in beta.",
+      "date": "2026-06-22T00:00:00+00:00"
     }
   ]
 }
