@@ -951,6 +951,13 @@
       "date_str": "Jun 24, 2026",
       "description": "How Claude Tag’s agent identity access model works, and best practices for configuring it in your team’s workspace.",
       "date": "2026-06-24T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/building-effective-human-agent-teams",
+      "title": "Building effective human-agent teams",
+      "date_str": "Jun 24, 2026",
+      "description": "The way we work with AI is evolving from a single-player to a multiplayer experience, where humans and agents work together as a team to achieve shared goals. We share examples of this new way of working in action.",
+      "date": "2026-06-24T00:00:00+00:00"
     }
   ]
 }
