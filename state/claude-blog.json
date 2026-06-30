@@ -965,6 +965,13 @@
       "date_str": "Jun 29, 2026",
       "description": "Starting today, Claude models are generally available in Microsoft Foundry, hosted on Azure.",
       "date": "2026-06-29T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+      "date_str": "Jun 29, 2026",
+      "description": "Connect Claude Code to Amazon Bedrock and Google Cloud with the new Claude apps gateway: corporate SSO login, centrally enforced policy, role-based access, per-user cost attribution, and spend caps—all from one stateless container on your infrastructure.",
+      "date": "2026-06-29T00:00:00+00:00"
     }
   ]
 }
