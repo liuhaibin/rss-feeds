@@ -972,6 +972,13 @@
       "date_str": "Jun 29, 2026",
       "description": "Connect Claude Code to Amazon Bedrock and Google Cloud with the new Claude apps gateway: corporate SSO login, centrally enforced policy, role-based access, per-user cost attribution, and spend caps—all from one stateless container on your infrastructure.",
       "date": "2026-06-29T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/getting-started-with-loops",
+      "title": "Getting started with loops",
+      "date_str": "Jun 30, 2026",
+      "description": "Practical guidance on progressing from turn-based to goal-based, time-based, and proactive loops.",
+      "date": "2026-06-30T00:00:00+00:00"
     }
   ]
 }
