@@ -986,6 +986,13 @@
       "date_str": "Jul 2, 2026",
       "description": "Richer admin analytics, model-level entitlements, and spend alerts for Claude Enterprise so admins can track adoption, manage cost, and set guardrails that fit their org.",
       "date": "2026-07-02T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+      "title": "A Field Guide to Claude Fable: Finding Your Unknowns",
+      "date_str": "Jul 6, 2026",
+      "description": "Practical patterns for agentic coding with Claude Fable: how to find your unknowns before, during, and after implementation, from the team at Anthropic.",
+      "date": "2026-07-06T00:00:00+00:00"
     }
   ]
 }
