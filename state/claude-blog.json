@@ -993,6 +993,34 @@
       "date_str": "Jul 6, 2026",
       "description": "Practical patterns for agentic coding with Claude Fable: how to find your unknowns before, during, and after implementation, from the team at Anthropic.",
       "date": "2026-07-06T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government",
+      "title": "Bringing Claude Code and Claude Cowork to government",
+      "date_str": "Jul 7, 2026",
+      "description": "Claude Code and Claude Cowork are now available in public beta in Claude for Government Desktop",
+      "date": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
+      "title": "Choosing a Claude model and effort level in Claude Code",
+      "date_str": "Jul 7, 2026",
+      "description": "Claude Code has two settings that shape results: which Claude model you use and the effort level. Learn what each one actually controls and how to choose.",
+      "date": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/cowork-web-mobile",
+      "title": "Claude Cowork is coming to mobile and web",
+      "date_str": "Jul 7, 2026",
+      "description": "Claude Cowork is rolling out to web and mobile. Hand Claude a task, close the laptop, and the work keeps going, while every decision still comes to you.",
+      "date": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
+      "title": "How people are using Claude Cowork",
+      "date_str": "Jul 7, 2026",
+      "description": "How are knowledge workers using AI? Anthropic's analysis of Claude Cowork sessions reveals the everyday tasks people delegate most—and what it means.",
+      "date": "2026-07-07T00:00:00+00:00"
     }
   ]
 }
