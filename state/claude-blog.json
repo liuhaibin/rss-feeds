@@ -1021,6 +1021,20 @@
       "date_str": "Jul 7, 2026",
       "description": "How are knowledge workers using AI? Anthropic's analysis of Claude Cowork sessions reveals the everyday tasks people delegate most—and what it means.",
       "date": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work",
+      "title": "Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work",
+      "date_str": "Jul 8, 2026",
+      "description": "Why the team at Thomson Reuters considers Claude Fable 5 a critical evolution in what’s possible with AI for knowledge work.‍",
+      "date": "2026-07-08T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
+      "title": "How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds",
+      "date_str": "Jul 8, 2026",
+      "description": "How the marketing operations team at Anthropic uses Claude Cowork to automate marketing reporting and marketing campaign builds.",
+      "date": "2026-07-08T00:00:00+00:00"
     }
   ]
 }
