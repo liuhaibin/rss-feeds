@@ -1226,6 +1226,12 @@
       "title": "Introducing GeneBench-Pro",
       "description": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "date": "2026-06-30T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "Separating signal from noise in coding evaluations",
+      "description": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "date": "2026-07-08T13:00:00+00:00"
     }
   ]
 }
