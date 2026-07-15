@@ -1049,6 +1049,13 @@
       "date_str": "Jul 13, 2026",
       "description": "How Anthropic's Claude Fable 5 beat Hebbia's finance-specific model evaluations, achieving their biggest accuracy gain yet.",
       "date": "2026-07-13T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
+      "title": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
+      "date_str": "Jul 15, 2026",
+      "description": "Why Base44 trusts Anthropic's Claude Fable 5 with its most complex product and engineering tasks.",
+      "date": "2026-07-15T00:00:00+00:00"
     }
   ]
 }
