@@ -1056,6 +1056,20 @@
       "date_str": "Jul 15, 2026",
       "description": "Why Base44 trusts Anthropic's Claude Fable 5 with its most complex product and engineering tasks.",
       "date": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/ai-code-migration",
+      "title": "How Anthropic runs large-scale code migrations with Claude Code",
+      "date_str": "Jul 16, 2026",
+      "description": "A step-by-step guide to running large code migrations with AI agents — including Bun's million-line Zig-to-Rust port.",
+      "date": "2026-07-16T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
+      "title": "Working with Claude Fable 5 in Claude Cowork",
+      "date_str": "Jul 16, 2026",
+      "description": "Anthropic's Claude Fable 5 model can carry long, complex work on its own. Here’s how to get the most out of it in Claude Cowork, starting with as little as an idea and getting to finished work.",
+      "date": "2026-07-16T00:00:00+00:00"
     }
   ]
 }
