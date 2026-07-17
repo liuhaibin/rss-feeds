@@ -1070,6 +1070,20 @@
       "date_str": "Jul 16, 2026",
       "description": "Anthropic's Claude Fable 5 model can carry long, complex work on its own. Here’s how to get the most out of it in Claude Cowork, starting with as little as an idea and getting to finished work.",
       "date": "2026-07-16T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "title": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "date_str": "Jul 17, 2026",
+      "description": "How Anthropic's Claude Fable 5 beat CursorBench and expanded what's possible for Cursor and agentic coding.",
+      "date": "2026-07-17T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/ciso-guide-to-agentic-ai",
+      "title": "Zero risk isn't the job: a CISO's guide to agentic AI",
+      "date_str": "Jul 17, 2026",
+      "description": "Anthropic's Deputy CISO shares a four-question framework for assessing agentic AI risk, and walks through controls that keep agent deployments bounded and auditable.",
+      "date": "2026-07-17T00:00:00+00:00"
     }
   ]
 }
