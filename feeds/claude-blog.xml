@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 18:42:45 +0000</lastBuildDate>
+    <item>
+      <title>Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5</title>
+      <link>https://claude.com/blog/working-at-the-frontier-rakuten</link>
+      <description>Why Rakuten thinks Claude Fable 5 is a step change in model intelligence, transforming how long-running work is done.</description>
+      <guid isPermaLink="false">https://claude.com/blog/working-at-the-frontier-rakuten</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zero risk isn't the job: a CISO's guide to agentic AI</title>
       <link>https://claude.com/blog/ciso-guide-to-agentic-ai</link>
