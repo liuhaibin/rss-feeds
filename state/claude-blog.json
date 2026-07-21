@@ -1091,6 +1091,20 @@
       "date_str": "Jul 20, 2026",
       "description": "Why Rakuten thinks Claude Fable 5 is a step change in model intelligence, transforming how long-running work is done.",
       "date": "2026-07-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+      "title": "How Anthropic secures its AI-native software development lifecycle",
+      "date_str": "Jul 21, 2026",
+      "description": "Anthropic Deputy CISO, Jason Clinton, details how the Security Engineering team secures a SDLC that has AI authoring 80% of merged code.",
+      "date": "2026-07-21T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
+      "title": "How Datadog built a “universal machine tool” for Claude Code",
+      "date_str": "Jul 21, 2026",
+      "description": "Datadog has an agent write specifications for a deterministic kernel to write application code",
+      "date": "2026-07-21T00:00:00+00:00"
     }
   ]
 }
