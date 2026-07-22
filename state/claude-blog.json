@@ -1105,6 +1105,20 @@
       "date_str": "Jul 21, 2026",
       "description": "Datadog has an agent write specifications for a deterministic kernel to write application code",
       "date": "2026-07-21T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
+      "title": "Building verification loops in Claude Code with skills",
+      "date_str": "Jul 22, 2026",
+      "description": "How to turn your manual checks into skills, so Claude closes its own feedback loop.",
+      "date": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
+      "title": "How Outtake built a cyber investigator on Claude",
+      "date_str": "Jul 22, 2026",
+      "description": "How Outtake ensures multi-hour agent sessions stay on track to uncover attack network operations",
+      "date": "2026-07-22T00:00:00+00:00"
     }
   ]
 }
