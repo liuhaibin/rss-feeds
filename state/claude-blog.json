@@ -1133,6 +1133,27 @@
       "date_str": "Jul 23, 2026",
       "description": "We're expanding the Claude Certification Program with three new role-based certifications that span the full team a customer needs to deploy AI.",
       "date": "2026-07-23T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
+      "title": "How the product designer who built Claude Design uses it to explore ideas before building them",
+      "date_str": "Jul 24, 2026",
+      "description": "Nate Parrott, a product designer at Anthropic, shares how he uses Claude Design (in beta) to explore, iterate on, and share visual ideas early, from product prototypes to slide decks and animations.",
+      "date": "2026-07-24T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "date_str": "Jul 24, 2026",
+      "description": "We removed over 80% of Claude Code's system prompt for more advanced models. How to apply the lessons we learned to your own context engineering in Claude Code and with your own agents.",
+      "date": "2026-07-24T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
+      "title": "Claude models explained: choosing the best model for your use case",
+      "date_str": "Jul 24, 2026",
+      "description": "How to choose the right Claude model for your workload: compare model classes, weigh cost per task vs. cost per token, and build evals that settle it.",
+      "date": "2026-07-24T00:00:00+00:00"
     }
   ]
 }
