@@ -1119,6 +1119,13 @@
       "date_str": "Jul 22, 2026",
       "description": "How Outtake ensures multi-hour agent sessions stay on track to uncover attack network operations",
       "date": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "title": "Think through hard problems in voice mode",
+      "date_str": "Jul 23, 2026",
+      "description": "Starting today, voice mode runs on Anthropic's Claude Opus, Claude Sonnet, and Claude Haiku, reaches the tools you’ve connected, and speaks many more languages.",
+      "date": "2026-07-23T00:00:00+00:00"
     }
   ]
 }
