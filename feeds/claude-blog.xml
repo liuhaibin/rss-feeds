@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 06:59:05 +0000</lastBuildDate>
+    <item>
+      <title>Four role-based certifications for the people who put Claude to work for customers</title>
+      <link>https://claude.com/blog/four-role-based-claude-certifications</link>
+      <description>We're expanding the Claude Certification Program with three new role-based certifications that span the full team a customer needs to deploy AI.</description>
+      <guid isPermaLink="false">https://claude.com/blog/four-role-based-claude-certifications</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Think through hard problems in voice mode</title>
       <link>https://claude.com/blog/think-through-hard-problems-in-voice-mode</link>
