@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 06:54:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 12:27:20 +0000</lastBuildDate>
     <item>
       <title>Separating signal from noise in coding evaluations</title>
       <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations</link>
@@ -300,7 +300,7 @@
     <item>
       <title>Evaluating fairness in ChatGPT</title>
       <link>https://openai.com/index/evaluating-fairness-in-chatgpt</link>
-      <description>We've analyzed how ChatGPT responds to users based on their name, using AI research assistants to protect privacy.</description>
+      <description>We’ve analyzed how ChatGPT responds to users based on their name, using AI research assistants to protect privacy.</description>
       <guid isPermaLink="false">https://openai.com/index/evaluating-fairness-in-chatgpt</guid>
       <pubDate>Tue, 15 Oct 2024 10:00:00 +0000</pubDate>
     </item>
@@ -335,7 +335,7 @@
     <item>
       <title>Improving Model Safety Behavior with Rule-Based Rewards</title>
       <link>https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards</link>
-      <description>We've developed and applied a new method leveraging Rule-Based Rewards (RBRs) that aligns models to behave safely without extensive human data collection.</description>
+      <description>We’ve developed and applied a new method leveraging Rule-Based Rewards (RBRs) that aligns models to behave safely without extensive human data collection.</description>
       <guid isPermaLink="false">https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards</guid>
       <pubDate>Wed, 24 Jul 2024 09:00:00 +0000</pubDate>
     </item>
@@ -361,13 +361,6 @@
       <pubDate>Wed, 10 Jul 2024 06:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Improved Techniques for Training Consistency Models</title>
-      <link>https://openai.com/index/improved-techniques-for-training-consistency-models</link>
-      <description>Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training. </description>
-      <guid isPermaLink="false">https://openai.com/index/improved-techniques-for-training-consistency-models</guid>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Consistency Models</title>
       <link>https://openai.com/index/consistency-models</link>
       <description>Diffusion models have significantly advanced the fields of image, audio, and video generation, but they depend on an iterative sampling process that causes slow generation.</description>
@@ -379,6 +372,13 @@
       <link>https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world</link>
       <description>We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.</description>
       <guid isPermaLink="false">https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world</guid>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved Techniques for Training Consistency Models</title>
+      <link>https://openai.com/index/improved-techniques-for-training-consistency-models</link>
+      <description>Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training. </description>
+      <guid isPermaLink="false">https://openai.com/index/improved-techniques-for-training-consistency-models</guid>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -426,7 +426,7 @@
     <item>
       <title>Improving mathematical reasoning with process supervision</title>
       <link>https://openai.com/index/improving-mathematical-reasoning-with-process-supervision</link>
-      <description>We've trained a model to achieve a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”). In addition to boosting performance relative to outcome supervision, process supervision also has an important alignment benefit: it directly trains the model to produce a chain-of-thought that is endorsed by humans.</description>
+      <description>We’ve trained a model to achieve a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”). In addition to boosting performance relative to outcome supervision, process supervision also has an important alignment benefit: it directly trains the model to produce a chain-of-thought that is endorsed by humans.</description>
       <guid isPermaLink="false">https://openai.com/index/improving-mathematical-reasoning-with-process-supervision</guid>
       <pubDate>Wed, 31 May 2023 07:00:00 +0000</pubDate>
     </item>
@@ -599,17 +599,17 @@
       <pubDate>Mon, 25 Jan 2021 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DALL·E: Creating images from text</title>
-      <link>https://openai.com/index/dall-e</link>
-      <description>We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.</description>
-      <guid isPermaLink="false">https://openai.com/index/dall-e</guid>
-      <pubDate>Tue, 05 Jan 2021 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CLIP: Connecting text and images</title>
       <link>https://openai.com/index/clip</link>
       <description>We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3.</description>
       <guid isPermaLink="false">https://openai.com/index/clip</guid>
+      <pubDate>Tue, 05 Jan 2021 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DALL·E: Creating images from text</title>
+      <link>https://openai.com/index/dall-e</link>
+      <description>We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.</description>
+      <guid isPermaLink="false">https://openai.com/index/dall-e</guid>
       <pubDate>Tue, 05 Jan 2021 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1040,17 +1040,17 @@
       <pubDate>Thu, 19 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Asymmetric actor critic for image-based robot learning</title>
-      <link>https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</link>
-      <description>Asymmetric actor critic for image-based robot learning</description>
-      <guid isPermaLink="false">https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</guid>
-      <pubDate>Wed, 18 Oct 2017 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sim-to-real transfer of robotic control with dynamics randomization</title>
       <link>https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization</link>
       <description>Sim-to-real transfer of robotic control with dynamics randomization</description>
       <guid isPermaLink="false">https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization</guid>
+      <pubDate>Wed, 18 Oct 2017 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asymmetric actor critic for image-based robot learning</title>
+      <link>https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</link>
+      <description>Asymmetric actor critic for image-based robot learning</description>
+      <guid isPermaLink="false">https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</guid>
       <pubDate>Wed, 18 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1061,17 +1061,17 @@
       <pubDate>Tue, 17 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Competitive self-play</title>
-      <link>https://openai.com/index/competitive-self-play</link>
-      <description>We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in mind. Self-play ensures that the environment is always the right difficulty for an AI to improve. Taken alongside our Dota 2 self-play results, we have increasing confidence that self-play will be a core part of powerful AI systems in the future.</description>
-      <guid isPermaLink="false">https://openai.com/index/competitive-self-play</guid>
-      <pubDate>Wed, 11 Oct 2017 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Meta-learning for wrestling</title>
       <link>https://openai.com/index/meta-learning-for-wrestling</link>
       <description>We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.</description>
       <guid isPermaLink="false">https://openai.com/index/meta-learning-for-wrestling</guid>
+      <pubDate>Wed, 11 Oct 2017 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Competitive self-play</title>
+      <link>https://openai.com/index/competitive-self-play</link>
+      <description>We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in mind. Self-play ensures that the environment is always the right difficulty for an AI to improve. Taken alongside our Dota 2 self-play results, we have increasing confidence that self-play will be a core part of powerful AI systems in the future.</description>
+      <guid isPermaLink="false">https://openai.com/index/competitive-self-play</guid>
       <pubDate>Wed, 11 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
