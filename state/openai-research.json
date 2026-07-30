@@ -1232,6 +1232,12 @@
       "title": "Separating signal from noise in coding evaluations",
       "description": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
       "date": "2026-07-08T13:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "date": "2026-07-29T15:00:00+00:00"
     }
   ]
 }

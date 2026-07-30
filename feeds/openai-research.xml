@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 18:26:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:42:01 +0000</lastBuildDate>
+    <item>
+      <title>How enabling two settings tripled our scores on the ARC-AGI-3 benchmark</title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
+      <description>How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.</description>
+      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Separating signal from noise in coding evaluations</title>
       <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations</link>
@@ -242,17 +249,17 @@
       <pubDate>Sun, 02 Feb 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI o3-mini System Card</title>
-      <link>https://openai.com/index/o3-mini-system-card</link>
-      <description>This report outlines the safety work carried out for the OpenAI o3-mini model, including safety evaluations, external red teaming, and Preparedness Framework evaluations.</description>
-      <guid isPermaLink="false">https://openai.com/index/o3-mini-system-card</guid>
-      <pubDate>Fri, 31 Jan 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenAI o3-mini</title>
       <link>https://openai.com/index/openai-o3-mini</link>
       <description>OpenAI o3-mini</description>
       <guid isPermaLink="false">https://openai.com/index/openai-o3-mini</guid>
+      <pubDate>Fri, 31 Jan 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI o3-mini System Card</title>
+      <link>https://openai.com/index/o3-mini-system-card</link>
+      <description>This report outlines the safety work carried out for the OpenAI o3-mini model, including safety evaluations, external red teaming, and Preparedness Framework evaluations.</description>
+      <guid isPermaLink="false">https://openai.com/index/o3-mini-system-card</guid>
       <pubDate>Fri, 31 Jan 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
@@ -599,17 +606,17 @@
       <pubDate>Mon, 25 Jan 2021 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CLIP: Connecting text and images</title>
-      <link>https://openai.com/index/clip</link>
-      <description>We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3.</description>
-      <guid isPermaLink="false">https://openai.com/index/clip</guid>
-      <pubDate>Tue, 05 Jan 2021 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>DALL·E: Creating images from text</title>
       <link>https://openai.com/index/dall-e</link>
       <description>We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.</description>
       <guid isPermaLink="false">https://openai.com/index/dall-e</guid>
+      <pubDate>Tue, 05 Jan 2021 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLIP: Connecting text and images</title>
+      <link>https://openai.com/index/clip</link>
+      <description>We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3.</description>
+      <guid isPermaLink="false">https://openai.com/index/clip</guid>
       <pubDate>Tue, 05 Jan 2021 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1061,17 +1068,17 @@
       <pubDate>Tue, 17 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meta-learning for wrestling</title>
-      <link>https://openai.com/index/meta-learning-for-wrestling</link>
-      <description>We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.</description>
-      <guid isPermaLink="false">https://openai.com/index/meta-learning-for-wrestling</guid>
-      <pubDate>Wed, 11 Oct 2017 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Competitive self-play</title>
       <link>https://openai.com/index/competitive-self-play</link>
       <description>We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in mind. Self-play ensures that the environment is always the right difficulty for an AI to improve. Taken alongside our Dota 2 self-play results, we have increasing confidence that self-play will be a core part of powerful AI systems in the future.</description>
       <guid isPermaLink="false">https://openai.com/index/competitive-self-play</guid>
+      <pubDate>Wed, 11 Oct 2017 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta-learning for wrestling</title>
+      <link>https://openai.com/index/meta-learning-for-wrestling</link>
+      <description>We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.</description>
+      <guid isPermaLink="false">https://openai.com/index/meta-learning-for-wrestling</guid>
       <pubDate>Wed, 11 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
