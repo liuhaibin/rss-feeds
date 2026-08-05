@@ -1168,6 +1168,13 @@
       "date_str": "Aug 4, 2026",
       "description": "How IT admins can see and manage Claude costs, including spend caps, model controls, usage analytics, and API features like prompt caching and batch processing.",
       "date": "2026-08-04T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-enterprise-inference-hooks",
+      "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "date_str": "Aug 5, 2026",
+      "description": "Inference hooks lets your compliance team inspect and enforce policy on every prompt and tool call response before they reach Claude — across Claude Enterprise surfaces including chat, Claude Code, Claude Cowork, and more.",
+      "date": "2026-08-05T00:00:00+00:00"
     }
   ]
 }
