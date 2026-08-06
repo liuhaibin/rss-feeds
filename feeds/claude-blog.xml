@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:22:54 +0000</lastBuildDate>
+    <item>
+      <title>Millennium and Anthropic are building a digital risk analyst with Claude</title>
+      <link>https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</link>
+      <description>Anthropic is working with Millennium to co-develop a digital risk analyst to surface new risk insights and form opinions on risk exposure across asset classes.</description>
+      <guid isPermaLink="false">https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Inference hooks: inline data loss prevention for Claude Enterprise</title>
       <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>

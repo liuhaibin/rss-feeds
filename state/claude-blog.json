@@ -1175,6 +1175,13 @@
       "date_str": "Aug 5, 2026",
       "description": "Inference hooks lets your compliance team inspect and enforce policy on every prompt and tool call response before they reach Claude — across Claude Enterprise surfaces including chat, Claude Code, Claude Cowork, and more.",
       "date": "2026-08-05T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
+      "title": "Millennium and Anthropic are building a digital risk analyst with Claude",
+      "date_str": "Aug 6, 2026",
+      "description": "Anthropic is working with Millennium to co-develop a digital risk analyst to surface new risk insights and form opinions on risk exposure across asset classes.",
+      "date": "2026-08-06T00:00:00+00:00"
     }
   ]
 }
