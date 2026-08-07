@@ -1189,6 +1189,20 @@
       "date_str": "Aug 6, 2026",
       "description": "Self-hosted environments are in public beta. Run Claude Code sessions on your own infrastructure, inside your network and next to your internal services.",
       "date": "2026-08-06T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "date_str": "Aug 7, 2026",
+      "description": "Claude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.",
+      "date": "2026-08-07T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/auto-mode-in-production",
+      "title": "Running auto mode in production",
+      "date_str": "Aug 7, 2026",
+      "description": "How customers like Nuro, Gusto, and Garner Health use auto mode to drive safer, longer running coding workflows.",
+      "date": "2026-08-07T00:00:00+00:00"
     }
   ]
 }
