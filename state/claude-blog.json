@@ -1182,6 +1182,13 @@
       "date_str": "Aug 6, 2026",
       "description": "Anthropic is working with Millennium to co-develop a digital risk analyst to surface new risk insights and form opinions on risk exposure across asset classes.",
       "date": "2026-08-06T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+      "title": "Run Claude Code sessions on your own compute",
+      "date_str": "Aug 6, 2026",
+      "description": "Self-hosted environments are in public beta. Run Claude Code sessions on your own infrastructure, inside your network and next to your internal services.",
+      "date": "2026-08-06T00:00:00+00:00"
     }
   ]
 }
