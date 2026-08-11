@@ -1203,6 +1203,13 @@
       "date_str": "Aug 7, 2026",
       "description": "How customers like Nuro, Gusto, and Garner Health use auto mode to drive safer, longer running coding workflows.",
       "date": "2026-08-07T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
+      "title": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
+      "date_str": "Aug 7, 2026",
+      "description": "A business development rep shares how his team uses Claude to research account books, draft customer replies, and handle ad-hoc data analysis requests.",
+      "date": "2026-08-07T00:00:00+00:00"
     }
   ]
 }
