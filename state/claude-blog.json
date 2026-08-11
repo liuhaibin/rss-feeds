@@ -1210,6 +1210,13 @@
       "date_str": "Aug 7, 2026",
       "description": "A business development rep shares how his team uses Claude to research account books, draft customer replies, and handle ad-hoc data analysis requests.",
       "date": "2026-08-07T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
+      "title": "Compliance API coverage extends to Claude Cowork and Claude Code",
+      "date_str": "Aug 11, 2026",
+      "description": "Claude's Compliance API now covers Cowork across the desktop app, web, and mobile, as well as Claude Code in the CLI and desktop app. Coverage is in beta for Claude Enterprise customers.",
+      "date": "2026-08-11T00:00:00+00:00"
     }
   ]
 }
