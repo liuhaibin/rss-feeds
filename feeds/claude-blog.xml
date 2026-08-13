@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:20:58 +0000</lastBuildDate>
+    <item>
+      <title>Claude Tag now reads even more of the room</title>
+      <link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
+      <description>Claude has more context to decide when to proactively collaborate in Slack (and when not to)</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Claude in Chrome side panel is now Claude Cowork</title>
       <link>https://claude.com/blog/cowork-chrome-side-panel</link>

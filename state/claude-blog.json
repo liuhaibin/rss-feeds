@@ -1224,6 +1224,13 @@
       "date_str": "Aug 12, 2026",
       "description": "The Claude in Chrome side panel is now a Claude Cowork session. Your conversations, skills, and connectors carry between the browser and the Claude apps.",
       "date": "2026-08-12T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
+      "title": "Claude Tag now reads even more of the room",
+      "date_str": "Aug 13, 2026",
+      "description": "Claude has more context to decide when to proactively collaborate in Slack (and when not to)",
+      "date": "2026-08-13T00:00:00+00:00"
     }
   ]
 }
