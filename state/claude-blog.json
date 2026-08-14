@@ -1238,6 +1238,13 @@
       "date_str": "Aug 13, 2026",
       "description": "How Anthropic's data team uses Claude Tag for self-service data analytics with the same governed definitions analysts use.",
       "date": "2026-08-13T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
+      "title": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+      "date_str": "Aug 13, 2026",
+      "description": "How JetBrains uses Claude Fable 5 and why they view safeguards and data retention as central to working with frontier models.",
+      "date": "2026-08-13T00:00:00+00:00"
     }
   ]
 }
