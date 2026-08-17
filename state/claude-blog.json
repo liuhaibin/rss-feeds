@@ -1252,6 +1252,13 @@
       "date_str": "Aug 14, 2026",
       "description": "Practical tips for how to run efficient sessions that get the most value from every token.",
       "date": "2026-08-14T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
+      "title": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
+      "date_str": "Aug 17, 2026",
+      "description": "ABC Legal transformed their organization’s AI adoption from scattered experiments to a governed fleet of specialized agents with Claude from Anthropic.",
+      "date": "2026-08-17T00:00:00+00:00"
     }
   ]
 }
