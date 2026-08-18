@@ -1259,6 +1259,13 @@
       "date_str": "Aug 17, 2026",
       "description": "ABC Legal transformed their organization’s AI adoption from scattered experiments to a governed fleet of specialized agents with Claude from Anthropic.",
       "date": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/the-claude-science-product-guide",
+      "title": "The Claude Science product guide",
+      "date_str": "Aug 18, 2026",
+      "description": "We share how to use Claude Science, including setting up common workflows, new life sciences skills, and popular database connectors.",
+      "date": "2026-08-18T00:00:00+00:00"
     }
   ]
 }
