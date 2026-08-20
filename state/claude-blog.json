@@ -1273,6 +1273,13 @@
       "date_str": "Aug 18, 2026",
       "description": "An engineer on our Continuous Integration team walks through the agent he built that powers CI incident response at Anthropic.",
       "date": "2026-08-18T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+      "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
+      "date_str": "Aug 19, 2026",
+      "description": "A conversation with Jaime DeLanghe, Chief Product Officer at Slack.",
+      "date": "2026-08-19T00:00:00+00:00"
     }
   ]
 }
