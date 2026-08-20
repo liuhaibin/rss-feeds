@@ -1280,6 +1280,27 @@
       "date_str": "Aug 19, 2026",
       "description": "A conversation with Jaime DeLanghe, Chief Product Officer at Slack.",
       "date": "2026-08-19T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "title": "Anthropic’s approach to teaching and learning AI",
+      "date_str": "Aug 20, 2026",
+      "description": "Claude Academy gives users the educational tools they need to learn how to use AI effectively. In this post, we highlight why we’re launching it and how our own approach to teaching and learning influenced its development.",
+      "date": "2026-08-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
+      "title": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
+      "date_str": "Aug 20, 2026",
+      "description": "The monday team shares lessons from the transition to an agent-first product after they rebuilt the platform around Anthropic's Claude.",
+      "date": "2026-08-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-code-guide-for-startups",
+      "title": "The Claude Code guide for startups",
+      "date_str": "Aug 20, 2026",
+      "description": "The five rules startups use with Claude Code to ship like teams 10x their size—Anthropic's guide to AI-native building, from everyone-ships culture to AI-native SDLCs.",
+      "date": "2026-08-20T00:00:00+00:00"
     }
   ]
 }
