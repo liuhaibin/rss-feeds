@@ -1308,6 +1308,20 @@
       "date_str": "Aug 20, 2026",
       "description": "Computer use, the Skills API, and the Files API are generally available on the Claude Platform today. Computer use also adds a new browser use tool for agents that work in web applications. Together they let you build agents that operate software, apply your team's expertise, and return finished files.",
       "date": "2026-08-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "date_str": "Aug 21, 2026",
+      "description": "We’re sharing an update on our efforts to help more teams leverage frontier capabilities for cyber defense.",
+      "date": "2026-08-21T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "title": "The AI-Native SDLC playbook",
+      "date_str": "Aug 21, 2026",
+      "description": "How to transform your software development lifecycle with AI—stage by stage.",
+      "date": "2026-08-21T00:00:00+00:00"
     }
   ]
 }
