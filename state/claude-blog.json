@@ -1301,6 +1301,13 @@
       "date_str": "Aug 20, 2026",
       "description": "The five rules startups use with Claude Code to ship like teams 10x their size—Anthropic's guide to AI-native building, from everyone-ships culture to AI-native SDLCs.",
       "date": "2026-08-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+      "title": "Build production agents with computer use, the Skills API, and the Files API",
+      "date_str": "Aug 20, 2026",
+      "description": "Computer use, the Skills API, and the Files API are generally available on the Claude Platform today. Computer use also adds a new browser use tool for agents that work in web applications. Together they let you build agents that operate software, apply your team's expertise, and return finished files.",
+      "date": "2026-08-20T00:00:00+00:00"
     }
   ]
 }
