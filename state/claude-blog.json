@@ -1322,6 +1322,13 @@
       "date_str": "Aug 21, 2026",
       "description": "How to transform your software development lifecycle with AI—stage by stage.",
       "date": "2026-08-21T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
+      "title": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+      "date_str": "Aug 24, 2026",
+      "description": "Adam Ward, on Anthropic’s marketing team, shares how he uses Claude to turn one weekly sales report into a personalized Monday briefing for every account executive he supports.",
+      "date": "2026-08-24T00:00:00+00:00"
     }
   ]
 }

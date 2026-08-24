@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:58:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:46:58 +0000</lastBuildDate>
+    <item>
+      <title>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</title>
+      <link>https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</link>
+      <description>Adam Ward, on Anthropic’s marketing team, shares how he uses Claude to turn one weekly sales report into a personalized Monday briefing for every account executive he supports.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The AI-Native SDLC playbook</title>
       <link>https://claude.com/blog/the-ai-native-sdlc-playbook</link>
