@@ -1329,6 +1329,20 @@
       "date_str": "Aug 24, 2026",
       "description": "Adam Ward, on Anthropic’s marketing team, shares how he uses Claude to turn one weekly sales report into a personalized Monday briefing for every account executive he supports.",
       "date": "2026-08-24T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
+      "title": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
+      "date_str": "Aug 25, 2026",
+      "description": "Anthropic and Bain & Company are partnering to help enterprises deploy AI, building on Bain's rollout of Claude to its 19,000 employees.",
+      "date": "2026-08-25T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "title": "Claude's memory works everywhere, and you decide what's in it",
+      "date_str": "Aug 25, 2026",
+      "description": "Wherever you work with Claude from Anthropic, it starts from what it already knows about you.",
+      "date": "2026-08-25T00:00:00+00:00"
     }
   ]
 }
