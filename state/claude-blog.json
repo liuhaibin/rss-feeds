@@ -1343,6 +1343,20 @@
       "date_str": "Aug 25, 2026",
       "description": "Wherever you work with Claude from Anthropic, it starts from what it already knows about you.",
       "date": "2026-08-25T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "title": "How Warp builds self-improving agents on Claude",
+      "date_str": "Aug 26, 2026",
+      "description": "How Warp devised a simple development pattern that anyone can use to create self-improving agents.",
+      "date": "2026-08-26T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "title": "Claude in Chrome is generally available",
+      "date_str": "Aug 26, 2026",
+      "description": "Claude in Chrome is now available on every paid plan and can work through browser tasks without approving each step, with a safety check on every action. Here's how we tested it against prompt injection.",
+      "date": "2026-08-26T00:00:00+00:00"
     }
   ]
 }

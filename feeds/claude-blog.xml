@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:52:07 +0000</lastBuildDate>
+    <item>
+      <title>Claude in Chrome is generally available</title>
+      <link>https://claude.com/blog/claude-in-chrome-generally-available</link>
+      <description>Claude in Chrome is now available on every paid plan and can work through browser tasks without approving each step, with a safety check on every action. Here's how we tested it against prompt injection.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-in-chrome-generally-available</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Warp builds self-improving agents on Claude</title>
+      <link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
+      <description>How Warp devised a simple development pattern that anyone can use to create self-improving agents.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Claude's memory works everywhere, and you decide what's in it</title>
       <link>https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it</link>
