@@ -1357,6 +1357,13 @@
       "date_str": "Aug 26, 2026",
       "description": "Claude in Chrome is now available on every paid plan and can work through browser tasks without approving each step, with a safety check on every action. Here's how we tested it against prompt injection.",
       "date": "2026-08-26T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/cowork-built-in-browser",
+      "title": "Claude gets its own browser in Cowork",
+      "date_str": "Aug 26, 2026",
+      "description": "Claude now has its own browser inside the Cowork desktop app. It opens sites, reads pages, and works in them while you keep working. No extension, and your own tabs and logins stay out of it.",
+      "date": "2026-08-26T00:00:00+00:00"
     }
   ]
 }
