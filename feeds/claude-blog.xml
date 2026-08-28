@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 10:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:00:02 +0000</lastBuildDate>
+    <item>
+      <title>Claude for Teachers, now available for schools and districts</title>
+      <link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
+      <description>Claude for Teachers is now available to schools and districts as a free Enterprise offering.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Claude gets its own browser in Cowork</title>
       <link>https://claude.com/blog/cowork-built-in-browser</link>

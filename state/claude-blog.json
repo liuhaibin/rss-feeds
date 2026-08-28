@@ -1364,6 +1364,13 @@
       "date_str": "Aug 26, 2026",
       "description": "Claude now has its own browser inside the Cowork desktop app. It opens sites, reads pages, and works in them while you keep working. No extension, and your own tabs and logins stay out of it.",
       "date": "2026-08-26T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
+      "title": "Claude for Teachers, now available for schools and districts",
+      "date_str": "Aug 28, 2026",
+      "description": "Claude for Teachers is now available to schools and districts as a free Enterprise offering.",
+      "date": "2026-08-28T00:00:00+00:00"
     }
   ]
 }
