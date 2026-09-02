@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:57:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:18:11 +0000</lastBuildDate>
+    <item>
+      <title>Building commerce agents with Claude</title>
+      <link>https://claude.com/blog/claude-for-commerce-agents</link>
+      <description>We're launching a blueprint to help build commerce agents on Claude. It contains the harnesses, patterns, and guardrails an engineering team needs to get a commerce agent running in days.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-for-commerce-agents</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A guide to the anatomy of effective commerce agents</title>
+      <link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
+      <description>The architecture, latency &amp; cost techniques, and eval practices for agents that make it easier to buy and sell online.</description>
+      <guid isPermaLink="false">https://claude.com/blog/the-anatomy-of-effective-commerce-agents</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How Anthropic employees use Claude Tag</title>
       <link>https://claude.com/blog/how-anthropic-employees-use-claude-tag</link>
