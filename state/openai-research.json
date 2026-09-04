@@ -1238,6 +1238,12 @@
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "date": "2026-07-29T15:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-4",
+      "title": "GPT-4",
+      "description": "It can generate, edit, and iterate with users on creative and technical writing tasks, such as composing songs, writing screenplays, or learning a user’s writing style.",
+      "date": "2023-03-14T00:00:00+00:00"
     }
   ]
 }
