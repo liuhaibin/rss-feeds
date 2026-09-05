@@ -1244,6 +1244,12 @@
       "title": "GPT-4",
       "description": "It can generate, edit, and iterate with users on creative and technical writing tasks, such as composing songs, writing screenplays, or learning a user’s writing style.",
       "date": "2023-03-14T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-astra",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "date": "2026-09-03T11:00:00+00:00"
     }
   ]
 }
