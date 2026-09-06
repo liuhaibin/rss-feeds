@@ -1250,6 +1250,12 @@
       "title": "GPT-6 Astra: A new generation of intelligence",
       "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "date": "2026-09-03T11:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "title": "Research acceleration: The view inside OpenAI",
+      "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "date": "2026-09-06T08:00:00+00:00"
     }
   ]
 }
