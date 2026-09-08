@@ -1256,6 +1256,12 @@
       "title": "Research acceleration: The view inside OpenAI",
       "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
       "date": "2026-09-06T08:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "description": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "date": "2026-09-08T10:00:00+00:00"
     }
   ]
 }
