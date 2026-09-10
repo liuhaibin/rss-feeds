@@ -1399,6 +1399,20 @@
       "date_str": "Sep 8, 2026",
       "description": "Tuning prompt caching, instructions, and effort can reduce Claude's cost without sacrificing application performance.",
       "date": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
+      "title": "T. Rowe Price brings more of Claude to its investment process",
+      "date_str": "Sep 10, 2026",
+      "description": "How T. Rowe Price is using Claude across the business, from driving fundamental research to building investment tools.",
+      "date": "2026-09-10T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
+      "title": "What 1,000 small business owners taught us about AI",
+      "date_str": "Sep 10, 2026",
+      "description": "Lina Ochman, Head of U.S. SMB at Anthropic, shares what she learned during our Claude Small Business Tour, and what’s next for the program.",
+      "date": "2026-09-10T00:00:00+00:00"
     }
   ]
 }
