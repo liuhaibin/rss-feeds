@@ -1441,6 +1441,27 @@
       "date_str": "Sep 14, 2026",
       "description": "This guide by Anthropic and Accenture shares seven considerations for taking enterprise AI from pilot to production, and the decisions leadership needs to make before the program advances.",
       "date": "2026-09-14T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/salesforce-in-claude",
+      "title": "Bringing Salesforce into Claude",
+      "date_str": "Sep 15, 2026",
+      "description": "Sellers can now research companies, prep for calls, review pipeline, and draft CRM updates with Anthropic's new Salesforce in Claude plugin.",
+      "date": "2026-09-15T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/building-an-ai-native-revenue-organization",
+      "title": "Building an AI-native revenue organization",
+      "date_str": "Sep 15, 2026",
+      "description": "In this guide, Anthropic shares how revenue leaders can roll out Claude across a sales organization, including the setup decisions, a three-phase rollout plan, and an ROI measurement framework.",
+      "date": "2026-09-15T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "title": "Claude for Small Business launches new workflows, integrations, and training programs",
+      "date_str": "Sep 15, 2026",
+      "description": "We’re releasing new Claude for Small Business workflows and integrations to help owners run and grow their business, and kicking off the next leg of our Claude SMB Tour.",
+      "date": "2026-09-15T00:00:00+00:00"
     }
   ]
 }
