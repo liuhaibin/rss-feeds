@@ -1462,6 +1462,13 @@
       "date_str": "Sep 15, 2026",
       "description": "We’re releasing new Claude for Small Business workflows and integrations to help owners run and grow their business, and kicking off the next leg of our Claude SMB Tour.",
       "date": "2026-09-15T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "title": "Claude Cowork and chat are now one Claude",
+      "date_str": "Sep 16, 2026",
+      "description": "Starting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.",
+      "date": "2026-09-16T00:00:00+00:00"
     }
   ]
 }
