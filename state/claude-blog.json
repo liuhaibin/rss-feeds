@@ -1469,6 +1469,13 @@
       "date_str": "Sep 16, 2026",
       "description": "Starting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.",
       "date": "2026-09-16T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/projects-redesigned",
+      "title": "Projects redesigned: from folder to conversation",
+      "date_str": "Sep 17, 2026",
+      "description": "A new experience for Claude projects, now available in beta in Claude Code",
+      "date": "2026-09-17T00:00:00+00:00"
     }
   ]
 }
