@@ -1262,6 +1262,12 @@
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "description": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "date": "2026-09-08T10:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "title": "Our framework for reporting model misalignment",
+      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "date": "2026-09-16T17:00:00+00:00"
     }
   ]
 }
