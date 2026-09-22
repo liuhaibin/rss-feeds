@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:04:33 +0000</lastBuildDate>
+    <item>
+      <title>What a task costs on Opus 5.5</title>
+      <link>https://claude.com/blog/what-a-task-costs-on-opus-5-5</link>
+      <description>The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.</description>
+      <guid isPermaLink="false">https://claude.com/blog/what-a-task-costs-on-opus-5-5</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5</title>
       <link>https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5</link>
