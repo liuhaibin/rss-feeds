@@ -1497,6 +1497,20 @@
       "date_str": "Sep 23, 2026",
       "description": "Agents can finish code modernizations in months, but change management still sets the pace. Six steps to define the target, certificate, and promotion policy.",
       "date": "2026-09-23T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "date_str": "Sep 23, 2026",
+      "description": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot put their Snowflake spend on their Anthropic commitment. See how companies building on Claude use budget they've already committed to pay for the tools they run on.",
+      "date": "2026-09-23T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-marketplace",
+      "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
+      "date_str": "Sep 23, 2026",
+      "description": "The Claude Marketplace brings plugins, connectors, agents, and service partners into one place. Find the tools and services to do more with Claude, or list what you've built to reach teams using Claude.",
+      "date": "2026-09-23T00:00:00+00:00"
     }
   ]
 }
