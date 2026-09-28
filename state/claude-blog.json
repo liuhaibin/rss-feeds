@@ -1532,6 +1532,13 @@
       "date_str": "Sep 25, 2026",
       "description": "Submit plugins to the Claude directory through a new directory submission portal. Package MCP connectors and Agent Skills, track your plugin through review, and see how it's used and found once it's live",
       "date": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
+      "title": "Giving companies more control over their AI agents, with NVIDIA",
+      "date_str": "Sep 28, 2026",
+      "description": "Anthropic has collaborated with NVIDIA to bring additional layers of security and control to the agent stack of its Open Agent Safety Platform.",
+      "date": "2026-09-28T00:00:00+00:00"
     }
   ]
 }
