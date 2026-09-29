@@ -1539,6 +1539,13 @@
       "date_str": "Sep 28, 2026",
       "description": "Anthropic has collaborated with NVIDIA to bring additional layers of security and control to the agent stack of its Open Agent Safety Platform.",
       "date": "2026-09-28T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
+      "date_str": "Sep 29, 2026",
+      "description": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs Claude-powered AI agents as teammates with scoped roles, shared memory, and work that everyone can see.",
+      "date": "2026-09-29T00:00:00+00:00"
     }
   ]
 }
