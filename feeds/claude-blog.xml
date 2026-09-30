@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:02:58 +0000</lastBuildDate>
+    <item>
+      <title>How Anthropic's sales team rebuilt inbound with Claude Managed Agents</title>
+      <link>https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
+      <description>How a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude for Government is now generally available</title>
+      <link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
+      <description>Claude Code CLI and Claude for Microsoft 365 also now available in early access.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-for-government-is-now-generally-available</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Agents you can coach: how Asana builds human-agent teams with Claude</title>
       <link>https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</link>

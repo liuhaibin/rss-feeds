@@ -1546,6 +1546,20 @@
       "date_str": "Sep 29, 2026",
       "description": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs Claude-powered AI agents as teammates with scoped roles, shared memory, and work that everyone can see.",
       "date": "2026-09-29T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+      "title": "Claude for Government is now generally available",
+      "date_str": "Sep 30, 2026",
+      "description": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
+      "date": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
+      "title": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
+      "date_str": "Sep 30, 2026",
+      "description": "How a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works",
+      "date": "2026-09-30T00:00:00+00:00"
     }
   ]
 }
