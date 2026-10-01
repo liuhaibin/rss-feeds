@@ -1560,6 +1560,13 @@
       "date_str": "Sep 30, 2026",
       "description": "How a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works",
       "date": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/claude-code-mods",
+      "title": "Customize Claude Code with mods",
+      "date_str": "Oct 1, 2026",
+      "description": "Mods are small TypeScript functions that change how Claude Code works. Rewrite prompts, block risky commands, add custom UI, or replace built-in features. Write one yourself or ask Claude Code to write it, then share it as a plugin.",
+      "date": "2026-10-01T00:00:00+00:00"
     }
   ]
 }

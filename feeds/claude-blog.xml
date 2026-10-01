@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:48:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:30:24 +0000</lastBuildDate>
+    <item>
+      <title>Customize Claude Code with mods</title>
+      <link>https://claude.com/blog/claude-code-mods</link>
+      <description>Mods are small TypeScript functions that change how Claude Code works. Rewrite prompts, block risky commands, add custom UI, or replace built-in features. Write one yourself or ask Claude Code to write it, then share it as a plugin.</description>
+      <guid isPermaLink="false">https://claude.com/blog/claude-code-mods</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How Anthropic's sales team rebuilt inbound with Claude Managed Agents</title>
       <link>https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
