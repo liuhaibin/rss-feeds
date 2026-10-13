@@ -174,6 +174,13 @@
       "date_str": "",
       "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "date": "2026-05-26T18:56:48.514653+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "title": "Redesigning source control at Anthropic",
+      "date_str": "2026-10-13T00:00:00.000Z",
+      "description": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "date": "2026-10-13T22:27:43.449834+00:00"
     }
   ]
 }
