@@ -1274,6 +1274,12 @@
       "title": "Sharing AI progress in mathematics",
       "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "date": "2026-10-06T12:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "date": "2026-10-15T19:00:00+00:00"
     }
   ]
 }
