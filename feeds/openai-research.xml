@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:37:12 +0000</lastBuildDate>
     <item>
       <title>Bringing GPT-Rosalind to academic research labs</title>
       <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
@@ -1096,17 +1096,17 @@
       <pubDate>Thu, 19 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sim-to-real transfer of robotic control with dynamics randomization</title>
-      <link>https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization</link>
-      <description>Sim-to-real transfer of robotic control with dynamics randomization</description>
-      <guid isPermaLink="false">https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization</guid>
-      <pubDate>Wed, 18 Oct 2017 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Asymmetric actor critic for image-based robot learning</title>
       <link>https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</link>
       <description>Asymmetric actor critic for image-based robot learning</description>
       <guid isPermaLink="false">https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning</guid>
+      <pubDate>Wed, 18 Oct 2017 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sim-to-real transfer of robotic control with dynamics randomization</title>
+      <link>https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization</link>
+      <description>Sim-to-real transfer of robotic control with dynamics randomization</description>
+      <guid isPermaLink="false">https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization</guid>
       <pubDate>Wed, 18 Oct 2017 07:00:00 +0000</pubDate>
     </item>
     <item>
