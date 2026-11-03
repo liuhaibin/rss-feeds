@@ -1292,6 +1292,12 @@
       "title": "Working with academic communities to build scientific understanding",
       "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
       "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/lifeval",
+      "title": "LifeVal",
+      "description": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "date": "2026-11-02T09:00:00+00:00"
     }
   ]
 }
