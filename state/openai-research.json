@@ -1334,6 +1334,12 @@
       "title": "Can AI help scientists identify promising drug candidates?",
       "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
       "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "date": "2026-11-22T00:00:00+00:00"
     }
   ]
 }
